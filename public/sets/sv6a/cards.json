@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "sv6a-1",
+    "number": "1",
+    "name": "Joltik",
+    "nameJP": "バチュル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-2",
+    "number": "2",
+    "name": "Galvantula",
+    "nameJP": "デンチュラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-3",
+    "number": "3",
+    "name": "Rowlet",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-4",
+    "number": "4",
+    "name": "Dartrix",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-5",
+    "number": "5",
+    "name": "Decidueye",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-6",
+    "number": "6",
+    "name": "Tapu Bulu",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-7",
+    "number": "7",
+    "name": "Houndour",
+    "nameJP": "デルビル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-8",
+    "number": "8",
+    "name": "Houndoom",
+    "nameJP": "ヘルガー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-9",
+    "number": "9",
+    "name": "Iron Moth",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-10",
+    "number": "10",
+    "name": "Horsea",
+    "nameJP": "タッツー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-11",
+    "number": "11",
+    "name": "Kingdra",
+    "nameJP": "キングドラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-12",
+    "number": "12",
+    "name": "Kingdra ex",
+    "nameJP": "キングドラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-13",
+    "number": "13",
+    "name": "Sneasel",
+    "nameJP": "ニューラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-14",
+    "number": "14",
+    "name": "Weavile",
+    "nameJP": "マニューラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-15",
+    "number": "15",
+    "name": "Revavroom ex",
+    "nameJP": "ブロロロームex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-16",
+    "number": "16",
+    "name": "Drowzee",
+    "nameJP": "スリープ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-17",
+    "number": "17",
+    "name": "Hypno",
+    "nameJP": "スリーパー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-18",
+    "number": "18",
+    "name": "Duskull",
+    "nameJP": "ヨマワル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-19",
+    "number": "19",
+    "name": "Dusclops",
+    "nameJP": "サマヨール",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-20",
+    "number": "20",
+    "name": "Dusknoir",
+    "nameJP": "ヨノワール",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-21",
+    "number": "21",
+    "name": "Cresselia",
+    "nameJP": "クレセリア",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-22",
+    "number": "22",
+    "name": "Sylveon",
+    "nameJP": "ニンフィア",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-23",
+    "number": "23",
+    "name": "Croagunk",
+    "nameJP": "グレッグル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-24",
+    "number": "24",
+    "name": "Toxicroak",
+    "nameJP": "ドクロッグ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-25",
+    "number": "25",
+    "name": "Bloodmoon Ursaluna",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-26",
+    "number": "26",
+    "name": "Slither Wing",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-27",
+    "number": "27",
+    "name": "Zubat",
+    "nameJP": "ズバット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-28",
+    "number": "28",
+    "name": "Golbat",
+    "nameJP": "ゴルバット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-29",
+    "number": "29",
+    "name": "Crobat",
+    "nameJP": "クロバット",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-30",
+    "number": "30",
+    "name": "Absol",
+    "nameJP": "アブソル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-31",
+    "number": "31",
+    "name": "Zorua",
+    "nameJP": "ゾロア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-32",
+    "number": "32",
+    "name": "Zoroark",
+    "nameJP": "ゾロアーク",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-33",
+    "number": "33",
+    "name": "Inkay",
+    "nameJP": "マーイーカ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-34",
+    "number": "34",
+    "name": "Malamar",
+    "nameJP": "カラマネロ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-35",
+    "number": "35",
+    "name": "Yveltal",
+    "nameJP": "イベルタル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-36",
+    "number": "36",
+    "name": "Okidogi ex",
+    "nameJP": "オキドギエックス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-37",
+    "number": "37",
+    "name": "Munkidori ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-38",
+    "number": "38",
+    "name": "Fezandipiti ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-39",
+    "number": "39",
+    "name": "Pecharunt ex",
+    "nameJP": "ペチャラントエックス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-40",
+    "number": "40",
+    "name": "Genesect",
+    "nameJP": "ゲノセクト",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-41",
+    "number": "41",
+    "name": "Cufant",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-42",
+    "number": "42",
+    "name": "Copperajah",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-43",
+    "number": "43",
+    "name": "Varoom",
+    "nameJP": "ブロロン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-44",
+    "number": "44",
+    "name": "Axew",
+    "nameJP": "キバゴ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-45",
+    "number": "45",
+    "name": "Fraxure",
+    "nameJP": "オノンド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-46",
+    "number": "46",
+    "name": "Haxorus",
+    "nameJP": "オノノクス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-47",
+    "number": "47",
+    "name": "Kyurem",
+    "nameJP": "キュレム",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-48",
+    "number": "48",
+    "name": "Meowth",
+    "nameJP": "ニャース",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-49",
+    "number": "49",
+    "name": "Persian",
+    "nameJP": "ペルシアン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-50",
+    "number": "50",
+    "name": "Eevee",
+    "nameJP": "イーブイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-51",
+    "number": "51",
+    "name": "Furfrou",
+    "nameJP": "トリミアン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-52",
+    "number": "52",
+    "name": "Stufful",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-53",
+    "number": "53",
+    "name": "Bewear",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-54",
+    "number": "54",
+    "name": "Dangerous Laser",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-55",
+    "number": "55",
+    "name": "Pokevital A",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-56",
+    "number": "56",
+    "name": "Nightly Stretcher",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-57",
+    "number": "57",
+    "name": "Binding Mochi",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-58",
+    "number": "58",
+    "name": "Power Hourglass",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-59",
+    "number": "59",
+    "name": "Colress's Obsession",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-60",
+    "number": "60",
+    "name": "Janine's Secret Technique",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-61",
+    "number": "61",
+    "name": "Cassiopeia",
+    "nameJP": "カシオペア",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-62",
+    "number": "62",
+    "name": "Xerosic's Scheme",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-63",
+    "number": "63",
+    "name": "Neutral Center",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-64",
+    "number": "64",
+    "name": "Night Academy",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-65",
+    "number": "65",
+    "name": "Tapu Bulu",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-66",
+    "number": "66",
+    "name": "Houndoom",
+    "nameJP": "ヘルガー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-67",
+    "number": "67",
+    "name": "Horsea",
+    "nameJP": "タッツー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-68",
+    "number": "68",
+    "name": "Duskull",
+    "nameJP": "ヨマワル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-69",
+    "number": "69",
+    "name": "Dusclops",
+    "nameJP": "サマヨール",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-70",
+    "number": "70",
+    "name": "Dusknoir",
+    "nameJP": "ヨノワール",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-71",
+    "number": "71",
+    "name": "Cresselia",
+    "nameJP": "クレセリア",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-72",
+    "number": "72",
+    "name": "Zorua",
+    "nameJP": "ゾロア",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-73",
+    "number": "73",
+    "name": "Cufant",
+    "nameJP": "キュファント",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-74",
+    "number": "74",
+    "name": "Fraxure",
+    "nameJP": "オノンド",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-75",
+    "number": "75",
+    "name": "Persian",
+    "nameJP": "ペルシアン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-76",
+    "number": "76",
+    "name": "Bewear",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-77",
+    "number": "77",
+    "name": "Kingdra ex",
+    "nameJP": "キングドラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-78",
+    "number": "78",
+    "name": "Revavroom ex",
+    "nameJP": "ブロロロームex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-79",
+    "number": "79",
+    "name": "Okidogi ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-80",
+    "number": "80",
+    "name": "Munkidori ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-81",
+    "number": "81",
+    "name": "Fezandipiti ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-82",
+    "number": "82",
+    "name": "Pecharunt ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-83",
+    "number": "83",
+    "name": "Colress's Tenacity",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-84",
+    "number": "84",
+    "name": "Janine's Secret Technique",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-85",
+    "number": "85",
+    "name": "Cassiopeia",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-86",
+    "number": "86",
+    "name": "Xerosic's Scheme",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-87",
+    "number": "87",
+    "name": "Okidogi ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-88",
+    "number": "88",
+    "name": "Munkidori ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-89",
+    "number": "89",
+    "name": "Fezandipiti ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-90",
+    "number": "90",
+    "name": "Pecharunt ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-91",
+    "number": "91",
+    "name": "Cassiopeia",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-92",
+    "number": "92",
+    "name": "Pecharunt ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-93",
+    "number": "93",
+    "name": "Earthen Vessel",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv6a-94",
+    "number": "94",
+    "name": "Power Hourglass",
+    "nameJP": "パワー砂時計",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv6a/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv6a",
+      "name": "Night Wanderer",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "m1l-1",
+    "number": "1",
+    "name": "Bulbasaur",
+    "nameJP": "フシギダネ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-2",
+    "number": "2",
+    "name": "Ivysaur",
+    "nameJP": "フシギソウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-3",
+    "number": "3",
+    "name": "Mega Venusaur ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-4",
+    "number": "4",
+    "name": "Exeggcute",
+    "nameJP": "タマタマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-5",
+    "number": "5",
+    "name": "Exeggutor",
+    "nameJP": "ナッシー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-6",
+    "number": "6",
+    "name": "Celebi",
+    "nameJP": "セレビィ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-7",
+    "number": "7",
+    "name": "Seedot",
+    "nameJP": "タネボー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-8",
+    "number": "8",
+    "name": "Nuzleaf",
+    "nameJP": "コノハナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-9",
+    "number": "9",
+    "name": "Shiftry",
+    "nameJP": "ダーテング",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-10",
+    "number": "10",
+    "name": "Vulpix",
+    "nameJP": "ロコン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-11",
+    "number": "11",
+    "name": "Ninetales",
+    "nameJP": "キュウコン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-12",
+    "number": "12",
+    "name": "Numel",
+    "nameJP": "ドンメル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-13",
+    "number": "13",
+    "name": "Mega Camerupt ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-14",
+    "number": "14",
+    "name": "Volcanion",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-15",
+    "number": "15",
+    "name": "Scorbunny",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-16",
+    "number": "16",
+    "name": "Raboot",
+    "nameJP": "ラブート",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-17",
+    "number": "17",
+    "name": "Cinderace",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-18",
+    "number": "18",
+    "name": "Corphish",
+    "nameJP": "ヘイガニ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-19",
+    "number": "19",
+    "name": "Gimmighoul",
+    "nameJP": "コレクレー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-20",
+    "number": "20",
+    "name": "Sandshrew",
+    "nameJP": "サンド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-21",
+    "number": "21",
+    "name": "Sandslash",
+    "nameJP": "サンドパン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-22",
+    "number": "22",
+    "name": "Onix",
+    "nameJP": "イワーク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-23",
+    "number": "23",
+    "name": "Tyrogue",
+    "nameJP": "バルキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-24",
+    "number": "24",
+    "name": "Makuhita",
+    "nameJP": "マクノシタ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-25",
+    "number": "25",
+    "name": "Hariyama",
+    "nameJP": "ハリテヤマ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-26",
+    "number": "26",
+    "name": "Lunatone",
+    "nameJP": "ルナトーン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-27",
+    "number": "27",
+    "name": "Solrock",
+    "nameJP": "ソルロック",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-28",
+    "number": "28",
+    "name": "Riolu",
+    "nameJP": "リオル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-29",
+    "number": "29",
+    "name": "Mega Lucario ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-30",
+    "number": "30",
+    "name": "Croagunk",
+    "nameJP": "グレッグル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-31",
+    "number": "31",
+    "name": "Toxicroak",
+    "nameJP": "ドクロッグ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-32",
+    "number": "32",
+    "name": "Marshadow",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-33",
+    "number": "33",
+    "name": "Stonjourner",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-34",
+    "number": "34",
+    "name": "Nacli",
+    "nameJP": "コジオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-35",
+    "number": "35",
+    "name": "Naclstack",
+    "nameJP": "ジオヅム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-36",
+    "number": "36",
+    "name": "Garganacl",
+    "nameJP": "キョジオーン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-37",
+    "number": "37",
+    "name": "Crawdaunt",
+    "nameJP": "シザリガー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-38",
+    "number": "38",
+    "name": "Mega Absol ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-39",
+    "number": "39",
+    "name": "Spiritomb",
+    "nameJP": "ミカルゲ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-40",
+    "number": "40",
+    "name": "Yveltal",
+    "nameJP": "イベルタル",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-41",
+    "number": "41",
+    "name": "Nickit",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-42",
+    "number": "42",
+    "name": "Thievul",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-43",
+    "number": "43",
+    "name": "Shroodle",
+    "nameJP": "シルシュルー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-44",
+    "number": "44",
+    "name": "Grafaiai",
+    "nameJP": "タギングル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-45",
+    "number": "45",
+    "name": "Steelix",
+    "nameJP": "ハガネール",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-46",
+    "number": "46",
+    "name": "Mega Mawile ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-47",
+    "number": "47",
+    "name": "Dialga",
+    "nameJP": "ディアルガ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-48",
+    "number": "48",
+    "name": "Tinkatink",
+    "nameJP": "カヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-49",
+    "number": "49",
+    "name": "Tinkatuff",
+    "nameJP": "ナカヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-50",
+    "number": "50",
+    "name": "Tinkaton",
+    "nameJP": "デカヌチャン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-51",
+    "number": "51",
+    "name": "Gholdengo",
+    "nameJP": "サーフゴー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-52",
+    "number": "52",
+    "name": "Spearow",
+    "nameJP": "オニスズメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-53",
+    "number": "53",
+    "name": "Fearow",
+    "nameJP": "オニドリル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-54",
+    "number": "54",
+    "name": "Miltank",
+    "nameJP": "ミルタンク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-55",
+    "number": "55",
+    "name": "Yungoos",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1l/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-56",
+    "number": "56",
+    "name": "Gumshoos",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-57",
+    "number": "57",
+    "name": "Iron X Defense",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-58",
+    "number": "58",
+    "name": "Premium Power Pro",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-59",
+    "number": "59",
+    "name": "Fight Gong",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-60",
+    "number": "60",
+    "name": "Repel",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-61",
+    "number": "61",
+    "name": "Lt. Surge's Deal",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-62",
+    "number": "62",
+    "name": "Lillie's Determination",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-63",
+    "number": "63",
+    "name": "Dangerous Ruins",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1l/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-64",
+    "number": "64",
+    "name": "Bulbasaur",
+    "nameJP": "フシギダネ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-65",
+    "number": "65",
+    "name": "Ivysaur",
+    "nameJP": "フシギソウ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-66",
+    "number": "66",
+    "name": "Exeggutor",
+    "nameJP": "ナッシー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-67",
+    "number": "67",
+    "name": "Vulpix",
+    "nameJP": "ロコン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-68",
+    "number": "68",
+    "name": "Riolu",
+    "nameJP": "リオル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-69",
+    "number": "69",
+    "name": "Marshadow",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-70",
+    "number": "70",
+    "name": "Garganacl",
+    "nameJP": "キョジオーン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-71",
+    "number": "71",
+    "name": "Spiritomb",
+    "nameJP": "ミカルゲ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-72",
+    "number": "72",
+    "name": "Shroodle",
+    "nameJP": "シルシュルー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-73",
+    "number": "73",
+    "name": "Steelix",
+    "nameJP": "ハガネール",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-74",
+    "number": "74",
+    "name": "Spearow",
+    "nameJP": "オニスズメ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-75",
+    "number": "75",
+    "name": "Gumshoos",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-76",
+    "number": "76",
+    "name": "Mega Venusaur ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-77",
+    "number": "77",
+    "name": "Mega Camerupt ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-78",
+    "number": "78",
+    "name": "Mega Lucario ex",
+    "nameJP": "メガ-ルカリオ-エクス",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-79",
+    "number": "79",
+    "name": "Mega Absol ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-80",
+    "number": "80",
+    "name": "Mega Mawile ex",
+    "nameJP": "メガマワイルエックス",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-81",
+    "number": "81",
+    "name": "Premium Power Pro",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-82",
+    "number": "82",
+    "name": "Fight Gong",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-83",
+    "number": "83",
+    "name": "Night Stretcher",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-84",
+    "number": "84",
+    "name": "Air Balloon",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-85",
+    "number": "85",
+    "name": "Lt. Surge's Deal",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-86",
+    "number": "86",
+    "name": "Lillie's Determination",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-87",
+    "number": "87",
+    "name": "Mega Venusaur ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-88",
+    "number": "88",
+    "name": "Mega Lucario ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-89",
+    "number": "89",
+    "name": "Mega Absol ex",
+    "nameJP": "メガ-アブソル-エックス",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-90",
+    "number": "90",
+    "name": "Lt. Surge's Deal",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-91",
+    "number": "91",
+    "name": "Lillie's Determination",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1l-92",
+    "number": "92",
+    "name": "Mega Lucario ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1l/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "m1l",
+      "name": "Mega Brave",
+      "series": "Mega Series"
+    }
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "sv10-1",
+    "number": "1",
+    "name": "Pineco",
+    "nameJP": "クヌギダマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-2",
+    "number": "2",
+    "name": "Shroomish",
+    "nameJP": "キノココ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-3",
+    "number": "3",
+    "name": "Breloom",
+    "nameJP": "キノガッサ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-4",
+    "number": "4",
+    "name": "Mow Rotom",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-5",
+    "number": "5",
+    "name": "Fomantis",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-6",
+    "number": "6",
+    "name": "Lurantis",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-7",
+    "number": "7",
+    "name": "Team Rocket's Blipbug",
+    "nameJP": "チームロケットのブリップバグ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-8",
+    "number": "8",
+    "name": "Team Rocket's Tarountula",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-9",
+    "number": "9",
+    "name": "Team Rocket's Spidops",
+    "nameJP": "チームロケットのスパイドプス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-10",
+    "number": "10",
+    "name": "Smoliv",
+    "nameJP": "ミニーブ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-11",
+    "number": "11",
+    "name": "Dolliv",
+    "nameJP": "オリーニョ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-12",
+    "number": "12",
+    "name": "Arboliva ex",
+    "nameJP": "オリーヴァex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-13",
+    "number": "13",
+    "name": "Growlithe",
+    "nameJP": "ガーディ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-14",
+    "number": "14",
+    "name": "Arcanine",
+    "nameJP": "ウインディ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-15",
+    "number": "15",
+    "name": "Team Rocket's Moltres ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-16",
+    "number": "16",
+    "name": "Team Rocket's Houndour",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-17",
+    "number": "17",
+    "name": "Team Rocket's Houndoom",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-18",
+    "number": "18",
+    "name": "Torchic",
+    "nameJP": "アチャモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-19",
+    "number": "19",
+    "name": "Combusken",
+    "nameJP": "ワカシャモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-20",
+    "number": "20",
+    "name": "Blaziken",
+    "nameJP": "バシャーモ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-21",
+    "number": "21",
+    "name": "Heat Rotom",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-22",
+    "number": "22",
+    "name": "Team Rocket's Articuno",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-23",
+    "number": "23",
+    "name": "Clampearl",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-24",
+    "number": "24",
+    "name": "Huntail",
+    "nameJP": "ハンテール",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-25",
+    "number": "25",
+    "name": "Gorebyss",
+    "nameJP": "サクラビス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-26",
+    "number": "26",
+    "name": "Snover",
+    "nameJP": "ユキカブリ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-27",
+    "number": "27",
+    "name": "Abomasnow",
+    "nameJP": "ユキノオー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-28",
+    "number": "28",
+    "name": "Wash Rotom",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-29",
+    "number": "29",
+    "name": "Arrokuda",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-30",
+    "number": "30",
+    "name": "Barraskewda",
+    "nameJP": "バラスケウダ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-31",
+    "number": "31",
+    "name": "Cetoddle",
+    "nameJP": "アルクジラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-32",
+    "number": "32",
+    "name": "Cetitan ex",
+    "nameJP": "ハルクジラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-33",
+    "number": "33",
+    "name": "Team Rocket's Zapdos",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-34",
+    "number": "34",
+    "name": "Team Rocket's Mareep",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-35",
+    "number": "35",
+    "name": "Team Rocket's Flaafy",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-36",
+    "number": "36",
+    "name": "Team Rocket's Ampharos",
+    "nameJP": "チームロケットのアンファロス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-37",
+    "number": "37",
+    "name": "Team Rocket's Drowzee",
+    "nameJP": "チームロケットのDrowzee",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-38",
+    "number": "38",
+    "name": "Team Rocket's Hypno",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-39",
+    "number": "39",
+    "name": "Team Rocket's Mewtwo ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-40",
+    "number": "40",
+    "name": "Team Rocket's Wobbuffet",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-41",
+    "number": "41",
+    "name": "Team Rocket's Chingling",
+    "nameJP": "チームロケットのチンリン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-42",
+    "number": "42",
+    "name": "Team Rocket's Mimikyu",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-43",
+    "number": "43",
+    "name": "Team Rocket's Dottler",
+    "nameJP": "チームロケットのドトラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-44",
+    "number": "44",
+    "name": "Team Rockets Orbeetle",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-45",
+    "number": "45",
+    "name": "Mankey",
+    "nameJP": "マンキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-46",
+    "number": "46",
+    "name": "Primeape",
+    "nameJP": "オコリザル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-47",
+    "number": "47",
+    "name": "Annihilape",
+    "nameJP": "コノヨザル",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-48",
+    "number": "48",
+    "name": "Team Rocket's Larvitar",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-49",
+    "number": "49",
+    "name": "Team Rocket's Pupitar",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-50",
+    "number": "50",
+    "name": "Team Rocket's Tyranitar",
+    "nameJP": "チームロケットのティラニター",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-51",
+    "number": "51",
+    "name": "Nosepass",
+    "nameJP": "ノズパス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-52",
+    "number": "52",
+    "name": "Probopass",
+    "nameJP": "ダイノーズ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-53",
+    "number": "53",
+    "name": "Meditite",
+    "nameJP": "アサナン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-54",
+    "number": "54",
+    "name": "Medicham",
+    "nameJP": "チャーレム",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-55",
+    "number": "55",
+    "name": "Regirock ex",
+    "nameJP": "レジロックex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-56",
+    "number": "56",
+    "name": "Team Rocket's Ekans",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-57",
+    "number": "57",
+    "name": "Team Rocket's Arbok",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-58",
+    "number": "58",
+    "name": "Team Rocket's Nidoran♀",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-59",
+    "number": "59",
+    "name": "Team Rocket's Nidorina",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-60",
+    "number": "60",
+    "name": "Team Rocket's Nidoqueen",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-61",
+    "number": "61",
+    "name": "Team Rocket's Nidoran♂",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-62",
+    "number": "62",
+    "name": "Team Rocket's Nidorino",
+    "nameJP": "チームロケットのニドリーノ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-63",
+    "number": "63",
+    "name": "Team Rocket's Nidoking ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-64",
+    "number": "64",
+    "name": "Team Rocket's Zubat",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-65",
+    "number": "65",
+    "name": "Team Rocket's Golbat",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-66",
+    "number": "66",
+    "name": "Team Rocket's Crobat ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-67",
+    "number": "67",
+    "name": "Team Rocket's Grimer",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-68",
+    "number": "68",
+    "name": "Team Rocket's Muk",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-69",
+    "number": "69",
+    "name": "Team Rocket's Koffing",
+    "nameJP": "チームロケットのコフィング・ロケッツ・コフィング・",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-70",
+    "number": "70",
+    "name": "Team Rocket's Weezing",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-71",
+    "number": "71",
+    "name": "Team Rocket's Murkrow",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-72",
+    "number": "72",
+    "name": "Team Rocket's Sneasel",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-73",
+    "number": "73",
+    "name": "Forretress",
+    "nameJP": "フォレトス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-74",
+    "number": "74",
+    "name": "Skarmory",
+    "nameJP": "エアームド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-75",
+    "number": "75",
+    "name": "Zamazenta",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-76",
+    "number": "76",
+    "name": "Team Rocket's Rattata",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-77",
+    "number": "77",
+    "name": "Team Rocket's Raticate",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-78",
+    "number": "78",
+    "name": "Team Rocket's Meowth",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-79",
+    "number": "79",
+    "name": "Team Rocket's Persian ex",
+    "nameJP": "チームロケットのペルシャの元",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-80",
+    "number": "80",
+    "name": "Kangaskhan",
+    "nameJP": "ガルーラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-81",
+    "number": "81",
+    "name": "Team Rocket's Porygon",
+    "nameJP": "チーム・ロケットのポリゴン・ロケッツ・ポリゴン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-82",
+    "number": "82",
+    "name": "Team Rocket's Porygon 2",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-83",
+    "number": "83",
+    "name": "Team Rocket's Porygon Z",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-84",
+    "number": "84",
+    "name": "Taillow",
+    "nameJP": "スバメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-85",
+    "number": "85",
+    "name": "Swellow",
+    "nameJP": "オオスバメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-86",
+    "number": "86",
+    "name": "Squawkabilly",
+    "nameJP": "イキリンコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv10/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-87",
+    "number": "87",
+    "name": "Team Rocket's Hindering Robo",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-88",
+    "number": "88",
+    "name": "Team Rocket's Great Ball",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-89",
+    "number": "89",
+    "name": "Team Rocket's Venture Bomb",
+    "nameJP": "チームロケットのベンチャー爆弾",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-90",
+    "number": "90",
+    "name": "Team Rocket's Receiver",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-91",
+    "number": "91",
+    "name": "Team Rocket's Ariana",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-92",
+    "number": "92",
+    "name": "Team Rocket's Archer",
+    "nameJP": "ロケット団の射手",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-93",
+    "number": "93",
+    "name": "Team Rocket's Giovanni",
+    "nameJP": "ロケット団のジョバンニ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-94",
+    "number": "94",
+    "name": "Team Rocket's Petrel",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-95",
+    "number": "95",
+    "name": "Team Rocket's Proton",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-96",
+    "number": "96",
+    "name": "Team Rocket's Watchtower",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-97",
+    "number": "97",
+    "name": "Team Rocket's Factory",
+    "nameJP": "チームロケットの工場",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-98",
+    "number": "98",
+    "name": "Team Rocket Energy",
+    "nameJP": "チームロケットエネルギー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv10/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-99",
+    "number": "99",
+    "name": "Team Rocket's Spidops ex",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-100",
+    "number": "100",
+    "name": "Team Rocket's Houndoom",
+    "nameJP": "チームロケットの猟犬",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-101",
+    "number": "101",
+    "name": "Blaziken",
+    "nameJP": "バシャーモ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-102",
+    "number": "102",
+    "name": "Clampearl",
+    "nameJP": "クランパール",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-103",
+    "number": "103",
+    "name": "Team Rocket's Wobbuffet",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-104",
+    "number": "104",
+    "name": "Team Rocket's Orbeetle",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-105",
+    "number": "105",
+    "name": "Team Rocket's Weezing",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-106",
+    "number": "106",
+    "name": "Team Rocket's Murkrow",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-107",
+    "number": "107",
+    "name": "Zamazenta",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-108",
+    "number": "108",
+    "name": "Team Rocket's Raticate",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-109",
+    "number": "109",
+    "name": "Team Rocket's Meowth",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-110",
+    "number": "110",
+    "name": "Kangaskhan",
+    "nameJP": "ガルーラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-111",
+    "number": "111",
+    "name": "Arboliva ex",
+    "nameJP": "オリーヴァex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-112",
+    "number": "112",
+    "name": "Team Rocket's Moltres ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-113",
+    "number": "113",
+    "name": "Cetitan ex",
+    "nameJP": "ハルクジラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-114",
+    "number": "114",
+    "name": "Team Rocket's Mewtwo ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-115",
+    "number": "115",
+    "name": "Regirock ex",
+    "nameJP": "レジロックex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-116",
+    "number": "116",
+    "name": "Team Rocket's Nidoking ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-117",
+    "number": "117",
+    "name": "Team Rocket's Crobat ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-118",
+    "number": "118",
+    "name": "Team Rocket's Persian ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-119",
+    "number": "119",
+    "name": "Team Rocket's Ariana",
+    "nameJP": "チームロケットのアリアナ",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-120",
+    "number": "120",
+    "name": "Team Rocket's Archer",
+    "nameJP": "ロケット団の射手",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-121",
+    "number": "121",
+    "name": "Team Rocket's Giovanni",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-122",
+    "number": "122",
+    "name": "Team Rocket's Petrel",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-123",
+    "number": "123",
+    "name": "Team Rocket's Proton",
+    "nameJP": "チームロケットのプロトン",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-124",
+    "number": "124",
+    "name": "Team Rocket's Moltres ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-125",
+    "number": "125",
+    "name": "Team Rocket's Mewtwo ex",
+    "nameJP": "チームロケットのミュウツー ex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-126",
+    "number": "126",
+    "name": "Team Rocket's Nidoking ex",
+    "nameJP": "チームロケットのNidoking ex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-127",
+    "number": "127",
+    "name": "Team Rocket's Crobat ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-128",
+    "number": "128",
+    "name": "Team Rocket's Ariana",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-129",
+    "number": "129",
+    "name": "Team Rocket's Giovanni",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-130",
+    "number": "130",
+    "name": "Team Rocket's Mewtwo ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-131",
+    "number": "131",
+    "name": "Team Rocket's Crobat ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv10-132",
+    "number": "132",
+    "name": "Jamming Tower",
+    "nameJP": "ジャミングタワー",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv10/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv10",
+      "name": "Glory of Team Rocket",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

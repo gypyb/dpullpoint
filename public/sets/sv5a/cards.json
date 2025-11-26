@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "sv5a-1",
+    "number": "1",
+    "name": "Tangela",
+    "nameJP": "モンジャラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-2",
+    "number": "2",
+    "name": "Tangrowth",
+    "nameJP": "モジャンボ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-3",
+    "number": "3",
+    "name": "Pinsir",
+    "nameJP": "カイロス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-4",
+    "number": "4",
+    "name": "Spinarak",
+    "nameJP": "イトマル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-5",
+    "number": "5",
+    "name": "Ariados",
+    "nameJP": "アリアドス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-6",
+    "number": "6",
+    "name": "Leafeon",
+    "nameJP": "リーフィア",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-7",
+    "number": "7",
+    "name": "Iron Leaves",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-8",
+    "number": "8",
+    "name": "Poltchageist",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-9",
+    "number": "9",
+    "name": "Sinistcha ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-10",
+    "number": "10",
+    "name": "Vulpix",
+    "nameJP": "ロコン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-11",
+    "number": "11",
+    "name": "Ninetales",
+    "nameJP": "キュウコン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-12",
+    "number": "12",
+    "name": "Slugma",
+    "nameJP": "マグマッグ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-13",
+    "number": "13",
+    "name": "Magcargo ex",
+    "nameJP": "マグカルゴex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-14",
+    "number": "14",
+    "name": "Torkoal",
+    "nameJP": "コータス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-15",
+    "number": "15",
+    "name": "Chimchar",
+    "nameJP": "ヒコザル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-16",
+    "number": "16",
+    "name": "Monferno",
+    "nameJP": "モウカザル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-17",
+    "number": "17",
+    "name": "Infernape",
+    "nameJP": "ゴウカザル",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-18",
+    "number": "18",
+    "name": "Chi-Yu",
+    "nameJP": "イーユイ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-19",
+    "number": "19",
+    "name": "Corphish",
+    "nameJP": "ヘイガニ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-20",
+    "number": "20",
+    "name": "Crawdaunt",
+    "nameJP": "シザリガー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-21",
+    "number": "21",
+    "name": "Glaceon",
+    "nameJP": "グレイシア",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-22",
+    "number": "22",
+    "name": "Phione",
+    "nameJP": "マナフィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-23",
+    "number": "23",
+    "name": "Froakie",
+    "nameJP": "ケロマツ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-24",
+    "number": "24",
+    "name": "Frogadier",
+    "nameJP": "ゲコガシラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-25",
+    "number": "25",
+    "name": "Cramorant",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-26",
+    "number": "26",
+    "name": "Walking Wake",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-27",
+    "number": "27",
+    "name": "Zapdos",
+    "nameJP": "サンダー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-28",
+    "number": "28",
+    "name": "Helioptile",
+    "nameJP": "エリキテル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-29",
+    "number": "29",
+    "name": "Heliolisk",
+    "nameJP": "エレザード",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-30",
+    "number": "30",
+    "name": "Morpeko",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-31",
+    "number": "31",
+    "name": "Tadbulb",
+    "nameJP": "ズピカ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-32",
+    "number": "32",
+    "name": "Bellibolt",
+    "nameJP": "ハラバリー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-33",
+    "number": "33",
+    "name": "Iron Thorns ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-34",
+    "number": "34",
+    "name": "Girafarig",
+    "nameJP": "キリンリキ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-35",
+    "number": "35",
+    "name": "Farigiraf",
+    "nameJP": "リキキリン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-36",
+    "number": "36",
+    "name": "Flabébé",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-37",
+    "number": "37",
+    "name": "Floette",
+    "nameJP": "フラエッテ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-38",
+    "number": "38",
+    "name": "Florges",
+    "nameJP": "フラージェス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-39",
+    "number": "39",
+    "name": "Enamorus",
+    "nameJP": "ラブトロス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-40",
+    "number": "40",
+    "name": "Scream Tail ex",
+    "nameJP": "スクリーム-テール-エックス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-41",
+    "number": "41",
+    "name": "Hisuian Growlithe",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-42",
+    "number": "42",
+    "name": "Hisuian Arcanine",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-43",
+    "number": "43",
+    "name": "Nosepass",
+    "nameJP": "ノズパス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-44",
+    "number": "44",
+    "name": "Probopass",
+    "nameJP": "ダイノーズ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-45",
+    "number": "45",
+    "name": "Greninja ex",
+    "nameJP": "ゲッコウガex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-46",
+    "number": "46",
+    "name": "Hawlucha",
+    "nameJP": "ルチャブル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-47",
+    "number": "47",
+    "name": "Ting-Lu",
+    "nameJP": "ディンルー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-48",
+    "number": "48",
+    "name": "Applin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-49",
+    "number": "49",
+    "name": "Dipplin",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-50",
+    "number": "50",
+    "name": "Eevee",
+    "nameJP": "イーブイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-51",
+    "number": "51",
+    "name": "Snorlax",
+    "nameJP": "カビゴン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-52",
+    "number": "52",
+    "name": "Bloodmoon Ursaluna ex",
+    "nameJP": "ブラッドムーン・ウルサルナ・エクス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-53",
+    "number": "53",
+    "name": "Unfair Stamp",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-54",
+    "number": "54",
+    "name": "Enhanced Hammer",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-55",
+    "number": "55",
+    "name": "Hyper Aroma",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-56",
+    "number": "56",
+    "name": "Switch",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-57",
+    "number": "57",
+    "name": "Pokémon Catcher",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-58",
+    "number": "58",
+    "name": "Love Ball",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-59",
+    "number": "59",
+    "name": "Survival Cast",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-60",
+    "number": "60",
+    "name": "Lucky Helmet",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-61",
+    "number": "61",
+    "name": "Caretaker",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-62",
+    "number": "62",
+    "name": "Lucian",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-63",
+    "number": "63",
+    "name": "Perrin",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-64",
+    "number": "64",
+    "name": "Lana's Assistance",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-65",
+    "number": "65",
+    "name": "Community Center",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-66",
+    "number": "66",
+    "name": "Boomerang Energy",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-67",
+    "number": "67",
+    "name": "Pinsir",
+    "nameJP": "カイロス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-68",
+    "number": "68",
+    "name": "Poltchageist",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-69",
+    "number": "69",
+    "name": "Torkoal",
+    "nameJP": "コータス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-70",
+    "number": "70",
+    "name": "Infernape",
+    "nameJP": "ゴウカザル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-71",
+    "number": "71",
+    "name": "Phione",
+    "nameJP": "マナフィ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-72",
+    "number": "72",
+    "name": "Cramorant",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-73",
+    "number": "73",
+    "name": "Heliolisk",
+    "nameJP": "エレザード",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-74",
+    "number": "74",
+    "name": "Enamorus",
+    "nameJP": "ラブトロス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-75",
+    "number": "75",
+    "name": "Hisuian Growlithe",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-76",
+    "number": "76",
+    "name": "Probopass",
+    "nameJP": "ダイノーズ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-77",
+    "number": "77",
+    "name": "Applin",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-78",
+    "number": "78",
+    "name": "Eevee",
+    "nameJP": "イーブイ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-79",
+    "number": "79",
+    "name": "Sinistcha ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-80",
+    "number": "80",
+    "name": "Magcargo ex",
+    "nameJP": "マグカルゴex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-81",
+    "number": "81",
+    "name": "Iron Thorns ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-82",
+    "number": "82",
+    "name": "Scream Tail ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-83",
+    "number": "83",
+    "name": "Greninja ex",
+    "nameJP": "ゲッコウガex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-84",
+    "number": "84",
+    "name": "Bloodmoon Ursaluna ex",
+    "nameJP": "ブラッドムーン・ウルサルナ・エクス",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-85",
+    "number": "85",
+    "name": "Caretaker",
+    "nameJP": "管理人",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-86",
+    "number": "86",
+    "name": "Lucian",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-87",
+    "number": "87",
+    "name": "Perrin",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-88",
+    "number": "88",
+    "name": "Lana's Assistance",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-89",
+    "number": "89",
+    "name": "Sinistcha ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-90",
+    "number": "90",
+    "name": "Greninja ex",
+    "nameJP": "ゲッコウガex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-91",
+    "number": "91",
+    "name": "Bloodmoon Ursaluna ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-92",
+    "number": "92",
+    "name": "Perrin",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-93",
+    "number": "93",
+    "name": "Lana's Assistance",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-94",
+    "number": "94",
+    "name": "Bloodmoon Ursaluna ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-95",
+    "number": "95",
+    "name": "Emergency Board",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv5a-96",
+    "number": "96",
+    "name": "Luminous Energy",
+    "nameJP": "発光エネルギー",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv5a/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv5a",
+      "name": "Crimson Haze",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

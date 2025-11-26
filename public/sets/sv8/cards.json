@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "sv8-1",
+    "number": "1",
+    "name": "Exeggcute",
+    "nameJP": "タマタマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-2",
+    "number": "2",
+    "name": "Exeggutor",
+    "nameJP": "ナッシー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-3",
+    "number": "3",
+    "name": "Durant ex",
+    "nameJP": "アイアントex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-4",
+    "number": "4",
+    "name": "Scatterbug",
+    "nameJP": "コフキムシ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-5",
+    "number": "5",
+    "name": "Spewpa",
+    "nameJP": "コフーライ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-6",
+    "number": "6",
+    "name": "Vivillon",
+    "nameJP": "ビビヨン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-7",
+    "number": "7",
+    "name": "Capsakid",
+    "nameJP": "カプサイジ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-8",
+    "number": "8",
+    "name": "Rellor",
+    "nameJP": "シガロコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-9",
+    "number": "9",
+    "name": "Rabsca",
+    "nameJP": "ベラカス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-10",
+    "number": "10",
+    "name": "Wo-Chien",
+    "nameJP": "チオンジェン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-11",
+    "number": "11",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-12",
+    "number": "12",
+    "name": "Victini",
+    "nameJP": "ビクティニ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-13",
+    "number": "13",
+    "name": "Larvesta",
+    "nameJP": "メラルバ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-14",
+    "number": "14",
+    "name": "Volcarona",
+    "nameJP": "ウルガモス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-15",
+    "number": "15",
+    "name": "Sizzlipede",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-16",
+    "number": "16",
+    "name": "Centiskorch",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-17",
+    "number": "17",
+    "name": "Fuecoco",
+    "nameJP": "ホゲータ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-18",
+    "number": "18",
+    "name": "Crocalor",
+    "nameJP": "アチゲータ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-19",
+    "number": "19",
+    "name": "Skeledirge",
+    "nameJP": "ラウドボーン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-20",
+    "number": "20",
+    "name": "Charcadet",
+    "nameJP": "カルボウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-21",
+    "number": "21",
+    "name": "Armarouge",
+    "nameJP": "グレンアルマ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-22",
+    "number": "22",
+    "name": "Ceruledge",
+    "nameJP": "ソウブレイズ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-23",
+    "number": "23",
+    "name": "Scovillain ex",
+    "nameJP": "スコヴィランex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-24",
+    "number": "24",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-25",
+    "number": "25",
+    "name": "Feebas",
+    "nameJP": "ヒンバス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-26",
+    "number": "26",
+    "name": "Miolotic ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-27",
+    "number": "27",
+    "name": "Spheal",
+    "nameJP": "タマザラシ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-28",
+    "number": "28",
+    "name": "Sealeo",
+    "nameJP": "トドグラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-29",
+    "number": "29",
+    "name": "Walrein",
+    "nameJP": "トドゼルガ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-30",
+    "number": "30",
+    "name": "Shellos",
+    "nameJP": "カラナクシ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-31",
+    "number": "31",
+    "name": "Iron Bundle",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-32",
+    "number": "32",
+    "name": "Chien-Pao",
+    "nameJP": "パオジアン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-33",
+    "number": "33",
+    "name": "Pikachu ex",
+    "nameJP": "ピカチュウex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-34",
+    "number": "34",
+    "name": "Magnemite",
+    "nameJP": "コイル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-35",
+    "number": "35",
+    "name": "Magneton",
+    "nameJP": "レアコイル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-36",
+    "number": "36",
+    "name": "Magnezone",
+    "nameJP": "レアコイル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-37",
+    "number": "37",
+    "name": "Rotom",
+    "nameJP": "ロトム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-38",
+    "number": "38",
+    "name": "Blitzle",
+    "nameJP": "シママ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-39",
+    "number": "39",
+    "name": "Zebstrika",
+    "nameJP": "ゼブライカ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-40",
+    "number": "40",
+    "name": "Stunfisk",
+    "nameJP": "マッギョ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-41",
+    "number": "41",
+    "name": "Tapu Koko",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-42",
+    "number": "42",
+    "name": "Wattrel",
+    "nameJP": "カイデン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-43",
+    "number": "43",
+    "name": "Kilowattrel",
+    "nameJP": "タイカイデン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-44",
+    "number": "44",
+    "name": "Miraidon",
+    "nameJP": "ミライドン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-45",
+    "number": "45",
+    "name": "Togepi",
+    "nameJP": "トゲピー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-46",
+    "number": "46",
+    "name": "Togetic",
+    "nameJP": "トゲチック",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-47",
+    "number": "47",
+    "name": "Togetic",
+    "nameJP": "トゲチック",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-48",
+    "number": "48",
+    "name": "Uxie",
+    "nameJP": "ユクシー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-49",
+    "number": "49",
+    "name": "Mesprit",
+    "nameJP": "エムリット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-50",
+    "number": "50",
+    "name": "Azelf",
+    "nameJP": "アグノム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-51",
+    "number": "51",
+    "name": "Yamask",
+    "nameJP": "デスマス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-52",
+    "number": "52",
+    "name": "Cofagrigus",
+    "nameJP": "デスカーン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-53",
+    "number": "53",
+    "name": "Espurr",
+    "nameJP": "ニャスパー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-54",
+    "number": "54",
+    "name": "Meowstic",
+    "nameJP": "ニャオニクス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-55",
+    "number": "55",
+    "name": "Dedenne",
+    "nameJP": "デデンネ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-56",
+    "number": "56",
+    "name": "Sandygast",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-57",
+    "number": "57",
+    "name": "Palossand ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-58",
+    "number": "58",
+    "name": "Indeedee",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-59",
+    "number": "59",
+    "name": "Flutter Mane",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-60",
+    "number": "60",
+    "name": "Mankey",
+    "nameJP": "マンキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-61",
+    "number": "61",
+    "name": "Primeape",
+    "nameJP": "オコリザル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-62",
+    "number": "62",
+    "name": "Annihilape",
+    "nameJP": "コノヨザル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-63",
+    "number": "63",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-64",
+    "number": "64",
+    "name": "Phanpy",
+    "nameJP": "ゴマゾウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-65",
+    "number": "65",
+    "name": "Donphan",
+    "nameJP": "ドンファン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-66",
+    "number": "66",
+    "name": "Gastrodon",
+    "nameJP": "トリトドン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-67",
+    "number": "67",
+    "name": "Glimmet",
+    "nameJP": "キラーメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-68",
+    "number": "68",
+    "name": "Glimmora",
+    "nameJP": "キラフロル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-69",
+    "number": "69",
+    "name": "Koraidon",
+    "nameJP": "コライドン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-70",
+    "number": "70",
+    "name": "Deino",
+    "nameJP": "モノズ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-71",
+    "number": "71",
+    "name": "Zweilous",
+    "nameJP": "ジヘッド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-72",
+    "number": "72",
+    "name": "Hydreigon ex",
+    "nameJP": "サザンドラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-73",
+    "number": "73",
+    "name": "Shroodle",
+    "nameJP": "シルシュルー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-74",
+    "number": "74",
+    "name": "Grafaiai",
+    "nameJP": "タギングル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-75",
+    "number": "75",
+    "name": "Pecharunt",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-76",
+    "number": "76",
+    "name": "Alolan Diglett",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-77",
+    "number": "77",
+    "name": "Noctowl",
+    "nameJP": "ヨルノズク",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-78",
+    "number": "78",
+    "name": "Bronzor",
+    "nameJP": "ドーミラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-79",
+    "number": "79",
+    "name": "Bronzong",
+    "nameJP": "ドータクン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-80",
+    "number": "80",
+    "name": "Eternatus",
+    "nameJP": "エテルナトゥス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-81",
+    "number": "81",
+    "name": "Tatsugiri ex",
+    "nameJP": "シャリタツex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-82",
+    "number": "82",
+    "name": "Slakoth",
+    "nameJP": "ナマケロ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-83",
+    "number": "83",
+    "name": "Vigoroth",
+    "nameJP": "ヤルキモノ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-84",
+    "number": "84",
+    "name": "Slaking",
+    "nameJP": "ケッキング",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-85",
+    "number": "85",
+    "name": "Zangoose",
+    "nameJP": "ザングース",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-86",
+    "number": "86",
+    "name": "Kecleon",
+    "nameJP": "カクレオン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-87",
+    "number": "87",
+    "name": "Bouffalant",
+    "nameJP": "バッフロン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-88",
+    "number": "88",
+    "name": "Helioptile",
+    "nameJP": "エリキテル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-89",
+    "number": "89",
+    "name": "Heliolisk",
+    "nameJP": "エレザード",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-90",
+    "number": "90",
+    "name": "Oranguru",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-91",
+    "number": "91",
+    "name": "Tandemaus",
+    "nameJP": "ワッカネズミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-92",
+    "number": "92",
+    "name": "Maushold",
+    "nameJP": "イッカネズミ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-93",
+    "number": "93",
+    "name": "Terapagos",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-94",
+    "number": "94",
+    "name": "Deduction Set",
+    "nameJP": "控除セット",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-95",
+    "number": "95",
+    "name": "Scramble Switch",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-96",
+    "number": "96",
+    "name": "Fluffy Cat Toy",
+    "nameJP": "ふわふわ猫のおもちゃ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-97",
+    "number": "97",
+    "name": "Miraculous Intercom",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-98",
+    "number": "98",
+    "name": "Amulet of Hope",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-99",
+    "number": "99",
+    "name": "Colbur Berry",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-100",
+    "number": "100",
+    "name": "Babiri Berry",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-101",
+    "number": "101",
+    "name": "Technical Machine Fluorite",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-102",
+    "number": "102",
+    "name": "Cyrano",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-103",
+    "number": "103",
+    "name": "Clemont's Wit",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-104",
+    "number": "104",
+    "name": "Jazmine's Gaze",
+    "nameJP": "ジャズミンの視線",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-105",
+    "number": "105",
+    "name": "Exciting Stadium",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-106",
+    "number": "106",
+    "name": "Gravity Mountain",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv8/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-107",
+    "number": "107",
+    "name": "Vivillon",
+    "nameJP": "ビビヨン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-108",
+    "number": "108",
+    "name": "Larvesta",
+    "nameJP": "メラルバ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-109",
+    "number": "109",
+    "name": "Ceruledge",
+    "nameJP": "ソウブレイズ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-110",
+    "number": "110",
+    "name": "Feebas",
+    "nameJP": "ヒンバス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-111",
+    "number": "111",
+    "name": "Spheal",
+    "nameJP": "タマザラシ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-112",
+    "number": "112",
+    "name": "Magneton",
+    "nameJP": "レアコイル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-113",
+    "number": "113",
+    "name": "Stunfisk",
+    "nameJP": "マッギョ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-114",
+    "number": "114",
+    "name": "Mesprit",
+    "nameJP": "エムリット",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-115",
+    "number": "115",
+    "name": "Phanpy",
+    "nameJP": "ゴマゾウ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-116",
+    "number": "116",
+    "name": "Alolan Dugtrio",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-117",
+    "number": "117",
+    "name": "Slakoth",
+    "nameJP": "ナマケロ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-118",
+    "number": "118",
+    "name": "Kecleon",
+    "nameJP": "カクレオン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-119",
+    "number": "119",
+    "name": "Durant ex",
+    "nameJP": "アイアントex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-120",
+    "number": "120",
+    "name": "Scovillain ex",
+    "nameJP": "スコヴィランex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-121",
+    "number": "121",
+    "name": "Milotic ex",
+    "nameJP": "ミロカロスex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-122",
+    "number": "122",
+    "name": "Pikachu ex",
+    "nameJP": "ピカチュウex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-123",
+    "number": "123",
+    "name": "Palossand ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-124",
+    "number": "124",
+    "name": "Hydreigon ex",
+    "nameJP": "サザンドラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-125",
+    "number": "125",
+    "name": "Tatsugiri ex",
+    "nameJP": "シャリタツex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-126",
+    "number": "126",
+    "name": "Slaking ex",
+    "nameJP": "ケッキングex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-127",
+    "number": "127",
+    "name": "Cyrano",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-128",
+    "number": "128",
+    "name": "Clemont's Quick Wit",
+    "nameJP": "クレモンズクイックウィット",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-129",
+    "number": "129",
+    "name": "Jasmine's Gaze",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-130",
+    "number": "130",
+    "name": "Durant ex",
+    "nameJP": "アイアントex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-131",
+    "number": "131",
+    "name": "Milotic ex",
+    "nameJP": "ミロカロスex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-132",
+    "number": "132",
+    "name": "Pikachu ex",
+    "nameJP": "ピカチュウex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-133",
+    "number": "133",
+    "name": "Hydreigon ex",
+    "nameJP": "サザンドラex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/133.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-134",
+    "number": "134",
+    "name": "Clemont's Quick Wit",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/134.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-135",
+    "number": "135",
+    "name": "Jasmine's Gaze",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/135.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-136",
+    "number": "136",
+    "name": "Pikachu ex",
+    "nameJP": "ピカチュウex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/136.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-137",
+    "number": "137",
+    "name": "Night Stretcher",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/137.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8-138",
+    "number": "138",
+    "name": "Gravity Mountain",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8/img-cards/138.png",
+    "alt": [],
+    "set": {
+      "id": "sv8",
+      "name": "Super Electric Breaker",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

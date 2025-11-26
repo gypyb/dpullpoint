@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "sv11b-1",
+    "number": "1",
+    "name": "Snivy",
+    "nameJP": "ツタージャ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-2",
+    "number": "2",
+    "name": "Servine",
+    "nameJP": "ジャノビー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-3",
+    "number": "3",
+    "name": "Serperior ex",
+    "nameJP": "ジャローダex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-4",
+    "number": "4",
+    "name": "Pansage",
+    "nameJP": "ヤナップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-5",
+    "number": "5",
+    "name": "Simisage",
+    "nameJP": "ヤナッキー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-6",
+    "number": "6",
+    "name": "Petilil",
+    "nameJP": "チュリネ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-7",
+    "number": "7",
+    "name": "Lilligant",
+    "nameJP": "ドレディア",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-8",
+    "number": "8",
+    "name": "Maractus",
+    "nameJP": "マラカッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-9",
+    "number": "9",
+    "name": "Karrablast",
+    "nameJP": "カブルモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-10",
+    "number": "10",
+    "name": "Foongus",
+    "nameJP": "タマゲタケ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-11",
+    "number": "11",
+    "name": "Amoonguss",
+    "nameJP": "モロバレル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-12",
+    "number": "12",
+    "name": "Victini",
+    "nameJP": "ビクティニ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-13",
+    "number": "13",
+    "name": "Darumaka",
+    "nameJP": "ダルマッカ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-14",
+    "number": "14",
+    "name": "Darmanitan",
+    "nameJP": "ヒヒダルマ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-15",
+    "number": "15",
+    "name": "Litwick",
+    "nameJP": "ヒトモシ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-16",
+    "number": "16",
+    "name": "Lampent",
+    "nameJP": "ランプラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-17",
+    "number": "17",
+    "name": "Chandelure",
+    "nameJP": "シャンデラ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-18",
+    "number": "18",
+    "name": "Larvesta",
+    "nameJP": "メラルバ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-19",
+    "number": "19",
+    "name": "Volcarona",
+    "nameJP": "ウルガモス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-20",
+    "number": "20",
+    "name": "Panpour",
+    "nameJP": "ヒヤップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-21",
+    "number": "21",
+    "name": "Simipour",
+    "nameJP": "ヒヤッキー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-22",
+    "number": "22",
+    "name": "Tympole",
+    "nameJP": "オタマロ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-23",
+    "number": "23",
+    "name": "Palpitoad",
+    "nameJP": "ガマガル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-24",
+    "number": "24",
+    "name": "Seismitoad",
+    "nameJP": "ガマゲロゲ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-25",
+    "number": "25",
+    "name": "Tirtouga",
+    "nameJP": "プロトーガ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-26",
+    "number": "26",
+    "name": "Carracosta",
+    "nameJP": "アバゴーラ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-27",
+    "number": "27",
+    "name": "Alomomola",
+    "nameJP": "ママンボウ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-28",
+    "number": "28",
+    "name": "Cubchoo",
+    "nameJP": "クマシュン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-29",
+    "number": "29",
+    "name": "Beartic",
+    "nameJP": "ツンベアー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-30",
+    "number": "30",
+    "name": "Cryogonal",
+    "nameJP": "フリージオ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-31",
+    "number": "31",
+    "name": "Kyurem ex",
+    "nameJP": "キュレムex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-32",
+    "number": "32",
+    "name": "Emolga",
+    "nameJP": "エモンガ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-33",
+    "number": "33",
+    "name": "Tynamo",
+    "nameJP": "シビシラス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-34",
+    "number": "34",
+    "name": "Eelektrik",
+    "nameJP": "シビビール",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-35",
+    "number": "35",
+    "name": "Eelektross",
+    "nameJP": "シビルドン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-36",
+    "number": "36",
+    "name": "Thundurus",
+    "nameJP": "ボルトロス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-37",
+    "number": "37",
+    "name": "Zekrom ex",
+    "nameJP": "ゼクロムex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-38",
+    "number": "38",
+    "name": "Munna",
+    "nameJP": "ムンナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-39",
+    "number": "39",
+    "name": "Musharna",
+    "nameJP": "ムシャーナ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-40",
+    "number": "40",
+    "name": "Solosis",
+    "nameJP": "ユニラン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-41",
+    "number": "41",
+    "name": "Duosion",
+    "nameJP": "ダブラン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-42",
+    "number": "42",
+    "name": "Reuniclus",
+    "nameJP": "ランクルス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-43",
+    "number": "43",
+    "name": "Elgyem",
+    "nameJP": "リグレー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-44",
+    "number": "44",
+    "name": "Beheeyem",
+    "nameJP": "オーベム",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-45",
+    "number": "45",
+    "name": "Golett",
+    "nameJP": "ゴビット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-46",
+    "number": "46",
+    "name": "Golurk",
+    "nameJP": "ゴルーグ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-47",
+    "number": "47",
+    "name": "Meloetta ex",
+    "nameJP": "メロエッタex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-48",
+    "number": "48",
+    "name": "Drilbur",
+    "nameJP": "モグリュー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-49",
+    "number": "49",
+    "name": "Excadrill ex",
+    "nameJP": "ドリュウズex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-50",
+    "number": "50",
+    "name": "Timburr",
+    "nameJP": "ドッコラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-51",
+    "number": "51",
+    "name": "Gurdurr",
+    "nameJP": "ドテッコツ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-52",
+    "number": "52",
+    "name": "Conkeldurr",
+    "nameJP": "ローブシン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-53",
+    "number": "53",
+    "name": "Throh",
+    "nameJP": "ナゲキ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-54",
+    "number": "54",
+    "name": "Dwebble",
+    "nameJP": "イシズマイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-55",
+    "number": "55",
+    "name": "Crustle",
+    "nameJP": "イワパレス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-56",
+    "number": "56",
+    "name": "Landorus",
+    "nameJP": "ランドロス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-57",
+    "number": "57",
+    "name": "Venipede",
+    "nameJP": "フシデ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-58",
+    "number": "58",
+    "name": "Whirlipede",
+    "nameJP": "ホイーガ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-59",
+    "number": "59",
+    "name": "Scolipede",
+    "nameJP": "ペンドラー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-60",
+    "number": "60",
+    "name": "Sandile",
+    "nameJP": "メグロコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-61",
+    "number": "61",
+    "name": "Krokorok",
+    "nameJP": "ワルビル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-62",
+    "number": "62",
+    "name": "Krookodile",
+    "nameJP": "ワルビアル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-63",
+    "number": "63",
+    "name": "Vullaby",
+    "nameJP": "バルチャイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-64",
+    "number": "64",
+    "name": "Mandibuzz",
+    "nameJP": "バルジーナ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-65",
+    "number": "65",
+    "name": "Escavalier",
+    "nameJP": "シュバルゴ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-66",
+    "number": "66",
+    "name": "Pawniard",
+    "nameJP": "コマタナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-67",
+    "number": "67",
+    "name": "Bisharp",
+    "nameJP": "キリキザン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-68",
+    "number": "68",
+    "name": "Cobalion",
+    "nameJP": "コバルオン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-69",
+    "number": "69",
+    "name": "Genesect ex",
+    "nameJP": "ゲノセクトex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-70",
+    "number": "70",
+    "name": "Axew",
+    "nameJP": "キバゴ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-71",
+    "number": "71",
+    "name": "Fraxure",
+    "nameJP": "オノンド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-72",
+    "number": "72",
+    "name": "Haxorus",
+    "nameJP": "オノノクス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-73",
+    "number": "73",
+    "name": "Pidove",
+    "nameJP": "マメパト",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-74",
+    "number": "74",
+    "name": "Tranquill",
+    "nameJP": "ハトーボー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-75",
+    "number": "75",
+    "name": "Unfezant",
+    "nameJP": "ケンホロウ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-76",
+    "number": "76",
+    "name": "Audino",
+    "nameJP": "タブンネ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-77",
+    "number": "77",
+    "name": "Minccino",
+    "nameJP": "チラーミィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-78",
+    "number": "78",
+    "name": "Cincinno",
+    "nameJP": "トルネロス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-79",
+    "number": "79",
+    "name": "Energy Coin",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-80",
+    "number": "80",
+    "name": "Antique Cover Fossil",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-81",
+    "number": "81",
+    "name": "Pokégear 3.0",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-82",
+    "number": "82",
+    "name": "Air Balloon",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-83",
+    "number": "83",
+    "name": "N's Plot",
+    "nameJP": "Nのプロット",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-84",
+    "number": "84",
+    "name": "Professor's Research",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-85",
+    "number": "85",
+    "name": "Fennel",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-86",
+    "number": "86",
+    "name": "Prism Energy",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-87",
+    "number": "87",
+    "name": "Snivy",
+    "nameJP": "ツタージャ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-88",
+    "number": "88",
+    "name": "Servine",
+    "nameJP": "ジャノビー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-89",
+    "number": "89",
+    "name": "Pansage",
+    "nameJP": "ヤナップ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-90",
+    "number": "90",
+    "name": "Simisage",
+    "nameJP": "ヤナッキー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-91",
+    "number": "91",
+    "name": "Petilil",
+    "nameJP": "チュリネ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-92",
+    "number": "92",
+    "name": "Lilligant",
+    "nameJP": "ドレディア",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-93",
+    "number": "93",
+    "name": "Maractus",
+    "nameJP": "マラカッチ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-94",
+    "number": "94",
+    "name": "Karrablast",
+    "nameJP": "カブルモ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-95",
+    "number": "95",
+    "name": "Foongus",
+    "nameJP": "タマゲタケ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-96",
+    "number": "96",
+    "name": "Amoonguss",
+    "nameJP": "モロバレル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-97",
+    "number": "97",
+    "name": "Victini",
+    "nameJP": "ビクティニ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-98",
+    "number": "98",
+    "name": "Darumaka",
+    "nameJP": "ダルマッカ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-99",
+    "number": "99",
+    "name": "Darmanitan",
+    "nameJP": "ヒヒダルマ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-100",
+    "number": "100",
+    "name": "Litwick",
+    "nameJP": "ヒトモシ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-101",
+    "number": "101",
+    "name": "Lampent",
+    "nameJP": "ランプラー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-102",
+    "number": "102",
+    "name": "Chandelure",
+    "nameJP": "シャンデラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-103",
+    "number": "103",
+    "name": "Larvesta",
+    "nameJP": "メラルバ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-104",
+    "number": "104",
+    "name": "Volcarona",
+    "nameJP": "ウルガモス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-105",
+    "number": "105",
+    "name": "Panpour",
+    "nameJP": "ヒヤップ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-106",
+    "number": "106",
+    "name": "Simipour",
+    "nameJP": "ヒヤッキー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-107",
+    "number": "107",
+    "name": "Tympole",
+    "nameJP": "オタマロ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-108",
+    "number": "108",
+    "name": "Palpitoad",
+    "nameJP": "ガマガル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-109",
+    "number": "109",
+    "name": "Seismitoad",
+    "nameJP": "ガマゲロゲ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-110",
+    "number": "110",
+    "name": "Tirtouga",
+    "nameJP": "プロトーガ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-111",
+    "number": "111",
+    "name": "Carracosta",
+    "nameJP": "アバゴーラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-112",
+    "number": "112",
+    "name": "Alomomola",
+    "nameJP": "ママンボウ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-113",
+    "number": "113",
+    "name": "Cubchoo",
+    "nameJP": "クマシュン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-114",
+    "number": "114",
+    "name": "Beartic",
+    "nameJP": "ツンベアー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-115",
+    "number": "115",
+    "name": "Cryogonal",
+    "nameJP": "フリージオ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-116",
+    "number": "116",
+    "name": "Emolga",
+    "nameJP": "エモンガ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-117",
+    "number": "117",
+    "name": "Tynamo",
+    "nameJP": "シビシラス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-118",
+    "number": "118",
+    "name": "Eelektrik",
+    "nameJP": "シビビール",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-119",
+    "number": "119",
+    "name": "Eelektross",
+    "nameJP": "シビルドン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-120",
+    "number": "120",
+    "name": "Thundurus",
+    "nameJP": "ボルトロス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-121",
+    "number": "121",
+    "name": "Munna",
+    "nameJP": "ムンナ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-122",
+    "number": "122",
+    "name": "Musharna",
+    "nameJP": "ムシャーナ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-123",
+    "number": "123",
+    "name": "Solosis",
+    "nameJP": "ユニラン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-124",
+    "number": "124",
+    "name": "Duosion",
+    "nameJP": "ダブラン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-125",
+    "number": "125",
+    "name": "Reuniclus",
+    "nameJP": "ランクルス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-126",
+    "number": "126",
+    "name": "Elgyem",
+    "nameJP": "リグレー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-127",
+    "number": "127",
+    "name": "Beheeyem",
+    "nameJP": "オーベム",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-128",
+    "number": "128",
+    "name": "Golett",
+    "nameJP": "ゴビット",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-129",
+    "number": "129",
+    "name": "Golurk",
+    "nameJP": "ゴルーグ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-130",
+    "number": "130",
+    "name": "Drilbur",
+    "nameJP": "モグリュー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-131",
+    "number": "131",
+    "name": "Timburr",
+    "nameJP": "ドッコラー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-132",
+    "number": "132",
+    "name": "Gurdurr",
+    "nameJP": "ドテッコツ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-133",
+    "number": "133",
+    "name": "Conkeldurr",
+    "nameJP": "ローブシン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/133.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-134",
+    "number": "134",
+    "name": "Throh",
+    "nameJP": "ナゲキ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/134.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-135",
+    "number": "135",
+    "name": "Dwebble",
+    "nameJP": "イシズマイ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/135.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-136",
+    "number": "136",
+    "name": "Crustle",
+    "nameJP": "イワパレス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/136.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-137",
+    "number": "137",
+    "name": "Landorus",
+    "nameJP": "ランドロス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/137.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-138",
+    "number": "138",
+    "name": "Venipede",
+    "nameJP": "フシデ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/138.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-139",
+    "number": "139",
+    "name": "Whirlipede",
+    "nameJP": "ホイーガ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/139.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-140",
+    "number": "140",
+    "name": "Scolipede",
+    "nameJP": "ペンドラー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/140.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-141",
+    "number": "141",
+    "name": "Sandile",
+    "nameJP": "メグロコ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/141.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-142",
+    "number": "142",
+    "name": "Krokorok",
+    "nameJP": "ワルビル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/142.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-143",
+    "number": "143",
+    "name": "Krookodile",
+    "nameJP": "ワルビアル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/143.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-144",
+    "number": "144",
+    "name": "Vullaby",
+    "nameJP": "バルチャイ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/144.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-145",
+    "number": "145",
+    "name": "Mandibuzz",
+    "nameJP": "バルジーナ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/145.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-146",
+    "number": "146",
+    "name": "Escavalier",
+    "nameJP": "シュバルゴ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/146.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-147",
+    "number": "147",
+    "name": "Pawniard",
+    "nameJP": "コマタナ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/147.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-148",
+    "number": "148",
+    "name": "Bisharp",
+    "nameJP": "キリキザン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/148.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-149",
+    "number": "149",
+    "name": "Cobalion",
+    "nameJP": "コバルオン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/149.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-150",
+    "number": "150",
+    "name": "Axew",
+    "nameJP": "キバゴ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/150.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-151",
+    "number": "151",
+    "name": "Fraxure",
+    "nameJP": "オノンド",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/151.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-152",
+    "number": "152",
+    "name": "Haxorus",
+    "nameJP": "オノノクス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/152.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-153",
+    "number": "153",
+    "name": "Pidove",
+    "nameJP": "マメパト",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/153.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-154",
+    "number": "154",
+    "name": "Tranquill",
+    "nameJP": "ハトーボー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/154.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-155",
+    "number": "155",
+    "name": "Unfezant",
+    "nameJP": "ケンホロウ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/155.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-156",
+    "number": "156",
+    "name": "Audino",
+    "nameJP": "タブンネ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/156.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-157",
+    "number": "157",
+    "name": "Minccino",
+    "nameJP": "チラーミィ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/157.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-158",
+    "number": "158",
+    "name": "Minccino",
+    "nameJP": "トルネロス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/158.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-159",
+    "number": "159",
+    "name": "Serperior ex",
+    "nameJP": "ジャローダex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/159.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-160",
+    "number": "160",
+    "name": "Kyurem ex",
+    "nameJP": "キュレムex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/160.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-161",
+    "number": "161",
+    "name": "Zekrom ex",
+    "nameJP": "ゼクロムex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/161.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-162",
+    "number": "162",
+    "name": "Meloetta ex",
+    "nameJP": "メロエッタex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/162.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-163",
+    "number": "163",
+    "name": "Excadrill ex",
+    "nameJP": "ドリュウズex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/163.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-164",
+    "number": "164",
+    "name": "Genesect ex",
+    "nameJP": "ゲノセクトex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/164.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-165",
+    "number": "165",
+    "name": "N's Plot",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/165.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-166",
+    "number": "166",
+    "name": "Fennel",
+    "nameJP": "フェンネル",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/166.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-167",
+    "number": "167",
+    "name": "Serperior ex",
+    "nameJP": "ジャローダex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/167.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-168",
+    "number": "168",
+    "name": "Kyurem ex",
+    "nameJP": "キュレムex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/168.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-169",
+    "number": "169",
+    "name": "Zekrom ex",
+    "nameJP": "ゼクロムex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/169.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-170",
+    "number": "170",
+    "name": "Meloetta ex",
+    "nameJP": "メロエッタex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/170.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-171",
+    "number": "171",
+    "name": "Excadrill ex",
+    "nameJP": "ドリュウズex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/171.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-172",
+    "number": "172",
+    "name": "Genesect ex",
+    "nameJP": "ゲノセクトex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/172.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-173",
+    "number": "173",
+    "name": "N's Plot",
+    "nameJP": "Nのプロット",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/173.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11b-174",
+    "number": "174",
+    "name": "Zekrom ex",
+    "nameJP": "ゼクロムex",
+    "rarity": "B Double Rare",
+    "types": [],
+    "image": "/sets/sv11b/img-cards/174.png",
+    "alt": [],
+    "set": {
+      "id": "sv11b",
+      "name": "Black Bolt",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

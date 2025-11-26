@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "sv4k-1",
+    "number": "1",
+    "name": "Pansage",
+    "nameJP": "ヤナップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-2",
+    "number": "2",
+    "name": "Simisage",
+    "nameJP": "ヤナッキー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-3",
+    "number": "3",
+    "name": "Maractus",
+    "nameJP": "マラカッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-4",
+    "number": "4",
+    "name": "Dwebble",
+    "nameJP": "イシズマイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-5",
+    "number": "5",
+    "name": "Crustle",
+    "nameJP": "イワパレス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-6",
+    "number": "6",
+    "name": "Bounsweet",
+    "nameJP": "バウンスウィート",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-7",
+    "number": "7",
+    "name": "Steenee",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-8",
+    "number": "8",
+    "name": "Nymble",
+    "nameJP": "マメバッタ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-9",
+    "number": "9",
+    "name": "Nymble",
+    "nameJP": "マメバッタ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-10",
+    "number": "10",
+    "name": "Magby",
+    "nameJP": "ブビィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-11",
+    "number": "11",
+    "name": "Numel",
+    "nameJP": "ドンメル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-12",
+    "number": "12",
+    "name": "Camerupt",
+    "nameJP": "バクーダ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-13",
+    "number": "13",
+    "name": "Charcadet",
+    "nameJP": "カルボウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-14",
+    "number": "14",
+    "name": "Charcadet",
+    "nameJP": "カルボウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-15",
+    "number": "15",
+    "name": "Armarouge ex",
+    "nameJP": "グレンアルマex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-16",
+    "number": "16",
+    "name": "Chi-Yu",
+    "nameJP": "イーユイ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-17",
+    "number": "17",
+    "name": "Horsea",
+    "nameJP": "タッツー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-18",
+    "number": "18",
+    "name": "Seadra",
+    "nameJP": "シードラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-19",
+    "number": "19",
+    "name": "Kingdra",
+    "nameJP": "キングドラ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-20",
+    "number": "20",
+    "name": "Tsareena ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-21",
+    "number": "21",
+    "name": "Wimpod",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-22",
+    "number": "22",
+    "name": "Golisopod ex",
+    "nameJP": "ゴリソポッド-エックス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-23",
+    "number": "23",
+    "name": "Wiglett",
+    "nameJP": "ウミディグダ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-24",
+    "number": "24",
+    "name": "Wiglett",
+    "nameJP": "ウミディグダ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-25",
+    "number": "25",
+    "name": "Wugtrio",
+    "nameJP": "ウミトリオ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-26",
+    "number": "26",
+    "name": "Veluza",
+    "nameJP": "ミガルーサ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-27",
+    "number": "27",
+    "name": "Latios",
+    "nameJP": "ラティオス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-28",
+    "number": "28",
+    "name": "Woobat",
+    "nameJP": "コロモリ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-29",
+    "number": "29",
+    "name": "Swoobat",
+    "nameJP": "ココロモリ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-30",
+    "number": "30",
+    "name": "Yamask",
+    "nameJP": "デスマス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-31",
+    "number": "31",
+    "name": "Cofagrigus ex",
+    "nameJP": "デスカーンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-32",
+    "number": "32",
+    "name": "Scream Tail",
+    "nameJP": "スクリーム-テール",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-33",
+    "number": "33",
+    "name": "Mienfoo",
+    "nameJP": "コジョフー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-34",
+    "number": "34",
+    "name": "Mienshao",
+    "nameJP": "コジョンド",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-35",
+    "number": "35",
+    "name": "Clobbopus",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-36",
+    "number": "36",
+    "name": "Grapploct",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-37",
+    "number": "37",
+    "name": "Nacli",
+    "nameJP": "コジオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-38",
+    "number": "38",
+    "name": "Nacli",
+    "nameJP": "コジオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-39",
+    "number": "39",
+    "name": "Naclstack",
+    "nameJP": "ジオヅム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-40",
+    "number": "40",
+    "name": "Garganacl",
+    "nameJP": "キョジオーン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-41",
+    "number": "41",
+    "name": "Slither Wing",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-42",
+    "number": "42",
+    "name": "Sandy Shocks ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-43",
+    "number": "43",
+    "name": "Ting-Lu",
+    "nameJP": "ディンルー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-44",
+    "number": "44",
+    "name": "Zubat",
+    "nameJP": "ズバット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-45",
+    "number": "45",
+    "name": "Golbat",
+    "nameJP": "ゴルバット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-46",
+    "number": "46",
+    "name": "Crobat",
+    "nameJP": "クロバット",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-47",
+    "number": "47",
+    "name": "Purrloin",
+    "nameJP": "チョロネコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-48",
+    "number": "48",
+    "name": "Liepard",
+    "nameJP": "レパルダス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-49",
+    "number": "49",
+    "name": "Trubbish",
+    "nameJP": "ヤブクロン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-50",
+    "number": "50",
+    "name": "Garbodor",
+    "nameJP": "ダストダス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-51",
+    "number": "51",
+    "name": "Morpeko",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-52",
+    "number": "52",
+    "name": "Lokix",
+    "nameJP": "エクスレッグ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-53",
+    "number": "53",
+    "name": "Brute Bonnet",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-54",
+    "number": "54",
+    "name": "Roaring Moon ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-55",
+    "number": "55",
+    "name": "Whismur",
+    "nameJP": "ゴニョニョ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-56",
+    "number": "56",
+    "name": "Loudred",
+    "nameJP": "ドゴーム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-57",
+    "number": "57",
+    "name": "Exploud",
+    "nameJP": "バクオング",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-58",
+    "number": "58",
+    "name": "Spinda",
+    "nameJP": "パッチール",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-59",
+    "number": "59",
+    "name": "Snorlax Doll",
+    "nameJP": "カビゴン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-60",
+    "number": "60",
+    "name": "Earthen Vessel",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-61",
+    "number": "61",
+    "name": "Ancient Booster Energy Capsule",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-62",
+    "number": "62",
+    "name": "Defiance Vest",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-63",
+    "number": "63",
+    "name": "Technical Machine: Devolution",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-64",
+    "number": "64",
+    "name": "Professor Sada's Vitality",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-65",
+    "number": "65",
+    "name": "Norman",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-66",
+    "number": "66",
+    "name": "Mela",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-67",
+    "number": "67",
+    "name": "Crustle",
+    "nameJP": "イワパレス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-68",
+    "number": "68",
+    "name": "Magby",
+    "nameJP": "ブビィ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-69",
+    "number": "69",
+    "name": "Wimpod",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-70",
+    "number": "70",
+    "name": "Veluza",
+    "nameJP": "ミガルーサ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-71",
+    "number": "71",
+    "name": "Scream Tail",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-72",
+    "number": "72",
+    "name": "Mienshao",
+    "nameJP": "コジョンド",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-73",
+    "number": "73",
+    "name": "Garganacl",
+    "nameJP": "キョジオーン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-74",
+    "number": "74",
+    "name": "Slither Wing",
+    "nameJP": "スリザーウィング",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-75",
+    "number": "75",
+    "name": "Garbodor",
+    "nameJP": "ダストダス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-76",
+    "number": "76",
+    "name": "Morpeko",
+    "nameJP": "モルペコ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-77",
+    "number": "77",
+    "name": "Brute Bonnet",
+    "nameJP": "ブルートボンネット",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-78",
+    "number": "78",
+    "name": "Loudred",
+    "nameJP": "ドゴーム",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-79",
+    "number": "79",
+    "name": "Armarouge ex",
+    "nameJP": "グレンアルマex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-80",
+    "number": "80",
+    "name": "Tsareena ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-81",
+    "number": "81",
+    "name": "Golisopod ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-82",
+    "number": "82",
+    "name": "Cofagrigus ex",
+    "nameJP": "デスカーンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-83",
+    "number": "83",
+    "name": "Sandy Shocks ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-84",
+    "number": "84",
+    "name": "Roaring Moon ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-85",
+    "number": "85",
+    "name": "Professor Sada's Vitality",
+    "nameJP": "佐田先生のバイタリティ",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-86",
+    "number": "86",
+    "name": "Norman",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-87",
+    "number": "87",
+    "name": "Mela",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-88",
+    "number": "88",
+    "name": "Golisopod ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-89",
+    "number": "89",
+    "name": "Sandy Shocks ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-90",
+    "number": "90",
+    "name": "Roaring Moon ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-91",
+    "number": "91",
+    "name": "Professor Sada's Vitality",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-92",
+    "number": "92",
+    "name": "Mela",
+    "nameJP": "メラ",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-93",
+    "number": "93",
+    "name": "Roaring Moon ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-94",
+    "number": "94",
+    "name": "Luxurious Cape",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4k-95",
+    "number": "95",
+    "name": "Basic Darkness Energy",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4k/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv4k",
+      "name": "Ancient Roar",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

@@ -1,0 +1,3557 @@
+[
+  {
+    "id": "sv8a-1",
+    "number": "1",
+    "name": "Budew",
+    "nameJP": "スボミー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-2",
+    "number": "2",
+    "name": "Leafeon",
+    "nameJP": "リーフィア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-3",
+    "number": "3",
+    "name": "Leafeon ex",
+    "nameJP": "リーフィアex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-4",
+    "number": "4",
+    "name": "Cottonee",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-5",
+    "number": "5",
+    "name": "Whimsicott",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-6",
+    "number": "6",
+    "name": "Grookey",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-7",
+    "number": "7",
+    "name": "Thwackey",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-8",
+    "number": "8",
+    "name": "Applin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-9",
+    "number": "9",
+    "name": "Dipplin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-10",
+    "number": "10",
+    "name": "Hydrapple ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-11",
+    "number": "11",
+    "name": "Bramblin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-12",
+    "number": "12",
+    "name": "Brambleghast",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-13",
+    "number": "13",
+    "name": "Rellor",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-14",
+    "number": "14",
+    "name": "Rabsca",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-15",
+    "number": "15",
+    "name": "Wo-Chien",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-16",
+    "number": "16",
+    "name": "Iron Leaves ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-17",
+    "number": "17",
+    "name": "Poltchageist",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-18",
+    "number": "18",
+    "name": "Sinistcha",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-19",
+    "number": "19",
+    "name": "Sinistcha ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-20",
+    "number": "20",
+    "name": "Teal Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-21",
+    "number": "21",
+    "name": "Flareon",
+    "nameJP": "ブースター",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-22",
+    "number": "22",
+    "name": "Flareon ex",
+    "nameJP": "ブースターex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-23",
+    "number": "23",
+    "name": "Charcadet",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-24",
+    "number": "24",
+    "name": "Iron Moth",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-25",
+    "number": "25",
+    "name": "Chi-Yu",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-26",
+    "number": "26",
+    "name": "Hearthflame Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-27",
+    "number": "27",
+    "name": "Gouging Fire ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-28",
+    "number": "28",
+    "name": "Goldeen",
+    "nameJP": "トサキント",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-29",
+    "number": "29",
+    "name": "Seaking",
+    "nameJP": "アズマオウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-30",
+    "number": "30",
+    "name": "Vaporeon",
+    "nameJP": "シャワーズ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-31",
+    "number": "31",
+    "name": "Vaporeon ex",
+    "nameJP": "シャワーズex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-32",
+    "number": "32",
+    "name": "Totodile",
+    "nameJP": "ワニノコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-33",
+    "number": "33",
+    "name": "Croconaw",
+    "nameJP": "アリゲイツ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-34",
+    "number": "34",
+    "name": "Feraligatr",
+    "nameJP": "オーダイル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-35",
+    "number": "35",
+    "name": "Feebas",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-36",
+    "number": "36",
+    "name": "Milotic",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-37",
+    "number": "37",
+    "name": "Snorunt",
+    "nameJP": "ユキワラシ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-38",
+    "number": "38",
+    "name": "Froslass",
+    "nameJP": "ユキメノコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-39",
+    "number": "39",
+    "name": "Garchomp ex",
+    "nameJP": "ガブリアスex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-40",
+    "number": "40",
+    "name": "Glaceon",
+    "nameJP": "グレイシア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-41",
+    "number": "41",
+    "name": "Glaceon ex",
+    "nameJP": "グレイシアex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-42",
+    "number": "42",
+    "name": "Wiglett",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-43",
+    "number": "43",
+    "name": "Wugtrio",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-44",
+    "number": "44",
+    "name": "Finizen",
+    "nameJP": "ナミイルカ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-45",
+    "number": "45",
+    "name": "Palafin",
+    "nameJP": "イルカマン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-46",
+    "number": "46",
+    "name": "Palafin ex",
+    "nameJP": "イルカマンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-47",
+    "number": "47",
+    "name": "Iron Bundle",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-48",
+    "number": "48",
+    "name": "Chien-Pao",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-49",
+    "number": "49",
+    "name": "Walking Wake ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-50",
+    "number": "50",
+    "name": "Wellspring Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-51",
+    "number": "51",
+    "name": "Jolteon",
+    "nameJP": "サンダース",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-52",
+    "number": "52",
+    "name": "Jolteon ex",
+    "nameJP": "サンダースex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-53",
+    "number": "53",
+    "name": "Zeraora",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-54",
+    "number": "54",
+    "name": "Iron Hands ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-55",
+    "number": "55",
+    "name": "Iron Thorns",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-56",
+    "number": "56",
+    "name": "Iron Thorns ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-57",
+    "number": "57",
+    "name": "Abra",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-58",
+    "number": "58",
+    "name": "Kadabra",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-59",
+    "number": "59",
+    "name": "Alakazam",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-60",
+    "number": "60",
+    "name": "Natu",
+    "nameJP": "ネイティ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-61",
+    "number": "61",
+    "name": "Xatu",
+    "nameJP": "ネイティオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-62",
+    "number": "62",
+    "name": "Espeon",
+    "nameJP": "エーフィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-63",
+    "number": "63",
+    "name": "Espeon ex",
+    "nameJP": "エーフィex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-64",
+    "number": "64",
+    "name": "Duskull",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-65",
+    "number": "65",
+    "name": "Dusclops",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-66",
+    "number": "66",
+    "name": "Dusknoir",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-67",
+    "number": "67",
+    "name": "Swirlix",
+    "nameJP": "ペロッパフ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-68",
+    "number": "68",
+    "name": "Sylveon",
+    "nameJP": "ニンフィア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-69",
+    "number": "69",
+    "name": "Sylveon ex",
+    "nameJP": "ニンフィアex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-70",
+    "number": "70",
+    "name": "Ceruledge",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-71",
+    "number": "71",
+    "name": "Scream Tail",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-72",
+    "number": "72",
+    "name": "Flutter Mane",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-73",
+    "number": "73",
+    "name": "Gimmighoul",
+    "nameJP": "コレクレー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-74",
+    "number": "74",
+    "name": "Iron Valiant",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-75",
+    "number": "75",
+    "name": "Pecharunt",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-76",
+    "number": "76",
+    "name": "Fezandipiti",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-77",
+    "number": "77",
+    "name": "Iron Boulder",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-78",
+    "number": "78",
+    "name": "Iron Crown ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-79",
+    "number": "79",
+    "name": "Relicanth",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-80",
+    "number": "80",
+    "name": "Groudon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-81",
+    "number": "81",
+    "name": "Gible",
+    "nameJP": "フカマル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-82",
+    "number": "82",
+    "name": "Gabite",
+    "nameJP": "ガバイト",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-83",
+    "number": "83",
+    "name": "Drilbur",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-84",
+    "number": "84",
+    "name": "Hawlucha",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-85",
+    "number": "85",
+    "name": "Bloodmoon Ursaluna",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-86",
+    "number": "86",
+    "name": "Great Tusk",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-87",
+    "number": "87",
+    "name": "Slither Wing",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-88",
+    "number": "88",
+    "name": "Sandy Shocks ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-89",
+    "number": "89",
+    "name": "Ting-Lu",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-90",
+    "number": "90",
+    "name": "Okidogi",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-91",
+    "number": "91",
+    "name": "Cornerstone Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-92",
+    "number": "92",
+    "name": "Umbreon",
+    "nameJP": "ブラッキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-93",
+    "number": "93",
+    "name": "Umbreon ex",
+    "nameJP": "ブラッキーex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-94",
+    "number": "94",
+    "name": "Trubbish",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-95",
+    "number": "95",
+    "name": "Garbodor",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-96",
+    "number": "96",
+    "name": "Zorua",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-97",
+    "number": "97",
+    "name": "Zoroark",
+    "nameJP": "ゾロアーク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-98",
+    "number": "98",
+    "name": "Morpeko",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-99",
+    "number": "99",
+    "name": "Brute Bonnet",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-100",
+    "number": "100",
+    "name": "Roaring Moon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-101",
+    "number": "101",
+    "name": "Roaring Moon ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-102",
+    "number": "102",
+    "name": "Okidogi ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-103",
+    "number": "103",
+    "name": "Munkidori ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-104",
+    "number": "104",
+    "name": "Fezandipiti ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-105",
+    "number": "105",
+    "name": "Pecharunt ex",
+    "nameJP": "ペチャラントエックス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-106",
+    "number": "106",
+    "name": "Beldum",
+    "nameJP": "ダンバル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-107",
+    "number": "107",
+    "name": "Metang",
+    "nameJP": "メタング",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-108",
+    "number": "108",
+    "name": "Jirachi",
+    "nameJP": "ジラーチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-109",
+    "number": "109",
+    "name": "Honedge",
+    "nameJP": "ヒトツキ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-110",
+    "number": "110",
+    "name": "Doublade",
+    "nameJP": "ニダンギル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-111",
+    "number": "111",
+    "name": "Aegislash",
+    "nameJP": "ギルガルド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-112",
+    "number": "112",
+    "name": "Duraludon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-113",
+    "number": "113",
+    "name": "Archaludon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-114",
+    "number": "114",
+    "name": "Varoom",
+    "nameJP": "ブロロン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-115",
+    "number": "115",
+    "name": "Revavroom",
+    "nameJP": "ブロロローム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-116",
+    "number": "116",
+    "name": "Iron Treads",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-117",
+    "number": "117",
+    "name": "Gholdengo ex",
+    "nameJP": "サーフゴーex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-118",
+    "number": "118",
+    "name": "Dreepy",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-119",
+    "number": "119",
+    "name": "Drakloak",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-120",
+    "number": "120",
+    "name": "Dragapult ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-121",
+    "number": "121",
+    "name": "Tatsugiri",
+    "nameJP": "シャリタツ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-122",
+    "number": "122",
+    "name": "Koraidon",
+    "nameJP": "コライドン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-123",
+    "number": "123",
+    "name": "Miraidon",
+    "nameJP": "ミライドン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-124",
+    "number": "124",
+    "name": "Raging Bolt ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-125",
+    "number": "125",
+    "name": "Eevee",
+    "nameJP": "イーブイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-126",
+    "number": "126",
+    "name": "Eevee ex",
+    "nameJP": "イーブイex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-127",
+    "number": "127",
+    "name": "Hoothoot",
+    "nameJP": "ホーホー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-128",
+    "number": "128",
+    "name": "Noctowl",
+    "nameJP": "ヨルノズク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-129",
+    "number": "129",
+    "name": "Dunsparce",
+    "nameJP": "ノコッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-130",
+    "number": "130",
+    "name": "Dudunsparce",
+    "nameJP": "ノココッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-131",
+    "number": "131",
+    "name": "Fan Rotom",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-132",
+    "number": "132",
+    "name": "Regigigas",
+    "nameJP": "レジギガス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-133",
+    "number": "133",
+    "name": "Bouffalant",
+    "nameJP": "バッフロン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/133.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-134",
+    "number": "134",
+    "name": "Bloodmoon Ursaluna ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/134.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-135",
+    "number": "135",
+    "name": "Iron Jugulis",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/135.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-136",
+    "number": "136",
+    "name": "Terapagos ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/136.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-137",
+    "number": "137",
+    "name": "Ogre's Mask",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/137.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-138",
+    "number": "138",
+    "name": "Enhanced Hammer",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/138.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-139",
+    "number": "139",
+    "name": "Counter Catcher",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/139.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-140",
+    "number": "140",
+    "name": "Glass Trumpet",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/140.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-141",
+    "number": "141",
+    "name": "Superior Energy Retrieval",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/141.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-142",
+    "number": "142",
+    "name": "MAX Rod",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/142.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-143",
+    "number": "143",
+    "name": "Earthen Vessel",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/143.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-144",
+    "number": "144",
+    "name": "Techno Radar",
+    "nameJP": "テクノレーダー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/144.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-145",
+    "number": "145",
+    "name": "Tera Orb",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/145.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-146",
+    "number": "146",
+    "name": "Treasure Gadget",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/146.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-147",
+    "number": "147",
+    "name": "Buddy-Buddy Poffin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/147.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-148",
+    "number": "148",
+    "name": "Prime Catcher",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/148.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-149",
+    "number": "149",
+    "name": "Scoop Up Cyclone",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/149.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-150",
+    "number": "150",
+    "name": "Bug Catching Set",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/150.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-151",
+    "number": "151",
+    "name": "Night Stretcher",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/151.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-152",
+    "number": "152",
+    "name": "Sparkling Crystal",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/152.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-153",
+    "number": "153",
+    "name": "Rescue Board",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/153.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-154",
+    "number": "154",
+    "name": "Binding Mochi",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/154.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-155",
+    "number": "155",
+    "name": "Luxurious Cape",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/155.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-156",
+    "number": "156",
+    "name": "Haban Berry",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/156.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-157",
+    "number": "157",
+    "name": "Ancient Booster Energy Capsule",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/157.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-158",
+    "number": "158",
+    "name": "Future Booster Energy Capsule",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/158.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-159",
+    "number": "159",
+    "name": "Maximum Belt",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/159.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-160",
+    "number": "160",
+    "name": "Technical Machine: Evolution",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/160.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-161",
+    "number": "161",
+    "name": "Technical Machine: Devolution",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/161.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-162",
+    "number": "162",
+    "name": "Larry's Professionalism",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/162.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-163",
+    "number": "163",
+    "name": "Crispin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/163.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-164",
+    "number": "164",
+    "name": "Colress's Tenacity",
+    "nameJP": "コレスの粘り強さ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/164.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-165",
+    "number": "165",
+    "name": "Ciphermaniac's Codebreaking",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/165.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-166",
+    "number": "166",
+    "name": "Janine's Secret Art",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/166.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-167",
+    "number": "167",
+    "name": "Professor Sada's Vitality",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/167.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-168",
+    "number": "168",
+    "name": "Lana's Aid",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/168.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-169",
+    "number": "169",
+    "name": "Kieran",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/169.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-170",
+    "number": "170",
+    "name": "Carmine",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/170.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-171",
+    "number": "171",
+    "name": "Lacey",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/171.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-172",
+    "number": "172",
+    "name": "Explorer's Guidance",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/172.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-173",
+    "number": "173",
+    "name": "Amarys",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/173.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-174",
+    "number": "174",
+    "name": "Friends in Paldea",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/174.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-175",
+    "number": "175",
+    "name": "Professor Turo's Scenario",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/175.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-176",
+    "number": "176",
+    "name": "Briar",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/176.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-177",
+    "number": "177",
+    "name": "Bianca's Devotion",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/177.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-178",
+    "number": "178",
+    "name": "Morty's Conviction",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/178.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-179",
+    "number": "179",
+    "name": "Mela",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/179.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-180",
+    "number": "180",
+    "name": "Festival Grounds",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/180.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-181",
+    "number": "181",
+    "name": "Jamming Tower",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/181.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-182",
+    "number": "182",
+    "name": "Area Zero Underdepths",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/182.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-183",
+    "number": "183",
+    "name": "Moonlit Hill",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/183.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-184",
+    "number": "184",
+    "name": "Neutralization Zone",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/184.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-185",
+    "number": "185",
+    "name": "Jet Energy",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/185.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-186",
+    "number": "186",
+    "name": "Mist Energy",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/186.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-187",
+    "number": "187",
+    "name": "Legacy Energy",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/187.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-188",
+    "number": "188",
+    "name": "Larry's Efficiency",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/188.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-189",
+    "number": "189",
+    "name": "Ortega",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/189.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-190",
+    "number": "190",
+    "name": "Brassius",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/190.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-191",
+    "number": "191",
+    "name": "Atticus",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/191.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-192",
+    "number": "192",
+    "name": "Atticus",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/192.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-193",
+    "number": "193",
+    "name": "Tyme",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/193.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-194",
+    "number": "194",
+    "name": "Amarys",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/194.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-195",
+    "number": "195",
+    "name": "Friends in Paldea",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/195.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-196",
+    "number": "196",
+    "name": "Giacomo",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/196.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-197",
+    "number": "197",
+    "name": "Eri",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/197.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-198",
+    "number": "198",
+    "name": "Mela",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/198.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-199",
+    "number": "199",
+    "name": "Raifort",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/199.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-200",
+    "number": "200",
+    "name": "Leafeon ex",
+    "nameJP": "リーフィアex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/200.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-201",
+    "number": "201",
+    "name": "Teal Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/201.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-202",
+    "number": "202",
+    "name": "Flareon ex",
+    "nameJP": "ブースターex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/202.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-203",
+    "number": "203",
+    "name": "Ceruledge ex",
+    "nameJP": "ソウブレイズex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/203.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-204",
+    "number": "204",
+    "name": "Hearthflame Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/204.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-205",
+    "number": "205",
+    "name": "Vaporeon ex",
+    "nameJP": "シャワーズex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/205.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-206",
+    "number": "206",
+    "name": "Glaceon ex",
+    "nameJP": "グレイシアex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/206.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-207",
+    "number": "207",
+    "name": "Palafin ex",
+    "nameJP": "イルカマンex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/207.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-208",
+    "number": "208",
+    "name": "Wellspring Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/208.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-209",
+    "number": "209",
+    "name": "Jolteon ex",
+    "nameJP": "サンダースex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/209.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-210",
+    "number": "210",
+    "name": "Iron Hands ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/210.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-211",
+    "number": "211",
+    "name": "Espeon ex",
+    "nameJP": "エーフィex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/211.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-212",
+    "number": "212",
+    "name": "Sylveon ex",
+    "nameJP": "ニンフィアex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/212.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-213",
+    "number": "213",
+    "name": "Iron Valiant ex",
+    "nameJP": "アイアンヴァリアントex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/213.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-214",
+    "number": "214",
+    "name": "Iron Crown ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/214.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-215",
+    "number": "215",
+    "name": "Sandy Shocks ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/215.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-216",
+    "number": "216",
+    "name": "Cornerstone Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/216.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-217",
+    "number": "217",
+    "name": "Umbreon ex",
+    "nameJP": "ブラッキーex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/217.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-218",
+    "number": "218",
+    "name": "Roaring Moon ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/218.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-219",
+    "number": "219",
+    "name": "Pecharunt ex",
+    "nameJP": "ペチャラントエックス",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/219.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-220",
+    "number": "220",
+    "name": "Gholdengo ex",
+    "nameJP": "サーフゴーex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/220.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-221",
+    "number": "221",
+    "name": "Dragapult ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/221.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-222",
+    "number": "222",
+    "name": "Raging Bolt ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/222.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-223",
+    "number": "223",
+    "name": "Eevee ex",
+    "nameJP": "イーブイex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/223.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-224",
+    "number": "224",
+    "name": "Eevee ex",
+    "nameJP": "イーブイex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/224.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-225",
+    "number": "225",
+    "name": "Bloodmoon Ursaluna ex",
+    "nameJP": "ブラッドムーン・ウルサルナ・エクス",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/225.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-226",
+    "number": "226",
+    "name": "Terapagos ex",
+    "nameJP": "テラパゴスex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/226.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-227",
+    "number": "227",
+    "name": "Crispin",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/227.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-228",
+    "number": "228",
+    "name": "Janine's Secret Art",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/228.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-229",
+    "number": "229",
+    "name": "Drayton",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/229.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-230",
+    "number": "230",
+    "name": "Kieran",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/230.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-231",
+    "number": "231",
+    "name": "Lacey",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/231.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-232",
+    "number": "232",
+    "name": "Amarys",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/232.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-233",
+    "number": "233",
+    "name": "Iron Leaves ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/233.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-234",
+    "number": "234",
+    "name": "Teal Mask Ogerpon ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/234.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-235",
+    "number": "235",
+    "name": "Walking Wake ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/235.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-236",
+    "number": "236",
+    "name": "Pikachu ex",
+    "nameJP": "ピカチュウex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/236.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv8a-237",
+    "number": "237",
+    "name": "Terapagos ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv8a/img-cards/237.png",
+    "alt": [],
+    "set": {
+      "id": "sv8a",
+      "name": "Terastal Festival ex",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

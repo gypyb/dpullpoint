@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "sv7-1",
+    "number": "1",
+    "name": "Ledyba",
+    "nameJP": "レディバ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-2",
+    "number": "2",
+    "name": "Ledian",
+    "nameJP": "レディアン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-3",
+    "number": "3",
+    "name": "Lileep",
+    "nameJP": "リリーラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-4",
+    "number": "4",
+    "name": "Cradily",
+    "nameJP": "ユレイドル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-5",
+    "number": "5",
+    "name": "Carnivine",
+    "nameJP": "マスキッパ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-6",
+    "number": "6",
+    "name": "Mow Rotom",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-7",
+    "number": "7",
+    "name": "Grubbin",
+    "nameJP": "グラビン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-8",
+    "number": "8",
+    "name": "Gossifleur",
+    "nameJP": "ゴシフルール",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-9",
+    "number": "9",
+    "name": "Eldegoss",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-10",
+    "number": "10",
+    "name": "Applin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-11",
+    "number": "11",
+    "name": "Dipplin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-12",
+    "number": "12",
+    "name": "Hydrapplin ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-13",
+    "number": "13",
+    "name": "Salandit",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-14",
+    "number": "14",
+    "name": "Salazzle",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-15",
+    "number": "15",
+    "name": "Turtonator",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-16",
+    "number": "16",
+    "name": "Scorbunny",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-17",
+    "number": "17",
+    "name": "Raboot",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-18",
+    "number": "18",
+    "name": "Cinderace ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-19",
+    "number": "19",
+    "name": "Lapras ex",
+    "nameJP": "ラプラスex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-20",
+    "number": "20",
+    "name": "Finneon",
+    "nameJP": "ケイコウオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-21",
+    "number": "21",
+    "name": "Lumineon",
+    "nameJP": "ネオラント",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-22",
+    "number": "22",
+    "name": "Tirtouga",
+    "nameJP": "プロトーガ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-23",
+    "number": "23",
+    "name": "Carracosta",
+    "nameJP": "アバゴーラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-24",
+    "number": "24",
+    "name": "Crabominable",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-25",
+    "number": "25",
+    "name": "Chewtle",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-26",
+    "number": "26",
+    "name": "Dreadnaw",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-27",
+    "number": "27",
+    "name": "Veluza",
+    "nameJP": "ミガルーサ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-28",
+    "number": "28",
+    "name": "Electabuzz",
+    "nameJP": "エレブー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-29",
+    "number": "29",
+    "name": "Electivire",
+    "nameJP": "エレキブル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-30",
+    "number": "30",
+    "name": "Chinchou",
+    "nameJP": "チョンチー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-31",
+    "number": "31",
+    "name": "Lanturn",
+    "nameJP": "ランターン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-32",
+    "number": "32",
+    "name": "Joltik",
+    "nameJP": "バチュル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-33",
+    "number": "33",
+    "name": "Galvantula ex",
+    "nameJP": "デンチュラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-34",
+    "number": "34",
+    "name": "Charjabug",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-35",
+    "number": "35",
+    "name": "Vikavolt",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-36",
+    "number": "36",
+    "name": "Togedemaru",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-37",
+    "number": "37",
+    "name": "Zeraora",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-38",
+    "number": "38",
+    "name": "Slowpoke",
+    "nameJP": "ヤドン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-39",
+    "number": "39",
+    "name": "Slowking",
+    "nameJP": "ヤドキング",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-40",
+    "number": "40",
+    "name": "Drifloon",
+    "nameJP": "フワンテ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-41",
+    "number": "41",
+    "name": "Drifblim",
+    "nameJP": "フワライド",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-42",
+    "number": "42",
+    "name": "Comfey",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-43",
+    "number": "43",
+    "name": "Milcery",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-44",
+    "number": "44",
+    "name": "Alcremie",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-45",
+    "number": "45",
+    "name": "Dachsbun",
+    "nameJP": "バウッツェル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-46",
+    "number": "46",
+    "name": "Dachsbun ex",
+    "nameJP": "バウッツェルex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-47",
+    "number": "47",
+    "name": "Iron Boulder",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-48",
+    "number": "48",
+    "name": "Cubone",
+    "nameJP": "カラカラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-49",
+    "number": "49",
+    "name": "Marowak",
+    "nameJP": "ガラガラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-50",
+    "number": "50",
+    "name": "Rhyhorn",
+    "nameJP": "サイホーン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-51",
+    "number": "51",
+    "name": "Rhydon",
+    "nameJP": "サイドン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-52",
+    "number": "52",
+    "name": "Rhyperior",
+    "nameJP": "ドサイドン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-53",
+    "number": "53",
+    "name": "Meditite",
+    "nameJP": "アサナン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-54",
+    "number": "54",
+    "name": "Medicham ex",
+    "nameJP": "チャーレムex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-55",
+    "number": "55",
+    "name": "Mienfoo",
+    "nameJP": "コジョフー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-56",
+    "number": "56",
+    "name": "Mienshao",
+    "nameJP": "コジョンド",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-57",
+    "number": "57",
+    "name": "Pancham",
+    "nameJP": "ヤンチャム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-58",
+    "number": "58",
+    "name": "Diancie",
+    "nameJP": "ディアンシー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-59",
+    "number": "59",
+    "name": "Crabrawler",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-60",
+    "number": "60",
+    "name": "Falinks",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-61",
+    "number": "61",
+    "name": "Gulpin",
+    "nameJP": "ゴクリン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-62",
+    "number": "62",
+    "name": "Swalot",
+    "nameJP": "マルノーム",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-63",
+    "number": "63",
+    "name": "Pangoro",
+    "nameJP": "ゴロンダ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-64",
+    "number": "64",
+    "name": "Impidimp",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-65",
+    "number": "65",
+    "name": "Morgrem",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-66",
+    "number": "66",
+    "name": "Grimmsnarl",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-67",
+    "number": "67",
+    "name": "Kling",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-68",
+    "number": "68",
+    "name": "Klang",
+    "nameJP": "ギギアル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-69",
+    "number": "69",
+    "name": "Klingklang",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-70",
+    "number": "70",
+    "name": "Meltan",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-71",
+    "number": "71",
+    "name": "Melmetal",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-72",
+    "number": "72",
+    "name": "Duraludon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-73",
+    "number": "73",
+    "name": "Archaludon",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-74",
+    "number": "74",
+    "name": "Orthworm ex",
+    "nameJP": "ミミズズex",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-75",
+    "number": "75",
+    "name": "Raging Bolt",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-76",
+    "number": "76",
+    "name": "Hoothoot",
+    "nameJP": "ホーホー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-77",
+    "number": "77",
+    "name": "Noctowl",
+    "nameJP": "ヨルノズク",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-78",
+    "number": "78",
+    "name": "Glameow",
+    "nameJP": "ニャルマー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-79",
+    "number": "79",
+    "name": "Purugly",
+    "nameJP": "ブニャット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-80",
+    "number": "80",
+    "name": "Fan Rotom",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-81",
+    "number": "81",
+    "name": "Bouffalant",
+    "nameJP": "バッフロン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-82",
+    "number": "82",
+    "name": "Tornadus",
+    "nameJP": "トルネロス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-83",
+    "number": "83",
+    "name": "Fletchling",
+    "nameJP": "ヤヤコマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-84",
+    "number": "84",
+    "name": "Fletchinder",
+    "nameJP": "ヒノヤコマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-85",
+    "number": "85",
+    "name": "Talonflame",
+    "nameJP": "ファイアロー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-86",
+    "number": "86",
+    "name": "Wooloo",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-87",
+    "number": "87",
+    "name": "Dubwool",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-88",
+    "number": "88",
+    "name": "Terapagos ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-89",
+    "number": "89",
+    "name": "Glass Trumpet",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-90",
+    "number": "90",
+    "name": "Antique Root Fossil",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-91",
+    "number": "91",
+    "name": "Cover Fossil",
+    "nameJP": "カバー化石",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-92",
+    "number": "92",
+    "name": "Payapa Berry",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-93",
+    "number": "93",
+    "name": "Occa Berry",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-94",
+    "number": "94",
+    "name": "Glistening Crystal",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv7/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-95",
+    "number": "95",
+    "name": "Gravity Stone",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-96",
+    "number": "96",
+    "name": "Deluxe Bomb",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv7/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-97",
+    "number": "97",
+    "name": "Crispin",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-98",
+    "number": "98",
+    "name": "Lacey",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-99",
+    "number": "99",
+    "name": "Kofu",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-100",
+    "number": "100",
+    "name": "Briar",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-101",
+    "number": "101",
+    "name": "Venerable Tree",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv7/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-102",
+    "number": "102",
+    "name": "Area Zero Underdepths",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-103",
+    "number": "103",
+    "name": "Ledian",
+    "nameJP": "レディアン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-104",
+    "number": "104",
+    "name": "Lileep",
+    "nameJP": "リリーラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-105",
+    "number": "105",
+    "name": "Turtonator",
+    "nameJP": "タートネーター",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-106",
+    "number": "106",
+    "name": "Raboot",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-107",
+    "number": "107",
+    "name": "Crabominable",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-108",
+    "number": "108",
+    "name": "Joltik",
+    "nameJP": "バチュル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-109",
+    "number": "109",
+    "name": "Zeraora",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-110",
+    "number": "110",
+    "name": "Milcery",
+    "nameJP": "ミルセリー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-111",
+    "number": "111",
+    "name": "Meditite",
+    "nameJP": "アサナン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-112",
+    "number": "112",
+    "name": "Gulpin",
+    "nameJP": "ゴクリン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-113",
+    "number": "113",
+    "name": "Archaludon",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-114",
+    "number": "114",
+    "name": "Noctowl",
+    "nameJP": "ヨルノズク",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-115",
+    "number": "115",
+    "name": "Hydrapple ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-116",
+    "number": "116",
+    "name": "Cinderace ex",
+    "nameJP": "シンデレラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-117",
+    "number": "117",
+    "name": "Lapras ex",
+    "nameJP": "ラプラスex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-118",
+    "number": "118",
+    "name": "Galvantula ex",
+    "nameJP": "デンチュラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-119",
+    "number": "119",
+    "name": "Dachsbun ex",
+    "nameJP": "バウッツェルex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-120",
+    "number": "120",
+    "name": "Medicham ex",
+    "nameJP": "チャーレムex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-121",
+    "number": "121",
+    "name": "Orthworm ex",
+    "nameJP": "ミミズズex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-122",
+    "number": "122",
+    "name": "Terapagos ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-123",
+    "number": "123",
+    "name": "Crispin",
+    "nameJP": "クリスピン",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-124",
+    "number": "124",
+    "name": "Lacey",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-125",
+    "number": "125",
+    "name": "Kofu",
+    "nameJP": "甲府",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-126",
+    "number": "126",
+    "name": "Briar",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-127",
+    "number": "127",
+    "name": "Hydrapple ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-128",
+    "number": "128",
+    "name": "Galvantula ex",
+    "nameJP": "デンチュラex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-129",
+    "number": "129",
+    "name": "Dachsbun ex",
+    "nameJP": "バウッツェルex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-130",
+    "number": "130",
+    "name": "Terapagos ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-131",
+    "number": "131",
+    "name": "Lacey",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-132",
+    "number": "132",
+    "name": "Briar",
+    "nameJP": "ブライアー",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-133",
+    "number": "133",
+    "name": "Terapagos ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/133.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-134",
+    "number": "134",
+    "name": "Bravery Charm",
+    "nameJP": "勇気の魅力",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/134.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7-135",
+    "number": "135",
+    "name": "Area Zero Underdepths",
+    "nameJP": "エリアゼロアンダーデプス",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv7/img-cards/135.png",
+    "alt": [],
+    "set": {
+      "id": "sv7",
+      "name": "Stella Miracle",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

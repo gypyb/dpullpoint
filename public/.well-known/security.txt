@@ -1,0 +1,4 @@
+Contact: mailto:direccion@dpullpoint.com
+Encryption: https://dpullpoint.com/pgp.txt
+Preferred-Languages: es, en
+Canonical: https://dpullpoint.com/.well-known/security.txt

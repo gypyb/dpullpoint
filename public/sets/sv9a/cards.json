@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "sv9a-1",
+    "number": "1",
+    "name": "Ethan's Pinsir",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-2",
+    "number": "2",
+    "name": "Yanma",
+    "nameJP": "ヤンヤンマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-3",
+    "number": "3",
+    "name": "Yanmega ex",
+    "nameJP": "メガヤンマex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-4",
+    "number": "4",
+    "name": "Cynthia's Roselia",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-5",
+    "number": "5",
+    "name": "Cynthia's Roserade",
+    "nameJP": "シンシアのローズレッド",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-6",
+    "number": "6",
+    "name": "Shaymin",
+    "nameJP": "シェイミ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-7",
+    "number": "7",
+    "name": "Dwebble",
+    "nameJP": "イシズマイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-8",
+    "number": "8",
+    "name": "Crustle",
+    "nameJP": "イワパレス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-9",
+    "number": "9",
+    "name": "Applin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-10",
+    "number": "10",
+    "name": "Dipplin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-11",
+    "number": "11",
+    "name": "Hydrapple",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-12",
+    "number": "12",
+    "name": "Teal Mask Ogerpon",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-13",
+    "number": "13",
+    "name": "Ponyta",
+    "nameJP": "ポニータ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-14",
+    "number": "14",
+    "name": "Rapidash",
+    "nameJP": "ギャロップ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-15",
+    "number": "15",
+    "name": "Ethan's Cyndaquil",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-16",
+    "number": "16",
+    "name": "Ethan's Quilava",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-17",
+    "number": "17",
+    "name": "Ethan's Typhlosion",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-18",
+    "number": "18",
+    "name": "Ethan's Slugma",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-19",
+    "number": "19",
+    "name": "Ethan's Magcargo",
+    "nameJP": "イーサンのマグカルゴ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-20",
+    "number": "20",
+    "name": "Ethan's Ho-Oh ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-21",
+    "number": "21",
+    "name": "Hearthflame Mask Ogerpon",
+    "nameJP": "ハースフレームマスクオゲルポン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-22",
+    "number": "22",
+    "name": "Misty's Psyduck",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-23",
+    "number": "23",
+    "name": "Misty's Staryu",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-24",
+    "number": "24",
+    "name": "Misty's Starmie",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-25",
+    "number": "25",
+    "name": "Misty's Magikarp",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-26",
+    "number": "26",
+    "name": "Misty's Gyarados",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-27",
+    "number": "27",
+    "name": "Misty's Lapras",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-28",
+    "number": "28",
+    "name": "Cynthia's Feebas",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-29",
+    "number": "29",
+    "name": "Cynthia's Milotic",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-30",
+    "number": "30",
+    "name": "Buizel",
+    "nameJP": "ブイゼル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-31",
+    "number": "31",
+    "name": "Floatzel",
+    "nameJP": "フローゼル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-32",
+    "number": "32",
+    "name": "Dondozo ex",
+    "nameJP": "ヘイラッシャex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-33",
+    "number": "33",
+    "name": "Wellspring Mask Ogerpon",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-34",
+    "number": "34",
+    "name": "Electabuzz",
+    "nameJP": "エレブー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-35",
+    "number": "35",
+    "name": "Electivire ex",
+    "nameJP": "エレキブルex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-36",
+    "number": "36",
+    "name": "Ethan's Pichu",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-37",
+    "number": "37",
+    "name": "Electrike",
+    "nameJP": "ラクライ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-38",
+    "number": "38",
+    "name": "Manectric",
+    "nameJP": "ライボルト",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-39",
+    "number": "39",
+    "name": "Rotom",
+    "nameJP": "ロトム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-40",
+    "number": "40",
+    "name": "Zeraora",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-41",
+    "number": "41",
+    "name": "Ethan's Sudowoodo",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-42",
+    "number": "42",
+    "name": "Cynthia's Gible",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-43",
+    "number": "43",
+    "name": "Cynthia's Gabite",
+    "nameJP": "シンシアのガビテ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-44",
+    "number": "44",
+    "name": "Cynthia's Garchomp ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-45",
+    "number": "45",
+    "name": "Mudbray",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-46",
+    "number": "46",
+    "name": "Mudsdale",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-47",
+    "number": "47",
+    "name": "Arven's Toedscool",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-48",
+    "number": "48",
+    "name": "Arven's Toedscruel",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-49",
+    "number": "49",
+    "name": "Cornerstone Mask Ogerpon",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-50",
+    "number": "50",
+    "name": "Cynthia's Spiritomb",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-51",
+    "number": "51",
+    "name": "Arven's Maschiff",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-52",
+    "number": "52",
+    "name": "Arven's Mabosstiff ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-53",
+    "number": "53",
+    "name": "Tauros",
+    "nameJP": "ケンタロス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-54",
+    "number": "54",
+    "name": "Arven's Skwovet",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-55",
+    "number": "55",
+    "name": "Arven's Greedent",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-56",
+    "number": "56",
+    "name": "Sacred Ash",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-57",
+    "number": "57",
+    "name": "Arven's Sandwich",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-58",
+    "number": "58",
+    "name": "Switch",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-59",
+    "number": "59",
+    "name": "Pokémon Catcher",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-60",
+    "number": "60",
+    "name": "Cynthia's Power Weights",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-61",
+    "number": "61",
+    "name": "Emcee's Excitement",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-62",
+    "number": "62",
+    "name": "Judge",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-63",
+    "number": "63",
+    "name": "Ethan's Adventure",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-64",
+    "number": "64",
+    "name": "Yanma",
+    "nameJP": "ヤンヤンマ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-65",
+    "number": "65",
+    "name": "Cynthia's Roserade",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-66",
+    "number": "66",
+    "name": "Shaymin",
+    "nameJP": "シェイミ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-67",
+    "number": "67",
+    "name": "Crustle",
+    "nameJP": "イワパレス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-68",
+    "number": "68",
+    "name": "Hydrapple",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-69",
+    "number": "69",
+    "name": "Rapidash",
+    "nameJP": "ギャロップ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-70",
+    "number": "70",
+    "name": "Ethan's Typhlosion",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-71",
+    "number": "71",
+    "name": "Misty's Psyduck",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-72",
+    "number": "72",
+    "name": "Misty's Lapras",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-73",
+    "number": "73",
+    "name": "Electrike",
+    "nameJP": "ラクライ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-74",
+    "number": "74",
+    "name": "Rotom",
+    "nameJP": "ロトム",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-75",
+    "number": "75",
+    "name": "Arven's Greedent",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-76",
+    "number": "76",
+    "name": "Yanmega",
+    "nameJP": "メガヤンマ",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-77",
+    "number": "77",
+    "name": "Ethan's Ho-Oh ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-78",
+    "number": "78",
+    "name": "Dondozo ex",
+    "nameJP": "ヘイラッシャex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-79",
+    "number": "79",
+    "name": "Electivire ex",
+    "nameJP": "エレキブルex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-80",
+    "number": "80",
+    "name": "Cynthia's Garchomp ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-81",
+    "number": "81",
+    "name": "Arven's Mabosstiff ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-82",
+    "number": "82",
+    "name": "Emcee's Excitement",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-83",
+    "number": "83",
+    "name": "Judge",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-84",
+    "number": "84",
+    "name": "Ethan's Adventure",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-85",
+    "number": "85",
+    "name": "Yanmega ex",
+    "nameJP": "メガヤンマex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-86",
+    "number": "86",
+    "name": "Ethan's Ho-Oh ex",
+    "nameJP": "イーサンのホーオエクス",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-87",
+    "number": "87",
+    "name": "Cynthia's Garchomp ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-88",
+    "number": "88",
+    "name": "Arven's Mabosstiff ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-89",
+    "number": "89",
+    "name": "Ethan's Adventure",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-90",
+    "number": "90",
+    "name": "Ethan's Ho-oh ex",
+    "nameJP": "イーサンのホーオエクス",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-91",
+    "number": "91",
+    "name": "Cynthia's Garchomp ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9a-92",
+    "number": "92",
+    "name": "Levincia City",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv9a/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv9a",
+      "name": "Hot Air Arena",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

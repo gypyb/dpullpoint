@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "m1s-1",
+    "number": "1",
+    "name": "Tangela",
+    "nameJP": "モンジャラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-2",
+    "number": "2",
+    "name": "Tangrowth",
+    "nameJP": "モジャンボ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-3",
+    "number": "3",
+    "name": "Chikorita",
+    "nameJP": "チコリータ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-4",
+    "number": "4",
+    "name": "Bayleef",
+    "nameJP": "ベイリーフ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-5",
+    "number": "5",
+    "name": "Meganium",
+    "nameJP": "メガニウム",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-6",
+    "number": "6",
+    "name": "Shuckle",
+    "nameJP": "ツボツボ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-7",
+    "number": "7",
+    "name": "Nincada",
+    "nameJP": "ツチニン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-8",
+    "number": "8",
+    "name": "Ninjask",
+    "nameJP": "テッカニン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-9",
+    "number": "9",
+    "name": "Dhelmise",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-10",
+    "number": "10",
+    "name": "Litleo",
+    "nameJP": "シシコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-11",
+    "number": "11",
+    "name": "Pyroar",
+    "nameJP": "カエンジシ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-12",
+    "number": "12",
+    "name": "Sizzlipede",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-13",
+    "number": "13",
+    "name": "Centiskorch",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-14",
+    "number": "14",
+    "name": "Chi-Yu",
+    "nameJP": "イーユイ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-15",
+    "number": "15",
+    "name": "Mantine",
+    "nameJP": "マンタイン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-16",
+    "number": "16",
+    "name": "Kyogre",
+    "nameJP": "カイオーガ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-17",
+    "number": "17",
+    "name": "Snover",
+    "nameJP": "ユキカブリ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-18",
+    "number": "18",
+    "name": "Mega Abomasnow ex",
+    "nameJP": "メガアボマスノーエックス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-19",
+    "number": "19",
+    "name": "Clauncher",
+    "nameJP": "ウデッポウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-20",
+    "number": "20",
+    "name": "Clawitzer",
+    "nameJP": "ブロスター",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-21",
+    "number": "21",
+    "name": "Sobble",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-22",
+    "number": "22",
+    "name": "Drizzile",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-23",
+    "number": "23",
+    "name": "Inteleon",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-24",
+    "number": "24",
+    "name": "Snom",
+    "nameJP": "スノム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-25",
+    "number": "25",
+    "name": "Frosmoth",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-26",
+    "number": "26",
+    "name": "Eiscue",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-27",
+    "number": "27",
+    "name": "Magnemite",
+    "nameJP": "コイル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-28",
+    "number": "28",
+    "name": "Magneton",
+    "nameJP": "レアコイル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-29",
+    "number": "29",
+    "name": "Magnezone",
+    "nameJP": "ジバコイル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-30",
+    "number": "30",
+    "name": "Raikou",
+    "nameJP": "ライコウ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-31",
+    "number": "31",
+    "name": "Electrike",
+    "nameJP": "ラクライ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-32",
+    "number": "32",
+    "name": "Mega Manectric ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-33",
+    "number": "33",
+    "name": "Pachirisu",
+    "nameJP": "パチリス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-34",
+    "number": "34",
+    "name": "Helioptile",
+    "nameJP": "エリキテル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-35",
+    "number": "35",
+    "name": "Heliolisk",
+    "nameJP": "エレザード",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-36",
+    "number": "36",
+    "name": "Abra",
+    "nameJP": "ケーシィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-37",
+    "number": "37",
+    "name": "Kadabra",
+    "nameJP": "ユンゲラー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-38",
+    "number": "38",
+    "name": "Alakazam",
+    "nameJP": "フーディン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-39",
+    "number": "39",
+    "name": "Jynx",
+    "nameJP": "ルージュラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-40",
+    "number": "40",
+    "name": "Ralts",
+    "nameJP": "ラルトス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-41",
+    "number": "41",
+    "name": "Kirlia",
+    "nameJP": "キルリア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-42",
+    "number": "42",
+    "name": "Mega Gardevoir ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-43",
+    "number": "43",
+    "name": "Shedinja",
+    "nameJP": "ヌケニン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-44",
+    "number": "44",
+    "name": "Spoink",
+    "nameJP": "バネブー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-45",
+    "number": "45",
+    "name": "Grumpig",
+    "nameJP": "ブーピッグ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-46",
+    "number": "46",
+    "name": "Xerneas",
+    "nameJP": "ゼルネアス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-47",
+    "number": "47",
+    "name": "Greavard",
+    "nameJP": "ボチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-48",
+    "number": "48",
+    "name": "Houndstone",
+    "nameJP": "ハカドッグ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-49",
+    "number": "49",
+    "name": "Mega Latias ex",
+    "nameJP": "メガ-ラティアス-エクス",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-50",
+    "number": "50",
+    "name": "Latios",
+    "nameJP": "ラティオス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-51",
+    "number": "51",
+    "name": "Mega Kangaskhan ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-52",
+    "number": "52",
+    "name": "Delibird",
+    "nameJP": "デリバード",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-53",
+    "number": "53",
+    "name": "Buneary",
+    "nameJP": "ミミロル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-54",
+    "number": "54",
+    "name": "Lopunny",
+    "nameJP": "ミミロップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-55",
+    "number": "55",
+    "name": "Stufful",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-56",
+    "number": "56",
+    "name": "Bewear",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/m1s/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-57",
+    "number": "57",
+    "name": "Suspicious Watch",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-58",
+    "number": "58",
+    "name": "Mega Signal",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-59",
+    "number": "59",
+    "name": "Acerola's Mischief",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-60",
+    "number": "60",
+    "name": "Wally's Compassion",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-61",
+    "number": "61",
+    "name": "Vitality Forest",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-62",
+    "number": "62",
+    "name": "Surfing Beach",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-63",
+    "number": "63",
+    "name": "Mystery Garden",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/m1s/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-64",
+    "number": "64",
+    "name": "Shuckle",
+    "nameJP": "ツボツボ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-65",
+    "number": "65",
+    "name": "Ninjask",
+    "nameJP": "テッカニン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-66",
+    "number": "66",
+    "name": "Litleo",
+    "nameJP": "シシコ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-67",
+    "number": "67",
+    "name": "Snover",
+    "nameJP": "ユキカブリ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-68",
+    "number": "68",
+    "name": "Clawitzer",
+    "nameJP": "ブロスター",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-69",
+    "number": "69",
+    "name": "Inteleon",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-70",
+    "number": "70",
+    "name": "Helioptile",
+    "nameJP": "エリキテル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-71",
+    "number": "71",
+    "name": "Alakazam",
+    "nameJP": "フーディン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-72",
+    "number": "72",
+    "name": "Shedinja",
+    "nameJP": "ヌケニン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-73",
+    "number": "73",
+    "name": "Houndstone",
+    "nameJP": "ハカドッグ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-74",
+    "number": "74",
+    "name": "Delibird",
+    "nameJP": "デリバード",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-75",
+    "number": "75",
+    "name": "Stufful",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-76",
+    "number": "76",
+    "name": "Mega Abomasnow ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-77",
+    "number": "77",
+    "name": "Mega Manectric ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-78",
+    "number": "78",
+    "name": "Mega Gardevoir ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-79",
+    "number": "79",
+    "name": "Mega Latias ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-80",
+    "number": "80",
+    "name": "Mega Kangaskhan ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-81",
+    "number": "81",
+    "name": "Buddy-Buddy Poffin",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-82",
+    "number": "82",
+    "name": "Rare Candy",
+    "nameJP": "レアキャンディ",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-83",
+    "number": "83",
+    "name": "Mega Signal",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-84",
+    "number": "84",
+    "name": "Acerola's Mischief",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-85",
+    "number": "85",
+    "name": "Wally's Compassion",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-86",
+    "number": "86",
+    "name": "Mystery Garden",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-87",
+    "number": "87",
+    "name": "Mega Gardevoir ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-88",
+    "number": "88",
+    "name": "Mega Latias ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-89",
+    "number": "89",
+    "name": "Mega Kangaskhan ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-90",
+    "number": "90",
+    "name": "Acerola's Mischief",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-91",
+    "number": "91",
+    "name": "Wally's Compassion",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  },
+  {
+    "id": "m1s-92",
+    "number": "92",
+    "name": "Mega Gardevoir ex",
+    "nameJP": "メガ-ガルデヴォワール-エクス",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/m1s/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "m1s",
+      "name": "Mega Symphonia",
+      "series": "Mega Series"
+    }
+  }
+]

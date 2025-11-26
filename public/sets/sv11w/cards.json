@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "sv11w-1",
+    "number": "1",
+    "name": "Sewaddle",
+    "nameJP": "クルミル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-2",
+    "number": "2",
+    "name": "Swadloon",
+    "nameJP": "クルマユ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-3",
+    "number": "3",
+    "name": "Leavanny",
+    "nameJP": "ハハコモリ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-4",
+    "number": "4",
+    "name": "Cottonee",
+    "nameJP": "モンメン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-5",
+    "number": "5",
+    "name": "Whimsicott ex",
+    "nameJP": "エルフーンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-6",
+    "number": "6",
+    "name": "Deerling",
+    "nameJP": "シキジカ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-7",
+    "number": "7",
+    "name": "Sawsbuck",
+    "nameJP": "メブキジカ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-8",
+    "number": "8",
+    "name": "Shelmet",
+    "nameJP": "チョボマキ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-9",
+    "number": "9",
+    "name": "Accelgor",
+    "nameJP": "アギルダー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-10",
+    "number": "10",
+    "name": "Virizion",
+    "nameJP": "ビリジオン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-11",
+    "number": "11",
+    "name": "Tepig",
+    "nameJP": "ポカブ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-12",
+    "number": "12",
+    "name": "Pignite",
+    "nameJP": "チャオブー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-13",
+    "number": "13",
+    "name": "Emboar",
+    "nameJP": "エンブオー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-14",
+    "number": "14",
+    "name": "Pansear",
+    "nameJP": "バオップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-15",
+    "number": "15",
+    "name": "Simisear",
+    "nameJP": "バオッキー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-16",
+    "number": "16",
+    "name": "Heatmor",
+    "nameJP": "クイタラン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-17",
+    "number": "17",
+    "name": "Reshiram ex",
+    "nameJP": "レシラムex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-18",
+    "number": "18",
+    "name": "Oshawott",
+    "nameJP": "ミジュマル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-19",
+    "number": "19",
+    "name": "Dewott",
+    "nameJP": "フタチマル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-20",
+    "number": "20",
+    "name": "Samurott",
+    "nameJP": "ダイケンキ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-21",
+    "number": "21",
+    "name": "Basculin",
+    "nameJP": "バスラオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-22",
+    "number": "22",
+    "name": "Ducklett",
+    "nameJP": "コアルヒー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-23",
+    "number": "23",
+    "name": "Swanna",
+    "nameJP": "スワンナ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-24",
+    "number": "24",
+    "name": "Vanillite",
+    "nameJP": "バニプッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-25",
+    "number": "25",
+    "name": "Vanillish",
+    "nameJP": "バニリッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-26",
+    "number": "26",
+    "name": "Vanilluxe",
+    "nameJP": "バイバニラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-27",
+    "number": "27",
+    "name": "Keldeo ex",
+    "nameJP": "ケルディオex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-28",
+    "number": "28",
+    "name": "Blitzle",
+    "nameJP": "シママ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-29",
+    "number": "29",
+    "name": "Zebstrika",
+    "nameJP": "ゼブライカ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-30",
+    "number": "30",
+    "name": "Joltik",
+    "nameJP": "バチュル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-31",
+    "number": "31",
+    "name": "Galvantula",
+    "nameJP": "デンチュラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-32",
+    "number": "32",
+    "name": "Stunfisk",
+    "nameJP": "マッギョ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-33",
+    "number": "33",
+    "name": "Woobat",
+    "nameJP": "コロモリ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-34",
+    "number": "34",
+    "name": "Swoobat",
+    "nameJP": "ココロモリ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-35",
+    "number": "35",
+    "name": "Sigilyph",
+    "nameJP": "シンボラー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-36",
+    "number": "36",
+    "name": "Yamask",
+    "nameJP": "デスマス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-37",
+    "number": "37",
+    "name": "Cofagrigus",
+    "nameJP": "デスカーン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-38",
+    "number": "38",
+    "name": "Gothita",
+    "nameJP": "ゴチム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-39",
+    "number": "39",
+    "name": "Gothorita",
+    "nameJP": "ゴチミル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-40",
+    "number": "40",
+    "name": "Gothitelle",
+    "nameJP": "ゴチルゼル",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-41",
+    "number": "41",
+    "name": "Frillish",
+    "nameJP": "プルリル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-42",
+    "number": "42",
+    "name": "Jellicent ex",
+    "nameJP": "ブルンゲルex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-43",
+    "number": "43",
+    "name": "Roggenrola",
+    "nameJP": "ダンゴロ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-44",
+    "number": "44",
+    "name": "Boldore",
+    "nameJP": "ガントル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-45",
+    "number": "45",
+    "name": "Gigalith",
+    "nameJP": "ギガイアス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-46",
+    "number": "46",
+    "name": "Sawk",
+    "nameJP": "ダゲキ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-47",
+    "number": "47",
+    "name": "Archen",
+    "nameJP": "アーケン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-48",
+    "number": "48",
+    "name": "Archeops",
+    "nameJP": "アーケオス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-49",
+    "number": "49",
+    "name": "Mienfoo",
+    "nameJP": "コジョフー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-50",
+    "number": "50",
+    "name": "Mienshao",
+    "nameJP": "コジョンド",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-51",
+    "number": "51",
+    "name": "Terrakion",
+    "nameJP": "テラキオン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-52",
+    "number": "52",
+    "name": "Purrloin",
+    "nameJP": "チョロネコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-53",
+    "number": "53",
+    "name": "Liepard",
+    "nameJP": "レパルダス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-54",
+    "number": "54",
+    "name": "Scraggy",
+    "nameJP": "ズルッグ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-55",
+    "number": "55",
+    "name": "Scrafty",
+    "nameJP": "ズルズキン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-56",
+    "number": "56",
+    "name": "Trubbish",
+    "nameJP": "ヤブクロン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-57",
+    "number": "57",
+    "name": "Garbodor",
+    "nameJP": "ダストダス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-58",
+    "number": "58",
+    "name": "Zorua",
+    "nameJP": "ゾロア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-59",
+    "number": "59",
+    "name": "Zoroark",
+    "nameJP": "ゾロアーク",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-60",
+    "number": "60",
+    "name": "Deino",
+    "nameJP": "モノズ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-61",
+    "number": "61",
+    "name": "Zweilous",
+    "nameJP": "ジヘッド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-62",
+    "number": "62",
+    "name": "Hydreigon ex",
+    "nameJP": "サザンドラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-63",
+    "number": "63",
+    "name": "Ferroseed",
+    "nameJP": "テッシード",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-64",
+    "number": "64",
+    "name": "Ferrothorn",
+    "nameJP": "ナットレイ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-65",
+    "number": "65",
+    "name": "Klink",
+    "nameJP": "ギアル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-66",
+    "number": "66",
+    "name": "Klang",
+    "nameJP": "ギギアル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-67",
+    "number": "67",
+    "name": "Klinklang",
+    "nameJP": "ギギギアル",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-68",
+    "number": "68",
+    "name": "Durant",
+    "nameJP": "アイアント",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-69",
+    "number": "69",
+    "name": "Druddigon",
+    "nameJP": "クリムガン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-70",
+    "number": "70",
+    "name": "Patrat",
+    "nameJP": "ミネズミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-71",
+    "number": "71",
+    "name": "Watchog",
+    "nameJP": "ミルホッグ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-72",
+    "number": "72",
+    "name": "Lillipup",
+    "nameJP": "ヨーテリー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-73",
+    "number": "73",
+    "name": "Herdier",
+    "nameJP": "ハーデリア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-74",
+    "number": "74",
+    "name": "Stoutland",
+    "nameJP": "ムーランド",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-75",
+    "number": "75",
+    "name": "Bouffalant ex",
+    "nameJP": "バッフロンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-76",
+    "number": "76",
+    "name": "Rufflet",
+    "nameJP": "ワシボン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-77",
+    "number": "77",
+    "name": "Braviary",
+    "nameJP": "ウォーグル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-78",
+    "number": "78",
+    "name": "Tornadus",
+    "nameJP": "トルネロス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-79",
+    "number": "79",
+    "name": "Energy Retrieval",
+    "nameJP": "エネルギー検索",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-80",
+    "number": "80",
+    "name": "Tool Scrapper",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-81",
+    "number": "81",
+    "name": "Antique Plume Fossil",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-82",
+    "number": "82",
+    "name": "Brave Bangle",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-83",
+    "number": "83",
+    "name": "Harlequin",
+    "nameJP": "ハーレクイン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-84",
+    "number": "84",
+    "name": "Cheren",
+    "nameJP": "チェレン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-85",
+    "number": "85",
+    "name": "Hilda",
+    "nameJP": "ヒルダ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-86",
+    "number": "86",
+    "name": "Ignition Energy",
+    "nameJP": "点火エネルギー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-87",
+    "number": "87",
+    "name": "Sewaddle",
+    "nameJP": "クルミル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-88",
+    "number": "88",
+    "name": "Swadloon",
+    "nameJP": "クルマユ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-89",
+    "number": "89",
+    "name": "Leavanny",
+    "nameJP": "ハハコモリ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-90",
+    "number": "90",
+    "name": "Cottonee",
+    "nameJP": "モンメン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-91",
+    "number": "91",
+    "name": "Deerling",
+    "nameJP": "シキジカ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-92",
+    "number": "92",
+    "name": "Sawsbuck",
+    "nameJP": "メブキジカ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-93",
+    "number": "93",
+    "name": "Shelmet",
+    "nameJP": "チョボマキ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-94",
+    "number": "94",
+    "name": "Accelgor",
+    "nameJP": "アギルダー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-95",
+    "number": "95",
+    "name": "Virizion",
+    "nameJP": "ビリジオン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-96",
+    "number": "96",
+    "name": "Tepig",
+    "nameJP": "ポカブ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-97",
+    "number": "97",
+    "name": "Pignite",
+    "nameJP": "チャオブー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-98",
+    "number": "98",
+    "name": "Emboar",
+    "nameJP": "エンブオー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-99",
+    "number": "99",
+    "name": "Pansear",
+    "nameJP": "バオップ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-100",
+    "number": "100",
+    "name": "Simisear",
+    "nameJP": "バオッキー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-101",
+    "number": "101",
+    "name": "Heatmor",
+    "nameJP": "クイタラン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-102",
+    "number": "102",
+    "name": "Oshawott",
+    "nameJP": "ミジュマル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-103",
+    "number": "103",
+    "name": "Dewott",
+    "nameJP": "フタチマル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-104",
+    "number": "104",
+    "name": "Samurott",
+    "nameJP": "ダイケンキ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-105",
+    "number": "105",
+    "name": "Basculin",
+    "nameJP": "バスラオ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-106",
+    "number": "106",
+    "name": "Ducklett",
+    "nameJP": "コアルヒー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-107",
+    "number": "107",
+    "name": "Swanna",
+    "nameJP": "スワンナ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-108",
+    "number": "108",
+    "name": "Vanillite",
+    "nameJP": "バニプッチ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-109",
+    "number": "109",
+    "name": "Vanillish",
+    "nameJP": "バニリッチ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-110",
+    "number": "110",
+    "name": "Vanilluxe",
+    "nameJP": "バイバニラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-111",
+    "number": "111",
+    "name": "Blitzle",
+    "nameJP": "シママ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-112",
+    "number": "112",
+    "name": "Zebstrika",
+    "nameJP": "ゼブライカ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-113",
+    "number": "113",
+    "name": "Joltik",
+    "nameJP": "バチュル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-114",
+    "number": "114",
+    "name": "Galvantula",
+    "nameJP": "デンチュラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-115",
+    "number": "115",
+    "name": "Stunfisk",
+    "nameJP": "マッギョ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-116",
+    "number": "116",
+    "name": "Woobat",
+    "nameJP": "コロモリ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-117",
+    "number": "117",
+    "name": "Swoobat",
+    "nameJP": "ココロモリ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-118",
+    "number": "118",
+    "name": "Sigilyph",
+    "nameJP": "シンボラー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-119",
+    "number": "119",
+    "name": "Yamask",
+    "nameJP": "デスマス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-120",
+    "number": "120",
+    "name": "Cofagrigus",
+    "nameJP": "デスカーン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-121",
+    "number": "121",
+    "name": "Gothita",
+    "nameJP": "ゴチム",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-122",
+    "number": "122",
+    "name": "Gothorita",
+    "nameJP": "ゴチミル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-123",
+    "number": "123",
+    "name": "Gothitelle",
+    "nameJP": "ゴチルゼル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-124",
+    "number": "124",
+    "name": "Frillish",
+    "nameJP": "プルリル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-125",
+    "number": "125",
+    "name": "Roggenrola",
+    "nameJP": "ダンゴロ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-126",
+    "number": "126",
+    "name": "Boldore",
+    "nameJP": "ガントル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-127",
+    "number": "127",
+    "name": "Gigalith",
+    "nameJP": "ギガイアス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-128",
+    "number": "128",
+    "name": "Sawk",
+    "nameJP": "ダゲキ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-129",
+    "number": "129",
+    "name": "Archen",
+    "nameJP": "アーケン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-130",
+    "number": "130",
+    "name": "Archeops",
+    "nameJP": "アーケオス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-131",
+    "number": "131",
+    "name": "Mienfoo",
+    "nameJP": "コジョフー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-132",
+    "number": "132",
+    "name": "Mienshao",
+    "nameJP": "コジョンド",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-133",
+    "number": "133",
+    "name": "Terrakion",
+    "nameJP": "テラキオン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/133.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-134",
+    "number": "134",
+    "name": "Purrloin",
+    "nameJP": "チョロネコ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/134.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-135",
+    "number": "135",
+    "name": "Liepard",
+    "nameJP": "レパルダス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/135.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-136",
+    "number": "136",
+    "name": "Scraggy",
+    "nameJP": "ズルッグ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/136.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-137",
+    "number": "137",
+    "name": "Scrafty",
+    "nameJP": "ズルズキン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/137.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-138",
+    "number": "138",
+    "name": "Trubbish",
+    "nameJP": "ヤブクロン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/138.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-139",
+    "number": "139",
+    "name": "Garbodor",
+    "nameJP": "ダストダス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/139.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-140",
+    "number": "140",
+    "name": "Zorua",
+    "nameJP": "ゾロア",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/140.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-141",
+    "number": "141",
+    "name": "Zoroark",
+    "nameJP": "ゾロアーク",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/141.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-142",
+    "number": "142",
+    "name": "Deino",
+    "nameJP": "モノズ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/142.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-143",
+    "number": "143",
+    "name": "Zweilous",
+    "nameJP": "ジヘッド",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/143.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-144",
+    "number": "144",
+    "name": "Ferroseed",
+    "nameJP": "テッシード",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/144.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-145",
+    "number": "145",
+    "name": "Ferrothorn",
+    "nameJP": "ナットレイ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/145.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-146",
+    "number": "146",
+    "name": "Klink",
+    "nameJP": "ギアル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/146.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-147",
+    "number": "147",
+    "name": "Klang",
+    "nameJP": "ギギアル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/147.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-148",
+    "number": "148",
+    "name": "Klinklang",
+    "nameJP": "ギギギアル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/148.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-149",
+    "number": "149",
+    "name": "Durant",
+    "nameJP": "アイアント",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/149.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-150",
+    "number": "150",
+    "name": "Druddigon",
+    "nameJP": "クリムガン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/150.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-151",
+    "number": "151",
+    "name": "Patrat",
+    "nameJP": "ミネズミ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/151.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-152",
+    "number": "152",
+    "name": "Watchog",
+    "nameJP": "ミルホッグ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/152.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-153",
+    "number": "153",
+    "name": "Lillipup",
+    "nameJP": "ヨーテリー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/153.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-154",
+    "number": "154",
+    "name": "Herdier",
+    "nameJP": "ハーデリア",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/154.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-155",
+    "number": "155",
+    "name": "Stoutland",
+    "nameJP": "ムーランド",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/155.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-156",
+    "number": "156",
+    "name": "Rufflet",
+    "nameJP": "ワシボン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/156.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-157",
+    "number": "157",
+    "name": "Braviary",
+    "nameJP": "ウォーグル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/157.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-158",
+    "number": "158",
+    "name": "Tornadus",
+    "nameJP": "トルネロス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/158.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-159",
+    "number": "159",
+    "name": "Whimsicott ex",
+    "nameJP": "エルフーンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/159.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-160",
+    "number": "160",
+    "name": "Reshiram ex",
+    "nameJP": "レシラムex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/160.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-161",
+    "number": "161",
+    "name": "Keldeo ex",
+    "nameJP": "ケルディオex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/161.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-162",
+    "number": "162",
+    "name": "Jellicent ex",
+    "nameJP": "ブルンゲルex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/162.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-163",
+    "number": "163",
+    "name": "Hydreigon ex",
+    "nameJP": "サザンドラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/163.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-164",
+    "number": "164",
+    "name": "Bouffalant ex",
+    "nameJP": "バッフロンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/164.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-165",
+    "number": "165",
+    "name": "Harlequin",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/165.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-166",
+    "number": "166",
+    "name": "Hilda",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/166.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-167",
+    "number": "167",
+    "name": "Whimsicott ex",
+    "nameJP": "エルフーンex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/167.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-168",
+    "number": "168",
+    "name": "Reshiram ex",
+    "nameJP": "レシラムex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/168.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-169",
+    "number": "169",
+    "name": "Keldeo ex",
+    "nameJP": "ケルディオex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/169.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-170",
+    "number": "170",
+    "name": "Jellicent ex",
+    "nameJP": "ブルンゲルex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/170.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-171",
+    "number": "171",
+    "name": "Hydreigon ex",
+    "nameJP": "サザンドラex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/171.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-172",
+    "number": "172",
+    "name": "Bouffalant ex",
+    "nameJP": "バッフロンex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/172.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-173",
+    "number": "173",
+    "name": "Hilda",
+    "nameJP": "ヒルダ",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/173.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv11w-174",
+    "number": "174",
+    "name": "Reshiram ex",
+    "nameJP": "レシラムex",
+    "rarity": "B Double Rare",
+    "types": [],
+    "image": "/sets/sv11w/img-cards/174.png",
+    "alt": [],
+    "set": {
+      "id": "sv11w",
+      "name": "White Flare",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

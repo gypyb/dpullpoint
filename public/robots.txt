@@ -1,0 +1,33 @@
+# =============================
+#  ROBOTS.TXT — DPULLPOINT.COM
+#  Limpio, SEO-friendly y seguro
+# =============================
+
+User-agent: *
+
+# --- Bloqueos importantes ---
+# Evitar indexar rutas internas de Next.js
+Disallow: /_next/
+Disallow: /favicon.ico
+
+# Evitar archivos "sueltos" innecesarios
+Disallow: /*.json$
+Disallow: /*.cjs$
+Disallow: /*.map$
+
+# Permitir imágenes (importante para SEO)
+Allow: /*.webp$
+Allow: /*.png$
+Allow: /sets/
+
+# --- Permitir indexar el contenido público ---
+Allow: /collections$
+Allow: /collections/
+Allow: /collections/*
+
+Allow: /aviso-legal
+Allow: /politica-cookies
+Allow: /politica-privacidad
+
+# --- Sitemap ---
+Sitemap: https://dpullpoint.com/sitemap.xml

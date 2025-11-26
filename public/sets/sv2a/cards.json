@@ -1,0 +1,2942 @@
+[
+  {
+    "id": "sv2a-1",
+    "number": "1",
+    "name": "Bulbasaur",
+    "nameJP": "フシギダネ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-2",
+    "number": "2",
+    "name": "Ivysaur",
+    "nameJP": "フシギソウ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-3",
+    "number": "3",
+    "name": "Venusaur ex",
+    "nameJP": "フシギバナex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-4",
+    "number": "4",
+    "name": "Charmander",
+    "nameJP": "ヒトカゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-5",
+    "number": "5",
+    "name": "Charmeleon",
+    "nameJP": "リザード",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-6",
+    "number": "6",
+    "name": "Charizard ex",
+    "nameJP": "リザードンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-7",
+    "number": "7",
+    "name": "Squirtle",
+    "nameJP": "ゼニガメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-8",
+    "number": "8",
+    "name": "Wartortle",
+    "nameJP": "カメール",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-9",
+    "number": "9",
+    "name": "Blastoise ex",
+    "nameJP": "カメックスex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-10",
+    "number": "10",
+    "name": "Caterpie",
+    "nameJP": "キャタピー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-11",
+    "number": "11",
+    "name": "Metapod",
+    "nameJP": "トランセル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-12",
+    "number": "12",
+    "name": "Butterfree",
+    "nameJP": "バタフリー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-13",
+    "number": "13",
+    "name": "Weedle",
+    "nameJP": "ビードル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-14",
+    "number": "14",
+    "name": "Kakuna",
+    "nameJP": "コクーン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-15",
+    "number": "15",
+    "name": "Beedrill",
+    "nameJP": "スピアー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-16",
+    "number": "16",
+    "name": "Pidgey",
+    "nameJP": "ポッポ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-17",
+    "number": "17",
+    "name": "Pidgeotto",
+    "nameJP": "ピジョン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-18",
+    "number": "18",
+    "name": "Pidgeot",
+    "nameJP": "ピジョット",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-19",
+    "number": "19",
+    "name": "Rattata",
+    "nameJP": "コラッタ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-20",
+    "number": "20",
+    "name": "Raticate",
+    "nameJP": "ラッタ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-21",
+    "number": "21",
+    "name": "Spearow",
+    "nameJP": "オニスズメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-22",
+    "number": "22",
+    "name": "Fearow",
+    "nameJP": "オニドリル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-23",
+    "number": "23",
+    "name": "Ekans",
+    "nameJP": "アーボ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-24",
+    "number": "24",
+    "name": "Arbok ex",
+    "nameJP": "アーボックex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-25",
+    "number": "25",
+    "name": "Pikachu",
+    "nameJP": "ピカチュウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-26",
+    "number": "26",
+    "name": "Raichu",
+    "nameJP": "ライチュウ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-27",
+    "number": "27",
+    "name": "Sandshrew",
+    "nameJP": "サンド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-28",
+    "number": "28",
+    "name": "Sandslash",
+    "nameJP": "サンドパン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-29",
+    "number": "29",
+    "name": "Nidoran ♀",
+    "nameJP": "ニドラン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-30",
+    "number": "30",
+    "name": "Nidorina",
+    "nameJP": "ニドリーナ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-31",
+    "number": "31",
+    "name": "Nidoqueen",
+    "nameJP": "ニドクイン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-32",
+    "number": "32",
+    "name": "Nidoran ♂",
+    "nameJP": "ニドラン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-33",
+    "number": "33",
+    "name": "Nidorino",
+    "nameJP": "ニドリーノ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-34",
+    "number": "34",
+    "name": "Nidoking",
+    "nameJP": "ニドキング",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-35",
+    "number": "35",
+    "name": "Clefairy",
+    "nameJP": "ピッピ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-36",
+    "number": "36",
+    "name": "Clefable",
+    "nameJP": "ピクシー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-37",
+    "number": "37",
+    "name": "Vulpix",
+    "nameJP": "ロコン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-38",
+    "number": "38",
+    "name": "Ninetales ex",
+    "nameJP": "キュウコンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-39",
+    "number": "39",
+    "name": "Jigglypuff",
+    "nameJP": "プリン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-40",
+    "number": "40",
+    "name": "Wigglytuff ex",
+    "nameJP": "プクリンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-41",
+    "number": "41",
+    "name": "Zubat",
+    "nameJP": "ズバット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-42",
+    "number": "42",
+    "name": "Golbat",
+    "nameJP": "ゴルバット",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-43",
+    "number": "43",
+    "name": "Oddish",
+    "nameJP": "ナゾノクサ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-44",
+    "number": "44",
+    "name": "Gloom",
+    "nameJP": "クサイハナ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-45",
+    "number": "45",
+    "name": "Vileplume",
+    "nameJP": "ラフレシア",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-46",
+    "number": "46",
+    "name": "Paras",
+    "nameJP": "パラス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-47",
+    "number": "47",
+    "name": "Parasect",
+    "nameJP": "パラセクト",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-48",
+    "number": "48",
+    "name": "Venonat",
+    "nameJP": "コンパン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-49",
+    "number": "49",
+    "name": "Venomoth",
+    "nameJP": "モルフォン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-50",
+    "number": "50",
+    "name": "Diglett",
+    "nameJP": "ディグダ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-51",
+    "number": "51",
+    "name": "Dugtrio",
+    "nameJP": "ダグトリオ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-52",
+    "number": "52",
+    "name": "Meowth",
+    "nameJP": "ニャース",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-53",
+    "number": "53",
+    "name": "Persian",
+    "nameJP": "ペルシアン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-54",
+    "number": "54",
+    "name": "Psyduck",
+    "nameJP": "コダック",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-55",
+    "number": "55",
+    "name": "Golduck",
+    "nameJP": "ゴルダック",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-56",
+    "number": "56",
+    "name": "Mankey",
+    "nameJP": "マンキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-57",
+    "number": "57",
+    "name": "Primeape",
+    "nameJP": "オコリザル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-58",
+    "number": "58",
+    "name": "Growlithe",
+    "nameJP": "ガーディ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-59",
+    "number": "59",
+    "name": "Arcanine",
+    "nameJP": "ウインディ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-60",
+    "number": "60",
+    "name": "Poliwag",
+    "nameJP": "ニョロモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-61",
+    "number": "61",
+    "name": "Poliwhirl",
+    "nameJP": "ニョロゾ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-62",
+    "number": "62",
+    "name": "Poliwrath",
+    "nameJP": "ニョロボン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-63",
+    "number": "63",
+    "name": "Abra",
+    "nameJP": "ケーシィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-64",
+    "number": "64",
+    "name": "Kadabra",
+    "nameJP": "ユンゲラー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-65",
+    "number": "65",
+    "name": "Alakazam ex",
+    "nameJP": "フーディンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-66",
+    "number": "66",
+    "name": "Machop",
+    "nameJP": "ワンリキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-67",
+    "number": "67",
+    "name": "Machoke",
+    "nameJP": "ゴーリキー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-68",
+    "number": "68",
+    "name": "Machamp",
+    "nameJP": "カイリキー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-69",
+    "number": "69",
+    "name": "Bellsprout",
+    "nameJP": "マダツボミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-70",
+    "number": "70",
+    "name": "Weepinbell",
+    "nameJP": "ウツドン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-71",
+    "number": "71",
+    "name": "Victreebel",
+    "nameJP": "ウツボット",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-72",
+    "number": "72",
+    "name": "Tentacool",
+    "nameJP": "メノクラゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-73",
+    "number": "73",
+    "name": "Tentacruel",
+    "nameJP": "ドククラゲ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-74",
+    "number": "74",
+    "name": "Geodude",
+    "nameJP": "イシツブテ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-75",
+    "number": "75",
+    "name": "Graveler",
+    "nameJP": "ゴローン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-76",
+    "number": "76",
+    "name": "Golem ex",
+    "nameJP": "ゴローニャex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-77",
+    "number": "77",
+    "name": "Ponyta",
+    "nameJP": "ポニータ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-78",
+    "number": "78",
+    "name": "Rapidash",
+    "nameJP": "ギャロップ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-79",
+    "number": "79",
+    "name": "Slowpoke",
+    "nameJP": "ヤドン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-80",
+    "number": "80",
+    "name": "Slowbro",
+    "nameJP": "ヤドラン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-81",
+    "number": "81",
+    "name": "Magnemite",
+    "nameJP": "コイル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-82",
+    "number": "82",
+    "name": "Magneton",
+    "nameJP": "レアコイル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-83",
+    "number": "83",
+    "name": "Farfetch'd",
+    "nameJP": "カモネギ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-84",
+    "number": "84",
+    "name": "Doduo",
+    "nameJP": "ドードー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-85",
+    "number": "85",
+    "name": "Dodrio",
+    "nameJP": "ドードリオ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-86",
+    "number": "86",
+    "name": "Seel",
+    "nameJP": "パウワウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-87",
+    "number": "87",
+    "name": "Dewgong",
+    "nameJP": "ジュゴン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-88",
+    "number": "88",
+    "name": "Grimer",
+    "nameJP": "ベトベター",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-89",
+    "number": "89",
+    "name": "Muk",
+    "nameJP": "ベトベトン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-90",
+    "number": "90",
+    "name": "Shellder",
+    "nameJP": "シェルダー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-91",
+    "number": "91",
+    "name": "Cloyster",
+    "nameJP": "パルシェン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-92",
+    "number": "92",
+    "name": "Gastly",
+    "nameJP": "ゴース",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-93",
+    "number": "93",
+    "name": "Haunter",
+    "nameJP": "ゴースト",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-94",
+    "number": "94",
+    "name": "Gengar",
+    "nameJP": "ゲンガー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-95",
+    "number": "95",
+    "name": "Onix",
+    "nameJP": "イワーク",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-96",
+    "number": "96",
+    "name": "Drowzee",
+    "nameJP": "スリープ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-97",
+    "number": "97",
+    "name": "Hypno",
+    "nameJP": "スリーパー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-98",
+    "number": "98",
+    "name": "Krabby",
+    "nameJP": "クラブ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-99",
+    "number": "99",
+    "name": "Kingler",
+    "nameJP": "キングラー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-100",
+    "number": "100",
+    "name": "Voltorb",
+    "nameJP": "ビリリダマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-101",
+    "number": "101",
+    "name": "Electrode",
+    "nameJP": "マルマイン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-102",
+    "number": "102",
+    "name": "Exeggcute",
+    "nameJP": "タマタマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-103",
+    "number": "103",
+    "name": "Exeggutor",
+    "nameJP": "ナッシー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-104",
+    "number": "104",
+    "name": "Cubone",
+    "nameJP": "カラカラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-105",
+    "number": "105",
+    "name": "Marowak",
+    "nameJP": "ガラガラ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-106",
+    "number": "106",
+    "name": "Hitmonlee",
+    "nameJP": "サワムラー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-107",
+    "number": "107",
+    "name": "Hitmonchan",
+    "nameJP": "エビワラー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-108",
+    "number": "108",
+    "name": "Lickitung",
+    "nameJP": "ベロリンガ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-109",
+    "number": "109",
+    "name": "Koffing",
+    "nameJP": "ドガース",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-110",
+    "number": "110",
+    "name": "Weezing",
+    "nameJP": "マタドガス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-111",
+    "number": "111",
+    "name": "Rhyhorn",
+    "nameJP": "サイホーン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-112",
+    "number": "112",
+    "name": "Rhydon",
+    "nameJP": "サイドン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-113",
+    "number": "113",
+    "name": "Chansey",
+    "nameJP": "ラッキー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-114",
+    "number": "114",
+    "name": "Tangela",
+    "nameJP": "モンジャラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-115",
+    "number": "115",
+    "name": "Kangaskhan ex",
+    "nameJP": "ガルーラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-116",
+    "number": "116",
+    "name": "Horsea",
+    "nameJP": "タッツー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-117",
+    "number": "117",
+    "name": "Seadra",
+    "nameJP": "シードラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-118",
+    "number": "118",
+    "name": "Goldeen",
+    "nameJP": "トサキント",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-119",
+    "number": "119",
+    "name": "Seaking",
+    "nameJP": "アズマオウ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-120",
+    "number": "120",
+    "name": "Staryu",
+    "nameJP": "ヒトデマン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-121",
+    "number": "121",
+    "name": "Starmie",
+    "nameJP": "スターミー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-122",
+    "number": "122",
+    "name": "Mr. Mime",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-123",
+    "number": "123",
+    "name": "Scyther",
+    "nameJP": "ストライク",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-124",
+    "number": "124",
+    "name": "Jynx ex",
+    "nameJP": "ルージュラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-125",
+    "number": "125",
+    "name": "Electabuzz",
+    "nameJP": "エレブー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-126",
+    "number": "126",
+    "name": "Magmar",
+    "nameJP": "ブーバー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-127",
+    "number": "127",
+    "name": "Pinsir",
+    "nameJP": "カイロス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-128",
+    "number": "128",
+    "name": "Tauros",
+    "nameJP": "ケンタロス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-129",
+    "number": "129",
+    "name": "Magikarp",
+    "nameJP": "コイキング",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-130",
+    "number": "130",
+    "name": "Gyarados",
+    "nameJP": "ギャラドス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-131",
+    "number": "131",
+    "name": "Lapras",
+    "nameJP": "ラプラス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-132",
+    "number": "132",
+    "name": "Ditto",
+    "nameJP": "メタモン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-133",
+    "number": "133",
+    "name": "Eevee",
+    "nameJP": "イーブイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/133.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-134",
+    "number": "134",
+    "name": "Vaporeon",
+    "nameJP": "シャワーズ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/134.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-135",
+    "number": "135",
+    "name": "Jolteon",
+    "nameJP": "サンダース",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/135.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-136",
+    "number": "136",
+    "name": "Flareon",
+    "nameJP": "ブースター",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/136.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-137",
+    "number": "137",
+    "name": "Porygon",
+    "nameJP": "ポリゴン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/137.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-138",
+    "number": "138",
+    "name": "Omanyte",
+    "nameJP": "オムナイト",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/138.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-139",
+    "number": "139",
+    "name": "Omastar",
+    "nameJP": "オムスター",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/139.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-140",
+    "number": "140",
+    "name": "Kabuto",
+    "nameJP": "カブト",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/140.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-141",
+    "number": "141",
+    "name": "Kabutops",
+    "nameJP": "カブトプス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/141.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-142",
+    "number": "142",
+    "name": "Aerodactyl",
+    "nameJP": "プテラ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/142.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-143",
+    "number": "143",
+    "name": "Snorlax",
+    "nameJP": "カビゴン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/143.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-144",
+    "number": "144",
+    "name": "Articuno",
+    "nameJP": "フリーザー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/144.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-145",
+    "number": "145",
+    "name": "Zapdos ex",
+    "nameJP": "サンダーex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/145.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-146",
+    "number": "146",
+    "name": "Moltres",
+    "nameJP": "ファイヤー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/146.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-147",
+    "number": "147",
+    "name": "Dratini",
+    "nameJP": "ミニリュウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/147.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-148",
+    "number": "148",
+    "name": "Dragonair",
+    "nameJP": "ハクリュー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/148.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-149",
+    "number": "149",
+    "name": "Dragonite",
+    "nameJP": "カイリュー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/149.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-150",
+    "number": "150",
+    "name": "Mewtwo",
+    "nameJP": "ミュウツー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/150.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-151",
+    "number": "151",
+    "name": "Mew ex",
+    "nameJP": "ミュウex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/151.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-152",
+    "number": "152",
+    "name": "Energy Sticker",
+    "nameJP": "エネルギーステッカー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/152.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-153",
+    "number": "153",
+    "name": "Snatch Arm",
+    "nameJP": "スナッチアーム",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/153.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-154",
+    "number": "154",
+    "name": "Old Helix Fossil",
+    "nameJP": "古いヘリックス化石",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/154.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-155",
+    "number": "155",
+    "name": "Old Dome Fossil",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/155.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-156",
+    "number": "156",
+    "name": "Old Amber",
+    "nameJP": "古い琥珀",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/156.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-157",
+    "number": "157",
+    "name": "Safety Goggles",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/157.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-158",
+    "number": "158",
+    "name": "Big Balloon",
+    "nameJP": "ビッグバルーン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/158.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-159",
+    "number": "159",
+    "name": "Extra-Tight Belt",
+    "nameJP": "エクストラタイトベルト",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/159.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-160",
+    "number": "160",
+    "name": "Leftovers",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/160.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-161",
+    "number": "161",
+    "name": "Erika's Invitation",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/161.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-162",
+    "number": "162",
+    "name": "Giovanni's Charisma",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/162.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-163",
+    "number": "163",
+    "name": "Daisy's Assistance",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/163.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-164",
+    "number": "164",
+    "name": "Bill's Transfer",
+    "nameJP": "ビルの移転",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/164.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-165",
+    "number": "165",
+    "name": "Cycling Road",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/165.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-166",
+    "number": "166",
+    "name": "Bulbasaur",
+    "nameJP": "フシギダネ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/166.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-167",
+    "number": "167",
+    "name": "Ivysaur",
+    "nameJP": "フシギソウ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/167.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-168",
+    "number": "168",
+    "name": "Charmander",
+    "nameJP": "ヒトカゲ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/168.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-169",
+    "number": "169",
+    "name": "Charmeleon",
+    "nameJP": "リザード",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/169.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-170",
+    "number": "170",
+    "name": "Squirtle",
+    "nameJP": "ゼニガメ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/170.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-171",
+    "number": "171",
+    "name": "Wartortle",
+    "nameJP": "カメール",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/171.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-172",
+    "number": "172",
+    "name": "Caterpie",
+    "nameJP": "キャタピー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/172.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-173",
+    "number": "173",
+    "name": "Pikachu",
+    "nameJP": "ピカチュウ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/173.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-174",
+    "number": "174",
+    "name": "Nidoking",
+    "nameJP": "ニドキング",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/174.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-175",
+    "number": "175",
+    "name": "Psyduck",
+    "nameJP": "コダック",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/175.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-176",
+    "number": "176",
+    "name": "Poliwhirl",
+    "nameJP": "ニョロゾ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/176.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-177",
+    "number": "177",
+    "name": "Machoke",
+    "nameJP": "ゴーリキー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/177.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-178",
+    "number": "178",
+    "name": "Tangela",
+    "nameJP": "モンジャラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/178.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-179",
+    "number": "179",
+    "name": "Mr. Mime",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/179.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-180",
+    "number": "180",
+    "name": "Omanyte",
+    "nameJP": "オムナイト",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/180.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-181",
+    "number": "181",
+    "name": "Snorlax",
+    "nameJP": "カビゴン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/181.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-182",
+    "number": "182",
+    "name": "Dragonair",
+    "nameJP": "ハクリュー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/182.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-183",
+    "number": "183",
+    "name": "Mewtwo",
+    "nameJP": "ミュウツー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/183.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-184",
+    "number": "184",
+    "name": "Venusaur ex",
+    "nameJP": "フシギバナex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/184.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-185",
+    "number": "185",
+    "name": "Charizard ex",
+    "nameJP": "リザードンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/185.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-186",
+    "number": "186",
+    "name": "Blastoise ex",
+    "nameJP": "カメックスex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/186.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-187",
+    "number": "187",
+    "name": "Arbok",
+    "nameJP": "アーボック",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/187.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-188",
+    "number": "188",
+    "name": "Ninetales",
+    "nameJP": "キュウコン",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/188.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-189",
+    "number": "189",
+    "name": "Wigglytuff",
+    "nameJP": "プクリン",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/189.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-190",
+    "number": "190",
+    "name": "Alakazam ex",
+    "nameJP": "フーディンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/190.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-191",
+    "number": "191",
+    "name": "Golem ex",
+    "nameJP": "ゴローニャex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/191.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-192",
+    "number": "192",
+    "name": "Kangaskhan ex",
+    "nameJP": "ガルーラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/192.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-193",
+    "number": "193",
+    "name": "Jynx ex",
+    "nameJP": "ルージュラex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/193.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-194",
+    "number": "194",
+    "name": "Zapdos ex",
+    "nameJP": "サンダーex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/194.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-195",
+    "number": "195",
+    "name": "Mew ex",
+    "nameJP": "ミュウex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/195.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-196",
+    "number": "196",
+    "name": "Erika's Invitation",
+    "nameJP": "エリカのお誘い",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/196.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-197",
+    "number": "197",
+    "name": "Giovanni's Charisma",
+    "nameJP": "ジョヴァンニのカリスマ",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/197.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-198",
+    "number": "198",
+    "name": "Daisy's Care",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/198.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-199",
+    "number": "199",
+    "name": "Bill's Transfer",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/199.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-200",
+    "number": "200",
+    "name": "Venusaur ex",
+    "nameJP": "フシギバナex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/200.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-201",
+    "number": "201",
+    "name": "Charizard ex",
+    "nameJP": "リザードンex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/201.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-202",
+    "number": "202",
+    "name": "Blastoise ex",
+    "nameJP": "カメックスex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/202.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-203",
+    "number": "203",
+    "name": "Alakazam ex",
+    "nameJP": "フーディンex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/203.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-204",
+    "number": "204",
+    "name": "Zapdos ex",
+    "nameJP": "サンダーex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/204.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-205",
+    "number": "205",
+    "name": "Mew ex",
+    "nameJP": "ミュウex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/205.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-206",
+    "number": "206",
+    "name": "Erika's Invitation",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/206.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-207",
+    "number": "207",
+    "name": "Giovanni's Charisma",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/207.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-208",
+    "number": "208",
+    "name": "Mew ex",
+    "nameJP": "ミュウex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/208.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-209",
+    "number": "209",
+    "name": "Switch",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/209.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  },
+  {
+    "id": "sv2a-210",
+    "number": "210",
+    "name": "Psychic Energy",
+    "nameJP": "サイキックエネルギー",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv2a/img-cards/210.png",
+    "alt": [],
+    "set": {
+      "id": "sv2a",
+      "name": "Pokémon 151"
+    }
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "sv9-1",
+    "number": "1",
+    "name": "Caterpie",
+    "nameJP": "キャタピー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-2",
+    "number": "2",
+    "name": "Metapod",
+    "nameJP": "トランセル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-3",
+    "number": "3",
+    "name": "Butterfree",
+    "nameJP": "バタフリー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-4",
+    "number": "4",
+    "name": "Paras",
+    "nameJP": "パラス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-5",
+    "number": "5",
+    "name": "Parasect",
+    "nameJP": "パラセクト",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-6",
+    "number": "6",
+    "name": "Maractus",
+    "nameJP": "マラカッチ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-7",
+    "number": "7",
+    "name": "Karrablast",
+    "nameJP": "カブルモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-8",
+    "number": "8",
+    "name": "Shelmet",
+    "nameJP": "チョボマキ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-9",
+    "number": "9",
+    "name": "Accelgor",
+    "nameJP": "アギルダー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-10",
+    "number": "10",
+    "name": "Sprigatito",
+    "nameJP": "ニャオハ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-11",
+    "number": "11",
+    "name": "Floragato",
+    "nameJP": "ニャローテ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-12",
+    "number": "12",
+    "name": "Meowscarada",
+    "nameJP": "マスカーニャ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-13",
+    "number": "13",
+    "name": "Magmar",
+    "nameJP": "ブーバー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-14",
+    "number": "14",
+    "name": "Magmortar",
+    "nameJP": "ブーバーン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-15",
+    "number": "15",
+    "name": "N's Darumaka",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-16",
+    "number": "16",
+    "name": "N's Darmanitan",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-17",
+    "number": "17",
+    "name": "Volcanion ex",
+    "nameJP": "ダルマッカ",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-18",
+    "number": "18",
+    "name": "Articuno",
+    "nameJP": "フリーザー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-19",
+    "number": "19",
+    "name": "Remoraid",
+    "nameJP": "テッポウオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-20",
+    "number": "20",
+    "name": "Octillery",
+    "nameJP": "オクタン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-21",
+    "number": "21",
+    "name": "Lotad",
+    "nameJP": "ハスボー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-22",
+    "number": "22",
+    "name": "Lombre",
+    "nameJP": "ハスブレロ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-23",
+    "number": "23",
+    "name": "Ludicolo",
+    "nameJP": "ルンパッパ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-24",
+    "number": "24",
+    "name": "Wailmer",
+    "nameJP": "ホエルコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-25",
+    "number": "25",
+    "name": "Wailord",
+    "nameJP": "ホエルオー",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-26",
+    "number": "26",
+    "name": "Iono's Voltorb",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-27",
+    "number": "27",
+    "name": "Iono's Electrode",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-28",
+    "number": "28",
+    "name": "N's Joltik",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-29",
+    "number": "29",
+    "name": "Iono's Tadbulb",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-30",
+    "number": "30",
+    "name": "Iono's Bellibolt ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-31",
+    "number": "31",
+    "name": "Iono's Wattrel",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-32",
+    "number": "32",
+    "name": "Iono's Killowattrel",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-33",
+    "number": "33",
+    "name": "Lillie's Clefairy ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-34",
+    "number": "34",
+    "name": "Mr. Mime",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-35",
+    "number": "35",
+    "name": "Shuppet",
+    "nameJP": "カゲボウズ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-36",
+    "number": "36",
+    "name": "Banette",
+    "nameJP": "ジュペッタ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-37",
+    "number": "37",
+    "name": "Beldum",
+    "nameJP": "ダンバル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-38",
+    "number": "38",
+    "name": "Metang",
+    "nameJP": "メタング",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-39",
+    "number": "39",
+    "name": "Metagross",
+    "nameJP": "メタグロス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-40",
+    "number": "40",
+    "name": "N's Sigilyph",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-41",
+    "number": "41",
+    "name": "Lillie's Cutiefly",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-42",
+    "number": "42",
+    "name": "Lillie's Ribombee",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-43",
+    "number": "43",
+    "name": "Lillie's Comfey",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-44",
+    "number": "44",
+    "name": "Swinub",
+    "nameJP": "ウリムー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-45",
+    "number": "45",
+    "name": "Piloswine",
+    "nameJP": "イノムー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-46",
+    "number": "46",
+    "name": "Mamoswine ex",
+    "nameJP": "マンムーex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-47",
+    "number": "47",
+    "name": "Larvitar",
+    "nameJP": "ヨーギラス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-48",
+    "number": "48",
+    "name": "Pupitar",
+    "nameJP": "サナギラス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-49",
+    "number": "49",
+    "name": "Regirock",
+    "nameJP": "レジロック",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-50",
+    "number": "50",
+    "name": "Pancham",
+    "nameJP": "ヤンチャム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-51",
+    "number": "51",
+    "name": "Rockruff",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-52",
+    "number": "52",
+    "name": "Lycanroc",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-53",
+    "number": "53",
+    "name": "Hop's Silicobra",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-54",
+    "number": "54",
+    "name": "Hop's Sandaconda",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-55",
+    "number": "55",
+    "name": "Klawf",
+    "nameJP": "ガケガニ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-56",
+    "number": "56",
+    "name": "Koffing",
+    "nameJP": "ドガース",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-57",
+    "number": "57",
+    "name": "Weezing",
+    "nameJP": "マタドガス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-58",
+    "number": "58",
+    "name": "Tyranitar",
+    "nameJP": "バンギラス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-59",
+    "number": "59",
+    "name": "N's Purrloin",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-60",
+    "number": "60",
+    "name": "N's Zorua",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-61",
+    "number": "61",
+    "name": "N's Zoroark ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-62",
+    "number": "62",
+    "name": "Pangoro",
+    "nameJP": "ゴロンダ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-63",
+    "number": "63",
+    "name": "Escavalier",
+    "nameJP": "シュバルゴ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-64",
+    "number": "64",
+    "name": "N's Klink",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-65",
+    "number": "65",
+    "name": "N's Klang",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-66",
+    "number": "66",
+    "name": "N's Klinklang",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-67",
+    "number": "67",
+    "name": "Magearna",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-68",
+    "number": "68",
+    "name": "Hop's Corviknight",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-69",
+    "number": "69",
+    "name": "Hop's Zacian ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-70",
+    "number": "70",
+    "name": "Bagon",
+    "nameJP": "タツベイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-71",
+    "number": "71",
+    "name": "Shelgon",
+    "nameJP": "コモルー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-72",
+    "number": "72",
+    "name": "Salamence ex",
+    "nameJP": "ボーマンダex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-73",
+    "number": "73",
+    "name": "Druddigon",
+    "nameJP": "クリムガン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-74",
+    "number": "74",
+    "name": "N's Reshiram",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-75",
+    "number": "75",
+    "name": "Hop's Snorlax",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-76",
+    "number": "76",
+    "name": "Sentret",
+    "nameJP": "オタチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-77",
+    "number": "77",
+    "name": "Furret",
+    "nameJP": "オオタチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-78",
+    "number": "78",
+    "name": "Dunsparce",
+    "nameJP": "ノコッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-79",
+    "number": "79",
+    "name": "Dudunsparce ex",
+    "nameJP": "ノココッチex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-80",
+    "number": "80",
+    "name": "Noibat",
+    "nameJP": "オンバット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-81",
+    "number": "81",
+    "name": "Noivern",
+    "nameJP": "オンバーン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-82",
+    "number": "82",
+    "name": "Komala",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-83",
+    "number": "83",
+    "name": "Hop's Rookidee",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-84",
+    "number": "84",
+    "name": "Hop's Corvisquire",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-85",
+    "number": "85",
+    "name": "Hop's Wooloo",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv9/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-86",
+    "number": "86",
+    "name": "Hop's Dubwool",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-87",
+    "number": "87",
+    "name": "Hop's Cramorant",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-88",
+    "number": "88",
+    "name": "Super Potion",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-89",
+    "number": "89",
+    "name": "N's Point Up",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-90",
+    "number": "90",
+    "name": "Exchange Ticket",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-91",
+    "number": "91",
+    "name": "Hop's Bag",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-92",
+    "number": "92",
+    "name": "Hop's Choice Band",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-93",
+    "number": "93",
+    "name": "Lillie's Pearl",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-94",
+    "number": "94",
+    "name": "Iris's Fighting Spirit",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-95",
+    "number": "95",
+    "name": "Ruffian",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-96",
+    "number": "96",
+    "name": "Brock's Scout",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-97",
+    "number": "97",
+    "name": "N's Castle",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-98",
+    "number": "98",
+    "name": "Levincia City",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-99",
+    "number": "99",
+    "name": "Postwick",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-100",
+    "number": "100",
+    "name": "Spike Energy",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv9/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-101",
+    "number": "101",
+    "name": "Maractus",
+    "nameJP": "マラカッチ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-102",
+    "number": "102",
+    "name": "Articuno",
+    "nameJP": "フリーザー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-103",
+    "number": "103",
+    "name": "Wailord",
+    "nameJP": "ホエルオー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-104",
+    "number": "104",
+    "name": "Iono's Killowattrel",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-105",
+    "number": "105",
+    "name": "Lillie's Ribombee",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-106",
+    "number": "106",
+    "name": "Swinub",
+    "nameJP": "ウリムー",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-107",
+    "number": "107",
+    "name": "Lycanroc",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-108",
+    "number": "108",
+    "name": "N's Zorua",
+    "nameJP": "N'Sゾルア",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-109",
+    "number": "109",
+    "name": "N's Reshiram",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-110",
+    "number": "110",
+    "name": "Furret",
+    "nameJP": "オオタチ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-111",
+    "number": "111",
+    "name": "Noibat",
+    "nameJP": "オンバット",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-112",
+    "number": "112",
+    "name": "Hop's Wooloo",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-113",
+    "number": "113",
+    "name": "Volcanion ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-114",
+    "number": "114",
+    "name": "Iono's Bellibolt ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-115",
+    "number": "115",
+    "name": "Lillie's Clefairy ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-116",
+    "number": "116",
+    "name": "Mamoswine ex",
+    "nameJP": "マンムーex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-117",
+    "number": "117",
+    "name": "N's Zoroark ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-118",
+    "number": "118",
+    "name": "Hop's Zacian ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-119",
+    "number": "119",
+    "name": "Salamence ex",
+    "nameJP": "ボーマンダex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-120",
+    "number": "120",
+    "name": "Dudunsparce ex",
+    "nameJP": "ノココッチex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-121",
+    "number": "121",
+    "name": "Iris's Fighting Spirit",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-122",
+    "number": "122",
+    "name": "Ruffian",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-123",
+    "number": "123",
+    "name": "Brock's Scout",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-124",
+    "number": "124",
+    "name": "Volcanion ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-125",
+    "number": "125",
+    "name": "Iono's Bellibolt ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-126",
+    "number": "126",
+    "name": "Lillie's Clefairy ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-127",
+    "number": "127",
+    "name": "N's Zoroark ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-128",
+    "number": "128",
+    "name": "Hop's Zacian ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-129",
+    "number": "129",
+    "name": "Salamence ex",
+    "nameJP": "ボーマンダex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-130",
+    "number": "130",
+    "name": "Iono's Bellibolt ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-131",
+    "number": "131",
+    "name": "N's Zoroark ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv9-132",
+    "number": "132",
+    "name": "Spike Energy",
+    "nameJP": "スパイクエネルギー",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv9/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv9",
+      "name": "Battle Partners",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

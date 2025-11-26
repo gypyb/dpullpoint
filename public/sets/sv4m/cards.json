@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "sv4m-1",
+    "number": "1",
+    "name": "Surskit",
+    "nameJP": "アメタマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-2",
+    "number": "2",
+    "name": "Masquerain",
+    "nameJP": "アメモース",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-3",
+    "number": "3",
+    "name": "Blipbug",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-4",
+    "number": "4",
+    "name": "Dottler",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-5",
+    "number": "5",
+    "name": "Orbeetle",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-6",
+    "number": "6",
+    "name": "Toedscool",
+    "nameJP": "ノノクラゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-7",
+    "number": "7",
+    "name": "Toedscool",
+    "nameJP": "ノノクラゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-8",
+    "number": "8",
+    "name": "Toedscruel",
+    "nameJP": "リククラゲ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-9",
+    "number": "9",
+    "name": "Wo-Chien",
+    "nameJP": "チオンジェン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-10",
+    "number": "10",
+    "name": "Pansear",
+    "nameJP": "バオップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-11",
+    "number": "11",
+    "name": "Simisear",
+    "nameJP": "バオッキー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-12",
+    "number": "12",
+    "name": "Iron Moth",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-13",
+    "number": "13",
+    "name": "Feebas",
+    "nameJP": "ヒンバス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-14",
+    "number": "14",
+    "name": "Milotic",
+    "nameJP": "ミロカロス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-15",
+    "number": "15",
+    "name": "Panpour",
+    "nameJP": "ヒヤップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-16",
+    "number": "16",
+    "name": "Simipour",
+    "nameJP": "ヒヤッキー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-17",
+    "number": "17",
+    "name": "Vanillite",
+    "nameJP": "バニプッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-18",
+    "number": "18",
+    "name": "Vanillish",
+    "nameJP": "バニリッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-19",
+    "number": "19",
+    "name": "Vanilluxe",
+    "nameJP": "バイバニラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-20",
+    "number": "20",
+    "name": "Iron Bundle",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-21",
+    "number": "21",
+    "name": "Chien-Pao",
+    "nameJP": "パオジアン",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-22",
+    "number": "22",
+    "name": "Elekid",
+    "nameJP": "エレキッド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-23",
+    "number": "23",
+    "name": "Blitzle",
+    "nameJP": "シママ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-24",
+    "number": "24",
+    "name": "Zebstrika",
+    "nameJP": "ゼブライカ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-25",
+    "number": "25",
+    "name": "Oricorio",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-26",
+    "number": "26",
+    "name": "Toxel",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-27",
+    "number": "27",
+    "name": "Iron Hands ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-28",
+    "number": "28",
+    "name": "Chimecho",
+    "nameJP": "チリーン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-29",
+    "number": "29",
+    "name": "Pumpkaboo",
+    "nameJP": "バケッチャ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-30",
+    "number": "30",
+    "name": "Gourgeist",
+    "nameJP": "パンプジン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-31",
+    "number": "31",
+    "name": "Flittle",
+    "nameJP": "ヒラヒナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-32",
+    "number": "32",
+    "name": "Flittle",
+    "nameJP": "ヒラヒナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-33",
+    "number": "33",
+    "name": "Espathra",
+    "nameJP": "クエスパトラ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-34",
+    "number": "34",
+    "name": "Tinkatink",
+    "nameJP": "カヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-35",
+    "number": "35",
+    "name": "Tinkatink",
+    "nameJP": "カヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-36",
+    "number": "36",
+    "name": "Tinkatuff",
+    "nameJP": "ナカヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-37",
+    "number": "37",
+    "name": "Tinkaton",
+    "nameJP": "デカヌチャン",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-38",
+    "number": "38",
+    "name": "Iron Valiant ex",
+    "nameJP": "アイアンヴァリアントex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-39",
+    "number": "39",
+    "name": "Onix",
+    "nameJP": "イワーク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-40",
+    "number": "40",
+    "name": "Toxtricity ex",
+    "nameJP": "Toxtricity ex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-41",
+    "number": "41",
+    "name": "Steelix",
+    "nameJP": "ハガネール",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-42",
+    "number": "42",
+    "name": "Durant",
+    "nameJP": "アイアント",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-43",
+    "number": "43",
+    "name": "Honedge",
+    "nameJP": "ヒトツキ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-44",
+    "number": "44",
+    "name": "Doublade",
+    "nameJP": "ニダンギル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-45",
+    "number": "45",
+    "name": "Aegislash ex",
+    "nameJP": "ギルガルドex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-46",
+    "number": "46",
+    "name": "Altaria ex",
+    "nameJP": "チルタリスex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-47",
+    "number": "47",
+    "name": "Tatsugiri",
+    "nameJP": "シャリタツ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-48",
+    "number": "48",
+    "name": "Porygon",
+    "nameJP": "ポリゴン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-49",
+    "number": "49",
+    "name": "Porygon2",
+    "nameJP": "ポリゴン２",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-50",
+    "number": "50",
+    "name": "Porygon-Z",
+    "nameJP": "ポリゴンＺ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-51",
+    "number": "51",
+    "name": "Aipom",
+    "nameJP": "エイパム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-52",
+    "number": "52",
+    "name": "Ambipom",
+    "nameJP": "エテボース",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-53",
+    "number": "53",
+    "name": "Miltank",
+    "nameJP": "ミルタンク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-54",
+    "number": "54",
+    "name": "Swablu",
+    "nameJP": "チルット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-55",
+    "number": "55",
+    "name": "Tandemaus",
+    "nameJP": "ワッカネズミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-56",
+    "number": "56",
+    "name": "Tandemaus",
+    "nameJP": "ワッカネズミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-57",
+    "number": "57",
+    "name": "Maushold ex",
+    "nameJP": "イッカネズミex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-58",
+    "number": "58",
+    "name": "Iron Jugulis",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-59",
+    "number": "59",
+    "name": "Counter Catcher",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-60",
+    "number": "60",
+    "name": "Techno Radar",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-61",
+    "number": "61",
+    "name": "Cursed Duster",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-62",
+    "number": "62",
+    "name": "Future Booster Energy Capsule",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-63",
+    "number": "63",
+    "name": "Technical Machine: Evolution",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-64",
+    "number": "64",
+    "name": "Roark",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-65",
+    "number": "65",
+    "name": "Professor Turo's Scenario",
+    "nameJP": "トゥロ教授のシナリオ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-66",
+    "number": "66",
+    "name": "Tulip",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-67",
+    "number": "67",
+    "name": "Dottler",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-68",
+    "number": "68",
+    "name": "Toedscruel",
+    "nameJP": "リククラゲ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-69",
+    "number": "69",
+    "name": "Iron Moth",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-70",
+    "number": "70",
+    "name": "Vanillish",
+    "nameJP": "バニリッチ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-71",
+    "number": "71",
+    "name": "Iron Bundle",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-72",
+    "number": "72",
+    "name": "Blitzle",
+    "nameJP": "シママ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-73",
+    "number": "73",
+    "name": "Espathra",
+    "nameJP": "クエスパトラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-74",
+    "number": "74",
+    "name": "Steelix",
+    "nameJP": "ハガネール",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-75",
+    "number": "75",
+    "name": "Aipom",
+    "nameJP": "エイパム",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-76",
+    "number": "76",
+    "name": "Swablu",
+    "nameJP": "チルット",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-77",
+    "number": "77",
+    "name": "Porygon-Z",
+    "nameJP": "ポリゴンＺ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-78",
+    "number": "78",
+    "name": "Iron Jugulis",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-79",
+    "number": "79",
+    "name": "Iron Hands ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-80",
+    "number": "80",
+    "name": "Iron Valiant ex",
+    "nameJP": "アイアンヴァリアントex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-81",
+    "number": "81",
+    "name": "Toxtricity ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-82",
+    "number": "82",
+    "name": "Aegislash ex",
+    "nameJP": "ギルガルドex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-83",
+    "number": "83",
+    "name": "Altaria ex",
+    "nameJP": "チルタリスex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-84",
+    "number": "84",
+    "name": "Maushold ex",
+    "nameJP": "イッカネズミex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-85",
+    "number": "85",
+    "name": "Roark",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-86",
+    "number": "86",
+    "name": "Professor Turo's Scenario",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-87",
+    "number": "87",
+    "name": "Tulip",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-88",
+    "number": "88",
+    "name": "Iron Hands ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-89",
+    "number": "89",
+    "name": "Iron Valiant ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-90",
+    "number": "90",
+    "name": "Altaria ex",
+    "nameJP": "チルタリスex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-91",
+    "number": "91",
+    "name": "Professor Turo's Scenario",
+    "nameJP": "トゥロ教授のシナリオ",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-92",
+    "number": "92",
+    "name": "Tulip",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-93",
+    "number": "93",
+    "name": "Iron Valiant ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-94",
+    "number": "94",
+    "name": "Counter Catcher",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4m-95",
+    "number": "95",
+    "name": "Basic Metal Energy",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4m/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv4m",
+      "name": "Future Flash",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

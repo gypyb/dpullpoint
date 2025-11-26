@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "sv7a-1",
+    "number": "1",
+    "name": "Exeggcute",
+    "nameJP": "タマタマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-2",
+    "number": "2",
+    "name": "Morelull",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-3",
+    "number": "3",
+    "name": "Shiinotic",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-4",
+    "number": "4",
+    "name": "Dhelmise",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-5",
+    "number": "5",
+    "name": "Zarude",
+    "nameJP": "ザルード",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-6",
+    "number": "6",
+    "name": "Castform Sunny Form",
+    "nameJP": "ポワルン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-7",
+    "number": "7",
+    "name": "Pansear",
+    "nameJP": "バオップ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-8",
+    "number": "8",
+    "name": "Simisear",
+    "nameJP": "バオッキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-9",
+    "number": "9",
+    "name": "Gouging Fire",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-10",
+    "number": "10",
+    "name": "Cryogonal",
+    "nameJP": "フリージオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-11",
+    "number": "11",
+    "name": "Black Kyurem ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-12",
+    "number": "12",
+    "name": "Bruxish",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-13",
+    "number": "13",
+    "name": "Quaxly",
+    "nameJP": "クワッス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-14",
+    "number": "14",
+    "name": "Quaxwell",
+    "nameJP": "ウェルカモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-15",
+    "number": "15",
+    "name": "Quaquaval",
+    "nameJP": "ウェーニバル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-16",
+    "number": "16",
+    "name": "Cetoddle",
+    "nameJP": "アルクジラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-17",
+    "number": "17",
+    "name": "Cetitan",
+    "nameJP": "ハルクジラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-18",
+    "number": "18",
+    "name": "Smoochum",
+    "nameJP": "ムチュール",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-19",
+    "number": "19",
+    "name": "Latias ex",
+    "nameJP": "ラティアスex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-20",
+    "number": "20",
+    "name": "Latios",
+    "nameJP": "ラティオス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-21",
+    "number": "21",
+    "name": "Tapu Lele",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-22",
+    "number": "22",
+    "name": "Flittle",
+    "nameJP": "ヒラヒナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-23",
+    "number": "23",
+    "name": "Espathra",
+    "nameJP": "クエスパトラ",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-24",
+    "number": "24",
+    "name": "Gimmighoul",
+    "nameJP": "コレクレー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-25",
+    "number": "25",
+    "name": "Trapinch",
+    "nameJP": "ナックラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-26",
+    "number": "26",
+    "name": "Vibrava",
+    "nameJP": "ビブラーバ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-27",
+    "number": "27",
+    "name": "Flygon ex",
+    "nameJP": "フライゴンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-28",
+    "number": "28",
+    "name": "Drilbur",
+    "nameJP": "モグリュー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-29",
+    "number": "29",
+    "name": "Excadrill",
+    "nameJP": "ドリュウズ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-30",
+    "number": "30",
+    "name": "Landorus",
+    "nameJP": "ランドロス",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-31",
+    "number": "31",
+    "name": "Passimian",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-32",
+    "number": "32",
+    "name": "Clobbopus",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-33",
+    "number": "33",
+    "name": "Grapploct",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-34",
+    "number": "34",
+    "name": "Skarmory",
+    "nameJP": "エアームド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-35",
+    "number": "35",
+    "name": "Klefki",
+    "nameJP": "クレッフィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-36",
+    "number": "36",
+    "name": "Duraludon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-37",
+    "number": "37",
+    "name": "Archaludon ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-38",
+    "number": "38",
+    "name": "Gholdengo",
+    "nameJP": "サーフゴー",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-39",
+    "number": "39",
+    "name": "Iron Crown",
+    "nameJP": "",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-40",
+    "number": "40",
+    "name": "Alolan Exeggutor ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-41",
+    "number": "41",
+    "name": "Altaria",
+    "nameJP": "チルタリス",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-42",
+    "number": "42",
+    "name": "Dialga",
+    "nameJP": "ディアルガ",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-43",
+    "number": "43",
+    "name": "Palkia",
+    "nameJP": "パルキア",
+    "rarity": "Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-44",
+    "number": "44",
+    "name": "Turtonator",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-45",
+    "number": "45",
+    "name": "Applin",
+    "nameJP": "アプリン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-46",
+    "number": "46",
+    "name": "Flapple",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-47",
+    "number": "47",
+    "name": "Appletun",
+    "nameJP": "Appletun",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-48",
+    "number": "48",
+    "name": "Swablu",
+    "nameJP": "チルット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-49",
+    "number": "49",
+    "name": "Rufflet",
+    "nameJP": "ワシボン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-50",
+    "number": "50",
+    "name": "Braviary",
+    "nameJP": "ウォーグル",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-51",
+    "number": "51",
+    "name": "Cyclizar ex",
+    "nameJP": "モトトカゲex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-52",
+    "number": "52",
+    "name": "Energy Search PRO",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-53",
+    "number": "53",
+    "name": "Assistance Bell",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-54",
+    "number": "54",
+    "name": "Dusk Ball",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-55",
+    "number": "55",
+    "name": "Disruptive Letter",
+    "nameJP": "破壊的な手紙",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-56",
+    "number": "56",
+    "name": "Megaton Blower",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-57",
+    "number": "57",
+    "name": "Dragon Potion",
+    "nameJP": "ドラゴンポーション",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-58",
+    "number": "58",
+    "name": "Passho Berry",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-59",
+    "number": "59",
+    "name": "Counter Gain",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-60",
+    "number": "60",
+    "name": "Drayton",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-61",
+    "number": "61",
+    "name": "Surfer",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-62",
+    "number": "62",
+    "name": "Drasna",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-63",
+    "number": "63",
+    "name": "Lisia's Appeal",
+    "nameJP": "",
+    "rarity": "Uncommon",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-64",
+    "number": "64",
+    "name": "Rich Energy",
+    "nameJP": "",
+    "rarity": "Ace Spec",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-65",
+    "number": "65",
+    "name": "Exeggcute",
+    "nameJP": "タマタマ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-66",
+    "number": "66",
+    "name": "Shiinotic",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-67",
+    "number": "67",
+    "name": "Castform Sunny Form",
+    "nameJP": "ポワルン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-68",
+    "number": "68",
+    "name": "Bruxish",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-69",
+    "number": "69",
+    "name": "Cetitan",
+    "nameJP": "ハルクジラ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-70",
+    "number": "70",
+    "name": "Latios",
+    "nameJP": "ラティオス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-71",
+    "number": "71",
+    "name": "Vibrava",
+    "nameJP": "ビブラーバ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-72",
+    "number": "72",
+    "name": "Clobbopus",
+    "nameJP": "クロボプス",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-73",
+    "number": "73",
+    "name": "Skarmory",
+    "nameJP": "エアームド",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-74",
+    "number": "74",
+    "name": "Flapple",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-75",
+    "number": "75",
+    "name": "Appletun",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-76",
+    "number": "76",
+    "name": "Braviary",
+    "nameJP": "ウォーグル",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-77",
+    "number": "77",
+    "name": "Black Kyurem ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-78",
+    "number": "78",
+    "name": "Latias ex",
+    "nameJP": "ラティアスex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-79",
+    "number": "79",
+    "name": "Flygon ex",
+    "nameJP": "フライゴンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-80",
+    "number": "80",
+    "name": "Archaludon ex",
+    "nameJP": "アルカルドンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-81",
+    "number": "81",
+    "name": "Alolan Exeggutor ex",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-82",
+    "number": "82",
+    "name": "Cyclizar ex",
+    "nameJP": "モトトカゲex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-83",
+    "number": "83",
+    "name": "Drayton",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-84",
+    "number": "84",
+    "name": "Surfer",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-85",
+    "number": "85",
+    "name": "Drasna",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-86",
+    "number": "86",
+    "name": "Lisia's Appeal",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-87",
+    "number": "87",
+    "name": "Latias ex",
+    "nameJP": "ラティアスex",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-88",
+    "number": "88",
+    "name": "Archaludon ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-89",
+    "number": "89",
+    "name": "Alolan Exeggutor ex",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-90",
+    "number": "90",
+    "name": "Drayton",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-91",
+    "number": "91",
+    "name": "Lisia's Appeal",
+    "nameJP": "",
+    "rarity": "Special Art Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-92",
+    "number": "92",
+    "name": "Alolan Exeggutor ex",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-93",
+    "number": "93",
+    "name": "Counter Gain",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv7a-94",
+    "number": "94",
+    "name": "Jet Energy",
+    "nameJP": "",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv7a/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv7a",
+      "name": "Paradise Dragona",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "sv4a-1",
+    "number": "1",
+    "name": "Oddish",
+    "nameJP": "ナゾノクサ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/1.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-2",
+    "number": "2",
+    "name": "Gloom",
+    "nameJP": "クサイハナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/2.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-3",
+    "number": "3",
+    "name": "Vileplume",
+    "nameJP": "ラフレシア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/3.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-4",
+    "number": "4",
+    "name": "Scyther",
+    "nameJP": "ストライク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/4.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-5",
+    "number": "5",
+    "name": "Hoppip",
+    "nameJP": "ハネッコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/5.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-6",
+    "number": "6",
+    "name": "Skiploom",
+    "nameJP": "ポポッコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/6.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-7",
+    "number": "7",
+    "name": "Jumpluff",
+    "nameJP": "ワタッコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/7.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-8",
+    "number": "8",
+    "name": "Pineco",
+    "nameJP": "クヌギダマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/8.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-9",
+    "number": "9",
+    "name": "Forretress ex",
+    "nameJP": "フォレトスex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/9.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-10",
+    "number": "10",
+    "name": "Snover",
+    "nameJP": "ユキカブリ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/10.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-11",
+    "number": "11",
+    "name": "Abomasnow",
+    "nameJP": "ユキノオー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/11.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-12",
+    "number": "12",
+    "name": "Sprigatito",
+    "nameJP": "ニャオハ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/12.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-13",
+    "number": "13",
+    "name": "Floragato",
+    "nameJP": "ニャローテ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/13.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-14",
+    "number": "14",
+    "name": "Meowscarada ex",
+    "nameJP": "マスカーニャex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/14.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-15",
+    "number": "15",
+    "name": "Smoliv",
+    "nameJP": "ミニーブ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/15.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-16",
+    "number": "16",
+    "name": "Dolliv",
+    "nameJP": "オリーニョ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/16.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-17",
+    "number": "17",
+    "name": "Arboliva",
+    "nameJP": "オリーヴァ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/17.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-18",
+    "number": "18",
+    "name": "Toedscool",
+    "nameJP": "ノノクラゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/18.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-19",
+    "number": "19",
+    "name": "Toedscruel ex",
+    "nameJP": "リククラゲex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/19.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-20",
+    "number": "20",
+    "name": "Capsakid",
+    "nameJP": "カプサイジ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/20.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-21",
+    "number": "21",
+    "name": "Scovillain",
+    "nameJP": "スコヴィラン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/21.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-22",
+    "number": "22",
+    "name": "Rellor",
+    "nameJP": "シガロコ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/22.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-23",
+    "number": "23",
+    "name": "Espathra ex",
+    "nameJP": "クエスパトラex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/23.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-24",
+    "number": "24",
+    "name": "Wo-Chien ex",
+    "nameJP": "チオンジェンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/24.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-25",
+    "number": "25",
+    "name": "Charmander",
+    "nameJP": "ヒトカゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/25.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-26",
+    "number": "26",
+    "name": "Charmeleon",
+    "nameJP": "リザード",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/26.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-27",
+    "number": "27",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/27.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-28",
+    "number": "28",
+    "name": "Entei",
+    "nameJP": "エンテイ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/28.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-29",
+    "number": "29",
+    "name": "Oricorio",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/29.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-30",
+    "number": "30",
+    "name": "Fuecoco",
+    "nameJP": "ホゲータ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/30.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-31",
+    "number": "31",
+    "name": "Crocalor",
+    "nameJP": "アチゲータ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/31.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-32",
+    "number": "32",
+    "name": "Skeledirge ex",
+    "nameJP": "ラウドボーンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/32.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-33",
+    "number": "33",
+    "name": "Charcadet",
+    "nameJP": "カルボウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/33.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-34",
+    "number": "34",
+    "name": "Armarouge",
+    "nameJP": "グレンアルマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/34.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-35",
+    "number": "35",
+    "name": "Chi-Yu ex",
+    "nameJP": "イーユイex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/35.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-36",
+    "number": "36",
+    "name": "Slowpoke",
+    "nameJP": "ヤドン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/36.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-37",
+    "number": "37",
+    "name": "Slowbro",
+    "nameJP": "ヤドラン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/37.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-38",
+    "number": "38",
+    "name": "Staryu",
+    "nameJP": "ヒトデマン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/38.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-39",
+    "number": "39",
+    "name": "Starmie",
+    "nameJP": "スターミー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/39.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-40",
+    "number": "40",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/40.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-41",
+    "number": "41",
+    "name": "Quaxly",
+    "nameJP": "クワッス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/41.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-42",
+    "number": "42",
+    "name": "Quaxwell",
+    "nameJP": "ウェルカモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/42.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-43",
+    "number": "43",
+    "name": "Quaquaval ex",
+    "nameJP": "ウェーニバルex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/43.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-44",
+    "number": "44",
+    "name": "Wiglett",
+    "nameJP": "ウミディグダ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/44.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-45",
+    "number": "45",
+    "name": "Wugtrio",
+    "nameJP": "ウミトリオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/45.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-46",
+    "number": "46",
+    "name": "Finizen",
+    "nameJP": "ナミイルカ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/46.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-47",
+    "number": "47",
+    "name": "Palafin",
+    "nameJP": "イルカマン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/47.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-48",
+    "number": "48",
+    "name": "Veluza",
+    "nameJP": "ミガルーサ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/48.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-49",
+    "number": "49",
+    "name": "Dondozo",
+    "nameJP": "ヘイラッシャ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/49.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-50",
+    "number": "50",
+    "name": "Tatsugiri",
+    "nameJP": "シャリタツ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/50.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-51",
+    "number": "51",
+    "name": "Frigibax",
+    "nameJP": "セビエ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/51.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-52",
+    "number": "52",
+    "name": "Arctibax",
+    "nameJP": "セゴール",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/52.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-53",
+    "number": "53",
+    "name": "Baxcalibur",
+    "nameJP": "セグレイブ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/53.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-54",
+    "number": "54",
+    "name": "Chien-Pao ex",
+    "nameJP": "パオジアンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/54.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-55",
+    "number": "55",
+    "name": "Pikachu",
+    "nameJP": "ピカチュウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/55.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-56",
+    "number": "56",
+    "name": "Raichu",
+    "nameJP": "ライチュウ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/56.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-57",
+    "number": "57",
+    "name": "Voltorb",
+    "nameJP": "ビリリダマ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/57.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-58",
+    "number": "58",
+    "name": "Electrode",
+    "nameJP": "マルマイン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/58.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-59",
+    "number": "59",
+    "name": "Shinx",
+    "nameJP": "コリンク",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/59.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-60",
+    "number": "60",
+    "name": "Luxio",
+    "nameJP": "ルクシオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/60.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-61",
+    "number": "61",
+    "name": "Luxray",
+    "nameJP": "レントラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/61.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-62",
+    "number": "62",
+    "name": "Pachirisu",
+    "nameJP": "パチリス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/62.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-63",
+    "number": "63",
+    "name": "Thundurus",
+    "nameJP": "ボルトロス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/63.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-64",
+    "number": "64",
+    "name": "Toxel",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/64.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-65",
+    "number": "65",
+    "name": "Toxtricity",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/65.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-66",
+    "number": "66",
+    "name": "Pawmi",
+    "nameJP": "パモ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/66.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-67",
+    "number": "67",
+    "name": "Pawmo",
+    "nameJP": "パモット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/67.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-68",
+    "number": "68",
+    "name": "Pawmot",
+    "nameJP": "パーモット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/68.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-69",
+    "number": "69",
+    "name": "Wattrel",
+    "nameJP": "カイデン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/69.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-70",
+    "number": "70",
+    "name": "Kilowattrel",
+    "nameJP": "タイカイデン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/70.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-71",
+    "number": "71",
+    "name": "Miraidon ex",
+    "nameJP": "ミライドンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/71.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-72",
+    "number": "72",
+    "name": "Wigglytuff",
+    "nameJP": "プクリン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/72.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-73",
+    "number": "73",
+    "name": "Abra",
+    "nameJP": "ケーシィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/73.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-74",
+    "number": "74",
+    "name": "Kadabra",
+    "nameJP": "ユンゲラー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/74.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-75",
+    "number": "75",
+    "name": "Alakazam ex",
+    "nameJP": "フーディンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/75.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-76",
+    "number": "76",
+    "name": "Mew ex",
+    "nameJP": "ミュウex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/76.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-77",
+    "number": "77",
+    "name": "Cleffa",
+    "nameJP": "ピィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/77.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-78",
+    "number": "78",
+    "name": "Natu",
+    "nameJP": "ネイティ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/78.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-79",
+    "number": "79",
+    "name": "Xatu",
+    "nameJP": "ネイティオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/79.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-80",
+    "number": "80",
+    "name": "Ralts",
+    "nameJP": "ラルトス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/80.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-81",
+    "number": "81",
+    "name": "Kirlia",
+    "nameJP": "キルリア",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/81.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-82",
+    "number": "82",
+    "name": "Gardevoir ex",
+    "nameJP": "サーナイトex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/82.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-83",
+    "number": "83",
+    "name": "Drifloon",
+    "nameJP": "フワンテ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/83.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-84",
+    "number": "84",
+    "name": "Drifblim",
+    "nameJP": "フワライド",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/84.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-85",
+    "number": "85",
+    "name": "Mime Jr.",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/85.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-86",
+    "number": "86",
+    "name": "Spiritomb",
+    "nameJP": "ミカルゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/86.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-87",
+    "number": "87",
+    "name": "Klefki",
+    "nameJP": "クレッフィ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/87.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-88",
+    "number": "88",
+    "name": "Mimikyu",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/88.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-89",
+    "number": "89",
+    "name": "Fidough",
+    "nameJP": "パピモッチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/89.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-90",
+    "number": "90",
+    "name": "Dachsbun",
+    "nameJP": "バウッツェル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/90.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-91",
+    "number": "91",
+    "name": "Ceruledge",
+    "nameJP": "ソウブレイズ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/91.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-92",
+    "number": "92",
+    "name": "Rabsca",
+    "nameJP": "ベラカス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/92.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-93",
+    "number": "93",
+    "name": "Flittle",
+    "nameJP": "ヒラヒナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/93.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-94",
+    "number": "94",
+    "name": "Tinkatink",
+    "nameJP": "カヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/94.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-95",
+    "number": "95",
+    "name": "Tinkatuff",
+    "nameJP": "ナカヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/95.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-96",
+    "number": "96",
+    "name": "Tinkaton",
+    "nameJP": "デカヌチャン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/96.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-97",
+    "number": "97",
+    "name": "Greavard",
+    "nameJP": "ボチ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/97.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-98",
+    "number": "98",
+    "name": "Houndstone",
+    "nameJP": "ハカドッグ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/98.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-99",
+    "number": "99",
+    "name": "Gimmighoul",
+    "nameJP": "コレクレー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/99.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-100",
+    "number": "100",
+    "name": "Mankey",
+    "nameJP": "マンキー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/100.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-101",
+    "number": "101",
+    "name": "Primeape",
+    "nameJP": "オコリザル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/101.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-102",
+    "number": "102",
+    "name": "Annihilape",
+    "nameJP": "コノヨザル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/102.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-103",
+    "number": "103",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/103.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-104",
+    "number": "104",
+    "name": "Riolu",
+    "nameJP": "リオル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/104.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-105",
+    "number": "105",
+    "name": "Lucario",
+    "nameJP": "ルカリオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/105.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-106",
+    "number": "106",
+    "name": "Hawlucha",
+    "nameJP": "ルチャブル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/106.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-107",
+    "number": "107",
+    "name": "Nacli",
+    "nameJP": "コジオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/107.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-108",
+    "number": "108",
+    "name": "Naclstack",
+    "nameJP": "ジオヅム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/108.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-109",
+    "number": "109",
+    "name": "Garganacl",
+    "nameJP": "キョジオーン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/109.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-110",
+    "number": "110",
+    "name": "Glimmet",
+    "nameJP": "キラーメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/110.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-111",
+    "number": "111",
+    "name": "Glimmora ex",
+    "nameJP": "キラフロルex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/111.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-112",
+    "number": "112",
+    "name": "Great Tusk ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/112.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-113",
+    "number": "113",
+    "name": "Ting-Lu ex",
+    "nameJP": "ディンルーex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/113.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-114",
+    "number": "114",
+    "name": "Koraidon ex",
+    "nameJP": "コライドンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/114.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-115",
+    "number": "115",
+    "name": "Charizard ex",
+    "nameJP": "リザードンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/115.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-116",
+    "number": "116",
+    "name": "Paldean Wooper",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/116.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-117",
+    "number": "117",
+    "name": "Paldean Clodsire ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/117.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-118",
+    "number": "118",
+    "name": "Murkrow",
+    "nameJP": "ヤミカラス",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/118.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-119",
+    "number": "119",
+    "name": "Sneasel",
+    "nameJP": "ニューラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/119.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-120",
+    "number": "120",
+    "name": "Weavile",
+    "nameJP": "マニューラ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/120.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-121",
+    "number": "121",
+    "name": "Sableye",
+    "nameJP": "ヤミラミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/121.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-122",
+    "number": "122",
+    "name": "Pawniard",
+    "nameJP": "コマタナ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/122.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-123",
+    "number": "123",
+    "name": "Bisharp",
+    "nameJP": "キリキザン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/123.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-124",
+    "number": "124",
+    "name": "Kingambit",
+    "nameJP": "ドドゲザン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/124.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-125",
+    "number": "125",
+    "name": "Maschiff",
+    "nameJP": "オラチフ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/125.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-126",
+    "number": "126",
+    "name": "Mabosstiff",
+    "nameJP": "マフィティフ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/126.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-127",
+    "number": "127",
+    "name": "Shroodle",
+    "nameJP": "シルシュルー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/127.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-128",
+    "number": "128",
+    "name": "Grafaiai",
+    "nameJP": "タギングル",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/128.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-129",
+    "number": "129",
+    "name": "Scizor",
+    "nameJP": "ハッサム",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/129.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-130",
+    "number": "130",
+    "name": "Varoom",
+    "nameJP": "ブロロン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/130.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-131",
+    "number": "131",
+    "name": "Revavroom ex",
+    "nameJP": "ブロロロームex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/131.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-132",
+    "number": "132",
+    "name": "Iron Treads ex",
+    "nameJP": "",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/132.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-133",
+    "number": "133",
+    "name": "Gholdengo",
+    "nameJP": "サーフゴー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/133.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-134",
+    "number": "134",
+    "name": "Noibat",
+    "nameJP": "オンバット",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/134.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-135",
+    "number": "135",
+    "name": "Noivern ex",
+    "nameJP": "オンバーンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/135.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-136",
+    "number": "136",
+    "name": "Cyclizar",
+    "nameJP": "モトトカゲ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/136.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-137",
+    "number": "137",
+    "name": "Pidgey",
+    "nameJP": "ポッポ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/137.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-138",
+    "number": "138",
+    "name": "Pidgeotto",
+    "nameJP": "ピジョン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/138.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-139",
+    "number": "139",
+    "name": "Pidgeot ex",
+    "nameJP": "ピジョットex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/139.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-140",
+    "number": "140",
+    "name": "Jigglypuff",
+    "nameJP": "プリン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/140.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-141",
+    "number": "141",
+    "name": "Wigglytuff ex",
+    "nameJP": "プクリンex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/141.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-142",
+    "number": "142",
+    "name": "Doduo",
+    "nameJP": "ドードー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/142.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-143",
+    "number": "143",
+    "name": "Dodrio",
+    "nameJP": "ドードリオ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/143.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-144",
+    "number": "144",
+    "name": "Ditto",
+    "nameJP": "メタモン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/144.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-145",
+    "number": "145",
+    "name": "Snorlax",
+    "nameJP": "カビゴン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/145.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-146",
+    "number": "146",
+    "name": "Wingull",
+    "nameJP": "キャモメ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/146.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-147",
+    "number": "147",
+    "name": "Pelipper",
+    "nameJP": "ペリッパー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/147.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-148",
+    "number": "148",
+    "name": "Skwovet",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/148.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-149",
+    "number": "149",
+    "name": "Greedent",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/149.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-150",
+    "number": "150",
+    "name": "Lechonk",
+    "nameJP": "グルトン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/150.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-151",
+    "number": "151",
+    "name": "Oinkologne",
+    "nameJP": "パフュートン",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/151.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-152",
+    "number": "152",
+    "name": "Tandemaus",
+    "nameJP": "ワッカネズミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/152.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-153",
+    "number": "153",
+    "name": "Maushold",
+    "nameJP": "イッカネズミ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/153.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-154",
+    "number": "154",
+    "name": "Squawkabilly ex",
+    "nameJP": "イキリンコex",
+    "rarity": "Double Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/154.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-155",
+    "number": "155",
+    "name": "Flamigo",
+    "nameJP": "カラミンゴ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/155.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-156",
+    "number": "156",
+    "name": "Electric Generator",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/156.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-157",
+    "number": "157",
+    "name": "Super Energy Retrieval",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/157.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-158",
+    "number": "158",
+    "name": "Super Rod",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/158.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-159",
+    "number": "159",
+    "name": "Nest Ball",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/159.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-160",
+    "number": "160",
+    "name": "Nemona's Rucksack",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/160.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-161",
+    "number": "161",
+    "name": "Ultra Ball",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/161.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-162",
+    "number": "162",
+    "name": "Encouragement Letter",
+    "nameJP": "励ましの手紙",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/162.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-163",
+    "number": "163",
+    "name": "Rare Candy",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/163.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-164",
+    "number": "164",
+    "name": "Rock Chestplate",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/164.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-165",
+    "number": "165",
+    "name": "Big Air Balloon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/165.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-166",
+    "number": "166",
+    "name": "Rigid Band",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/166.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-167",
+    "number": "167",
+    "name": "Leftovers",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/167.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-168",
+    "number": "168",
+    "name": "Defiance Band",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/168.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-169",
+    "number": "169",
+    "name": "Bravery Charm",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/169.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-170",
+    "number": "170",
+    "name": "TM Crisis Strike",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/170.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-171",
+    "number": "171",
+    "name": "Geeta",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/171.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-172",
+    "number": "172",
+    "name": "Clavell",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/172.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-173",
+    "number": "173",
+    "name": "Giovanni's Charisma",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/173.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-174",
+    "number": "174",
+    "name": "Iono",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/174.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-175",
+    "number": "175",
+    "name": "Clive",
+    "nameJP": "クライヴ",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/175.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-176",
+    "number": "176",
+    "name": "Professor's Research [Professor Sada]",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/176.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-177",
+    "number": "177",
+    "name": "Professor's Research [Professor Turo]",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/177.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-178",
+    "number": "178",
+    "name": "Paldea Students",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/178.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-179",
+    "number": "179",
+    "name": "Paldea Students",
+    "nameJP": "パルデアの学生",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/179.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-180",
+    "number": "180",
+    "name": "Arven",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/180.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-181",
+    "number": "181",
+    "name": "Boss's Orders [Ghetsis]",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/181.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-182",
+    "number": "182",
+    "name": "Penny",
+    "nameJP": "ペニー",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/182.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-183",
+    "number": "183",
+    "name": "Town Store",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/183.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-184",
+    "number": "184",
+    "name": "Beach Court",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/184.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-185",
+    "number": "185",
+    "name": "Artazon",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/185.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-186",
+    "number": "186",
+    "name": "Pokémon League Headquarters",
+    "nameJP": "ポケモンリーグ本部",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/186.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-187",
+    "number": "187",
+    "name": "Practice Studio",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/187.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-188",
+    "number": "188",
+    "name": "Therapeutic Energy",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/188.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-189",
+    "number": "189",
+    "name": "Reversal Energy",
+    "nameJP": "",
+    "rarity": "Common",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/189.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-190",
+    "number": "190",
+    "name": "Luminous Energy",
+    "nameJP": "発光エネルギー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/190.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-191",
+    "number": "191",
+    "name": "Oddish",
+    "nameJP": "ナゾノクサ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/191.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-192",
+    "number": "192",
+    "name": "Gloom",
+    "nameJP": "クサイハナ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/192.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-193",
+    "number": "193",
+    "name": "Vileplume",
+    "nameJP": "ラフレシア",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/193.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-194",
+    "number": "194",
+    "name": "Scyther",
+    "nameJP": "ストライク",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/194.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-195",
+    "number": "195",
+    "name": "Hoppip",
+    "nameJP": "ハネッコ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/195.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-196",
+    "number": "196",
+    "name": "Skiploom",
+    "nameJP": "ポポッコ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/196.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-197",
+    "number": "197",
+    "name": "Jumpluff",
+    "nameJP": "ワタッコ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/197.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-198",
+    "number": "198",
+    "name": "Pineco",
+    "nameJP": "クヌギダマ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/198.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-199",
+    "number": "199",
+    "name": "Snover",
+    "nameJP": "ユキカブリ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/199.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-200",
+    "number": "200",
+    "name": "Abomasnow",
+    "nameJP": "ユキノオー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/200.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-201",
+    "number": "201",
+    "name": "Sprigatito",
+    "nameJP": "ニャオハ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/201.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-202",
+    "number": "202",
+    "name": "Floragato",
+    "nameJP": "ニャローテ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/202.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-203",
+    "number": "203",
+    "name": "Smoliv",
+    "nameJP": "ミニーブ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/203.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-204",
+    "number": "204",
+    "name": "Dolliv",
+    "nameJP": "オリーニョ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/204.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-205",
+    "number": "205",
+    "name": "Arboliva",
+    "nameJP": "オリーヴァ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/205.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-206",
+    "number": "206",
+    "name": "Toedscool",
+    "nameJP": "ノノクラゲ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/206.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-207",
+    "number": "207",
+    "name": "Capsakid",
+    "nameJP": "カプサイジ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/207.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-208",
+    "number": "208",
+    "name": "Scovillain",
+    "nameJP": "スコヴィラン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/208.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-209",
+    "number": "209",
+    "name": "Rellor",
+    "nameJP": "シガロコ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/209.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-210",
+    "number": "210",
+    "name": "Charmander",
+    "nameJP": "ヒトカゲ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/210.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-211",
+    "number": "211",
+    "name": "Charmeleon",
+    "nameJP": "リザード",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/211.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-212",
+    "number": "212",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/212.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-213",
+    "number": "213",
+    "name": "Entei",
+    "nameJP": "エンテイ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/213.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-214",
+    "number": "214",
+    "name": "Oricorio",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/214.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-215",
+    "number": "215",
+    "name": "Fuecoco",
+    "nameJP": "ホゲータ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/215.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-216",
+    "number": "216",
+    "name": "Crocalor",
+    "nameJP": "アチゲータ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/216.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-217",
+    "number": "217",
+    "name": "Charcadet",
+    "nameJP": "カルボウ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/217.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-218",
+    "number": "218",
+    "name": "Armarouge",
+    "nameJP": "グレンアルマ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/218.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-219",
+    "number": "219",
+    "name": "Slowpoke",
+    "nameJP": "ヤドン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/219.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-220",
+    "number": "220",
+    "name": "Slowbro",
+    "nameJP": "ヤドラン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/220.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-221",
+    "number": "221",
+    "name": "Staryu",
+    "nameJP": "ヒトデマン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/221.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-222",
+    "number": "222",
+    "name": "Starmie",
+    "nameJP": "スターミー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/222.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-223",
+    "number": "223",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/223.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-224",
+    "number": "224",
+    "name": "Quaxly",
+    "nameJP": "クワッス",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/224.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-225",
+    "number": "225",
+    "name": "Quaxwell",
+    "nameJP": "ウェルカモ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/225.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-226",
+    "number": "226",
+    "name": "Wiglett",
+    "nameJP": "ウミディグダ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/226.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-227",
+    "number": "227",
+    "name": "Wugtrio",
+    "nameJP": "ウミトリオ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/227.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-228",
+    "number": "228",
+    "name": "Finizen",
+    "nameJP": "ナミイルカ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/228.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-229",
+    "number": "229",
+    "name": "Palafin",
+    "nameJP": "イルカマン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/229.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-230",
+    "number": "230",
+    "name": "Veluza",
+    "nameJP": "ミガルーサ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/230.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-231",
+    "number": "231",
+    "name": "Dondozo",
+    "nameJP": "ヘイラッシャ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/231.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-232",
+    "number": "232",
+    "name": "Tatsugiri",
+    "nameJP": "シャリタツ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/232.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-233",
+    "number": "233",
+    "name": "Frigibax",
+    "nameJP": "セビエ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/233.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-234",
+    "number": "234",
+    "name": "Arctibax",
+    "nameJP": "セゴール",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/234.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-235",
+    "number": "235",
+    "name": "Baxcalibur",
+    "nameJP": "セグレイブ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/235.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-236",
+    "number": "236",
+    "name": "Pikachu",
+    "nameJP": "ピカチュウ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/236.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-237",
+    "number": "237",
+    "name": "Raichu",
+    "nameJP": "ライチュウ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/237.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-238",
+    "number": "238",
+    "name": "Voltorb",
+    "nameJP": "ビリリダマ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/238.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-239",
+    "number": "239",
+    "name": "Electrode",
+    "nameJP": "マルマイン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/239.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-240",
+    "number": "240",
+    "name": "Shinx",
+    "nameJP": "コリンク",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/240.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-241",
+    "number": "241",
+    "name": "Luxio",
+    "nameJP": "ルクシオ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/241.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-242",
+    "number": "242",
+    "name": "Luxray",
+    "nameJP": "レントラー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/242.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-243",
+    "number": "243",
+    "name": "Pachirisu",
+    "nameJP": "パチリス",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/243.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-244",
+    "number": "244",
+    "name": "Thundurus",
+    "nameJP": "ボルトロス",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/244.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-245",
+    "number": "245",
+    "name": "Toxel",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/245.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-246",
+    "number": "246",
+    "name": "Toxtricity",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/246.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-247",
+    "number": "247",
+    "name": "Pawmi",
+    "nameJP": "パモ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/247.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-248",
+    "number": "248",
+    "name": "Pawmo",
+    "nameJP": "パモット",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/248.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-249",
+    "number": "249",
+    "name": "Pawmot",
+    "nameJP": "パーモット",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/249.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-250",
+    "number": "250",
+    "name": "Wattrel",
+    "nameJP": "カイデン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/250.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-251",
+    "number": "251",
+    "name": "Kilowattrel",
+    "nameJP": "タイカイデン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/251.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-252",
+    "number": "252",
+    "name": "Wigglytuff",
+    "nameJP": "プクリン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/252.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-253",
+    "number": "253",
+    "name": "Abra",
+    "nameJP": "ケーシィ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/253.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-254",
+    "number": "254",
+    "name": "Kadabra",
+    "nameJP": "ユンゲラー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/254.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-255",
+    "number": "255",
+    "name": "Cleffa",
+    "nameJP": "ピィ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/255.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-256",
+    "number": "256",
+    "name": "Natu",
+    "nameJP": "ネイティ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/256.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-257",
+    "number": "257",
+    "name": "Xatu",
+    "nameJP": "ネイティオ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/257.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-258",
+    "number": "258",
+    "name": "Ralts",
+    "nameJP": "ラルトス",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/258.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-259",
+    "number": "259",
+    "name": "Kirlia",
+    "nameJP": "キルリア",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/259.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-260",
+    "number": "260",
+    "name": "Drifloon",
+    "nameJP": "フワンテ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/260.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-261",
+    "number": "261",
+    "name": "Drifblim",
+    "nameJP": "フワライド",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/261.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-262",
+    "number": "262",
+    "name": "Mime Jr.",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/262.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-263",
+    "number": "263",
+    "name": "Spiritomb",
+    "nameJP": "ミカルゲ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/263.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-264",
+    "number": "264",
+    "name": "Klefki",
+    "nameJP": "クレッフィ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/264.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-265",
+    "number": "265",
+    "name": "Mimikyu",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/265.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-266",
+    "number": "266",
+    "name": "Fidough",
+    "nameJP": "パピモッチ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/266.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-267",
+    "number": "267",
+    "name": "Dachsbun",
+    "nameJP": "バウッツェル",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/267.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-268",
+    "number": "268",
+    "name": "Ceruledge",
+    "nameJP": "ソウブレイズ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/268.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-269",
+    "number": "269",
+    "name": "Rabsca",
+    "nameJP": "ベラカス",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/269.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-270",
+    "number": "270",
+    "name": "Flittle",
+    "nameJP": "ヒラヒナ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/270.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-271",
+    "number": "271",
+    "name": "Tinkatink",
+    "nameJP": "カヌチャン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/271.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-272",
+    "number": "272",
+    "name": "Tinkatuff",
+    "nameJP": "ナカヌチャン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/272.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-273",
+    "number": "273",
+    "name": "Tinkaton",
+    "nameJP": "デカヌチャン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/273.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-274",
+    "number": "274",
+    "name": "Greavard",
+    "nameJP": "ボチ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/274.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-275",
+    "number": "275",
+    "name": "Houndstone",
+    "nameJP": "ハカドッグ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/275.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-276",
+    "number": "276",
+    "name": "Mankey",
+    "nameJP": "マンキー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/276.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-277",
+    "number": "277",
+    "name": "Primeape",
+    "nameJP": "オコリザル",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/277.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-278",
+    "number": "278",
+    "name": "Annihilape",
+    "nameJP": "コノヨザル",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/278.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-279",
+    "number": "279",
+    "name": "Paldean Tauros",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/279.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-280",
+    "number": "280",
+    "name": "Riolu",
+    "nameJP": "リオル",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/280.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-281",
+    "number": "281",
+    "name": "Lucario",
+    "nameJP": "ルカリオ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/281.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-282",
+    "number": "282",
+    "name": "Hawlucha",
+    "nameJP": "ルチャブル",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/282.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-283",
+    "number": "283",
+    "name": "Nacli",
+    "nameJP": "コジオ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/283.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-284",
+    "number": "284",
+    "name": "Naclstack",
+    "nameJP": "ジオヅム",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/284.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-285",
+    "number": "285",
+    "name": "Garganacl",
+    "nameJP": "キョジオーン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/285.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-286",
+    "number": "286",
+    "name": "Glimmet",
+    "nameJP": "キラーメ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/286.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-287",
+    "number": "287",
+    "name": "Paldean Wooper",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/287.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-288",
+    "number": "288",
+    "name": "Murkrow",
+    "nameJP": "ヤミカラス",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/288.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-289",
+    "number": "289",
+    "name": "Sneasel",
+    "nameJP": "ニューラ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/289.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-290",
+    "number": "290",
+    "name": "Weavile",
+    "nameJP": "マニューラ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/290.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-291",
+    "number": "291",
+    "name": "Sableye",
+    "nameJP": "ヤミラミ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/291.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-292",
+    "number": "292",
+    "name": "Pawniard",
+    "nameJP": "コマタナ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/292.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-293",
+    "number": "293",
+    "name": "Bisharp",
+    "nameJP": "キリキザン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/293.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-294",
+    "number": "294",
+    "name": "Kingambit",
+    "nameJP": "ドドゲザン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/294.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-295",
+    "number": "295",
+    "name": "Maschiff",
+    "nameJP": "オラチフ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/295.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-296",
+    "number": "296",
+    "name": "Mabosstiff",
+    "nameJP": "マフィティフ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/296.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-297",
+    "number": "297",
+    "name": "Shroodle",
+    "nameJP": "シルシュルー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/297.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-298",
+    "number": "298",
+    "name": "Grafaiai",
+    "nameJP": "タギングル",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/298.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-299",
+    "number": "299",
+    "name": "Scizor",
+    "nameJP": "ハッサム",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/299.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-300",
+    "number": "300",
+    "name": "Varoom",
+    "nameJP": "ブロロン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/300.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-301",
+    "number": "301",
+    "name": "Revavroom",
+    "nameJP": "ブロロローム",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/301.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-302",
+    "number": "302",
+    "name": "Noibat",
+    "nameJP": "オンバット",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/302.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-303",
+    "number": "303",
+    "name": "Cyclizar",
+    "nameJP": "モトトカゲ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/303.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-304",
+    "number": "304",
+    "name": "Pidgey",
+    "nameJP": "ポッポ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/304.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-305",
+    "number": "305",
+    "name": "Pidgeotto",
+    "nameJP": "ピジョン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/305.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-306",
+    "number": "306",
+    "name": "Jigglypuff",
+    "nameJP": "プリン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/306.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-307",
+    "number": "307",
+    "name": "Doduo",
+    "nameJP": "ドードー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/307.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-308",
+    "number": "308",
+    "name": "Dodrio",
+    "nameJP": "ドードリオ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/308.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-309",
+    "number": "309",
+    "name": "Ditto",
+    "nameJP": "メタモン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/309.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-310",
+    "number": "310",
+    "name": "Snorlax",
+    "nameJP": "カビゴン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/310.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-311",
+    "number": "311",
+    "name": "Wingull",
+    "nameJP": "キャモメ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/311.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-312",
+    "number": "312",
+    "name": "Pelipper",
+    "nameJP": "ペリッパー",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/312.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-313",
+    "number": "313",
+    "name": "Skwovet",
+    "nameJP": "",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/313.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-314",
+    "number": "314",
+    "name": "Greedent",
+    "nameJP": "グリーデント",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/314.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-315",
+    "number": "315",
+    "name": "Lechonk",
+    "nameJP": "グルトン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/315.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-316",
+    "number": "316",
+    "name": "Oinkologne",
+    "nameJP": "パフュートン",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/316.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-317",
+    "number": "317",
+    "name": "Tandemaus",
+    "nameJP": "ワッカネズミ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/317.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-318",
+    "number": "318",
+    "name": "Maushold",
+    "nameJP": "イッカネズミ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/318.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-319",
+    "number": "319",
+    "name": "Flamigo",
+    "nameJP": "カラミンゴ",
+    "rarity": "Shiny",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/319.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-320",
+    "number": "320",
+    "name": "Forretress ex",
+    "nameJP": "フォレトスex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/320.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-321",
+    "number": "321",
+    "name": "Meowscarada ex",
+    "nameJP": "マスカーニャex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/321.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-322",
+    "number": "322",
+    "name": "Toedscruel ex",
+    "nameJP": "リククラゲex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/322.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-323",
+    "number": "323",
+    "name": "Espathra ex",
+    "nameJP": "クエスパトラex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/323.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-324",
+    "number": "324",
+    "name": "Skeledirge ex",
+    "nameJP": "ラウドボーンex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/324.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-325",
+    "number": "325",
+    "name": "Quaquaval ex",
+    "nameJP": "ウェーニバルex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/325.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-326",
+    "number": "326",
+    "name": "Alakazam ex",
+    "nameJP": "フーディンex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/326.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-327",
+    "number": "327",
+    "name": "Mew ex",
+    "nameJP": "ミュウex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/327.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-328",
+    "number": "328",
+    "name": "Gardevoir ex",
+    "nameJP": "サーナイトex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/328.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-329",
+    "number": "329",
+    "name": "Glimmora ex",
+    "nameJP": "キラフロルex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/329.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-330",
+    "number": "330",
+    "name": "Great Tusk ex",
+    "nameJP": "",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/330.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-331",
+    "number": "331",
+    "name": "Charizard ex",
+    "nameJP": "リザードンex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/331.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-332",
+    "number": "332",
+    "name": "Paldean Clodsire ex",
+    "nameJP": "",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/332.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-333",
+    "number": "333",
+    "name": "Iron Treads ex",
+    "nameJP": "",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/333.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-334",
+    "number": "334",
+    "name": "Noivern ex",
+    "nameJP": "オンバーンex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/334.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-335",
+    "number": "335",
+    "name": "Pidgeot ex",
+    "nameJP": "ピジョットex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/335.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-336",
+    "number": "336",
+    "name": "Wigglytuff ex",
+    "nameJP": "プクリンex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/336.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-337",
+    "number": "337",
+    "name": "Squawkabilly ex",
+    "nameJP": "イキリンコex",
+    "rarity": "Super Secret Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/337.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-338",
+    "number": "338",
+    "name": "Wugtrio",
+    "nameJP": "ウミトリオ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/338.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-339",
+    "number": "339",
+    "name": "Palafin",
+    "nameJP": "イルカマン",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/339.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-340",
+    "number": "340",
+    "name": "Pawmi",
+    "nameJP": "パモ",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/340.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-341",
+    "number": "341",
+    "name": "Mimikyu",
+    "nameJP": "",
+    "rarity": "Art Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/341.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-342",
+    "number": "342",
+    "name": "Judge",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/342.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-343",
+    "number": "343",
+    "name": "Nemona",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/343.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-344",
+    "number": "344",
+    "name": "Clive",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/344.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-345",
+    "number": "345",
+    "name": "Students of Paldea",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/345.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-346",
+    "number": "346",
+    "name": "Students of Paldea",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/346.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-347",
+    "number": "347",
+    "name": "Mew ex",
+    "nameJP": "ミュウex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/347.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-348",
+    "number": "348",
+    "name": "Gardevoir ex",
+    "nameJP": "サーナイトex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/348.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-349",
+    "number": "349",
+    "name": "Charizard ex",
+    "nameJP": "リザードンex",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/349.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-350",
+    "number": "350",
+    "name": "Iono",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/350.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-351",
+    "number": "351",
+    "name": "Nemona",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/351.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-352",
+    "number": "352",
+    "name": "Clive",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/352.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-353",
+    "number": "353",
+    "name": "Arven",
+    "nameJP": "",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/353.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-354",
+    "number": "354",
+    "name": "Penny",
+    "nameJP": "ペニー",
+    "rarity": "Super Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/354.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-355",
+    "number": "355",
+    "name": "Wo-Chien ex",
+    "nameJP": "チオンジェンex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/355.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-356",
+    "number": "356",
+    "name": "Chi-Yu ex",
+    "nameJP": "イーユイex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/356.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-357",
+    "number": "357",
+    "name": "Chien-Pao ex",
+    "nameJP": "パオジアンex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/357.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-358",
+    "number": "358",
+    "name": "Miraidon ex",
+    "nameJP": "ミライドンex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/358.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-359",
+    "number": "359",
+    "name": "Ting-Lu ex",
+    "nameJP": "ディンルーex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/359.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  },
+  {
+    "id": "sv4a-360",
+    "number": "360",
+    "name": "Koraidon ex",
+    "nameJP": "コライドンex",
+    "rarity": "Ultra Rare",
+    "types": [],
+    "image": "/sets/sv4a/img-cards/360.png",
+    "alt": [],
+    "set": {
+      "id": "sv4a",
+      "name": "Shiny Treasure ex",
+      "series": "Scarlet & Violet"
+    }
+  }
+]

@@ -1,0 +1,11 @@
+/* TEAM */
+Developer: Guillermo
+Site: https://dpullpoint.com
+
+/* TECHNOLOGY */
+Framework: Next.js
+Language: TypeScript
+Design: TailwindCSS + custom UI
+
+/* ABOUT */
+Made in Majadahonda · Pokémon TCG Japón
