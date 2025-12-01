@@ -62,7 +62,18 @@ export default function Header() {
           {!loading && !user && (
             <button
               onClick={() => router.push("/login")}
-              className="text-xs sm:text-sm px-3 py-1.5 rounded-full border border-amber-400/60 text-amber-200 hover:bg-amber-400/10 transition"
+              className="
+                text-xs sm:text-sm
+                px-4 py-2
+                rounded-xl
+                bg-amber-400/90
+                text-slate-900
+                font-semibold
+                shadow-sm
+                hover:bg-amber-300
+                transition-all
+                border border-white/10
+              "
             >
               Iniciar sesión
             </button>
