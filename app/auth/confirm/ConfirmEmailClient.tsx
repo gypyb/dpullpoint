@@ -11,25 +11,25 @@ export default function ConfirmEmailClient() {
   const searchParams = useSearchParams();
   const router = useRouter();
 
-  const token = searchParams.get("token");
-  const type = searchParams.get("type");   // normalmente "email"
-  const email = searchParams.get("email"); // NECESARIO
+  // ✔ Siempre cadenas válidas
+  const token = searchParams.get("token") ?? "";
+  const type = (searchParams.get("type") ?? "email") as "email";
+  const email = searchParams.get("email") ?? "";
 
   const [status, setStatus] = useState<Status>("loading");
 
   useEffect(() => {
     async function verify() {
-      // 🔍 Validaciones previas
+
+      // ❌ Si algo está vacío → no intentamos verificación
       if (!token || !type || !email) {
         setStatus("invalid");
         return;
       }
 
-      // Aquí TypeScript ya sabe que NO son null
-      const finalType = (type ?? "email") as "email";
-
+      // ✔ Verificación 100% correcta para Supabase
       const { error } = await supabase.auth.verifyOtp({
-        type: finalType,
+        type,
         token,
         email,
       });
@@ -42,7 +42,6 @@ export default function ConfirmEmailClient() {
 
       setStatus("success");
 
-      // ⏱ Redirección después de validar
       setTimeout(() => {
         router.push("/login");
       }, 2000);
@@ -51,28 +50,23 @@ export default function ConfirmEmailClient() {
     verify();
   }, [token, type, email, router]);
 
-  // UI según estado
-  if (status === "loading") {
+  if (status === "loading")
     return <p className="text-center mt-10">Verificando email...</p>;
-  }
 
-  if (status === "invalid") {
+  if (status === "invalid")
     return (
       <p className="text-center mt-10 text-red-400">
         Enlace inválido o incompleto.
       </p>
     );
-  }
 
-  if (status === "error") {
+  if (status === "error")
     return (
       <p className="text-center mt-10 text-red-400">
-        Hubo un error verificando tu email. Prueba de nuevo más tarde.
+        Hubo un error verificando tu email. Prueba más tarde.
       </p>
     );
-  }
 
-  // success
   return (
     <p className="text-center mt-10 text-green-400">
       Email verificado correctamente. Redirigiendo al login...
